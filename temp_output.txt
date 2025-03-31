@@ -1,0 +1,8227 @@
+------------------------
+Filename: 10.txt
+Title: The King James Bible
+Year: 2011
+Authors: Unknown
+------------------------
+Filename: 1001.txt
+Title: Divine Comedy, Longfellow's Translation, Hell
+Year: 1997
+Authors: Dante Alighieri
+------------------------
+Filename: 1005.txt
+Title: Hell
+Year: 2004
+Authors: Dante Alighieri
+------------------------
+Filename: 1006.txt
+Title: The Divine Comedy of Dante:  Purgatory
+Year: 2004
+Authors: Dante Alighieri
+------------------------
+Filename: 1007.txt
+Title: The Divine Comedy of Dante:  Paradise
+Year: 2004
+Authors: Dante Alighieri
+------------------------
+Filename: 101.txt
+Title: Hacker Crackdown
+Year: 1994
+Authors: Bruce Sterling
+------------------------
+Filename: 1013.txt
+Title: The First Men In The Moon
+Year: 2004
+Authors: H. G. Wells
+------------------------
+Filename: 1014.txt
+Title: The Lure of the Dim Trails
+Year: 1997
+Authors: B. M. Bower
+------------------------
+Filename: 1015.txt
+Title: The Oregon Trail
+Year: 2006
+Authors: Francis Parkman, Jr.
+------------------------
+Filename: 1016.txt
+Title: On the Improvement of the Understanding
+Year: 1997
+Authors: Baruch Spinoza
+------------------------
+Filename: 1019.txt
+Title: Poems
+Year: 1997
+Authors: Currer, Ellis;Acton Bell
+------------------------
+Filename: 102.txt
+Title: The Tragedy of Pudd'nhead Wilson
+Year: 1994
+Authors: Mark Twain
+------------------------
+Filename: 1020.txt
+Title: Sword Blades and Poppy Seed
+Year: 1997
+Authors: Amy Lowell
+------------------------
+Filename: 1021.txt
+Title: The Congo and Other Poems
+Year: 1997
+Authors: Vachel Lindsay
+------------------------
+Filename: 1023.txt
+Title: Bleak House
+Year: 1997
+Authors: Charles Dickens
+------------------------
+Filename: 1024.txt
+Title: The Wrecker
+Year: 2006
+Authors: Robert Louis Stevenson;Lloyd Osbourne
+------------------------
+Filename: 1027.txt
+Title: The Lone Star Ranger
+Year: 1997
+Authors: Zane Grey
+------------------------
+Filename: 1029.txt
+Title: The Night-Born
+Year: 1997
+Authors: Jack London
+------------------------
+Filename: 103.txt
+Title: Around the World in 80 Days
+Year: 2008
+Authors: Jules Verne
+------------------------
+Filename: 1032.txt
+Title: The Pupil
+Year: 2010
+Authors: Henry James
+------------------------
+Filename: 1033.txt
+Title: Rose O' the River
+Year: 2006
+Authors: Kate Douglas Wiggin
+------------------------
+Filename: 1034.txt
+Title: Poems
+Year: 1997
+Authors: Wilfred Owen
+------------------------
+Filename: 1035.txt
+Title: The Man Against the Sky
+Year: 2008
+Authors: Edwin Arlington Robinson
+------------------------
+Filename: 1036.txt
+Title: Joe Wilson and His Mates
+Year: 1997
+Authors: Henry Lawson
+------------------------
+Filename: 1037.txt
+Title: The Life of John Bunyan
+Year: 2005
+Authors: Edmund Venables
+------------------------
+Filename: 1039.txt
+Title: Missionary Travels and Researches in South Africa
+Year: 2006
+Authors: David Livingstone
+------------------------
+Filename: 104.txt
+Title: Franklin Delano Roosevelt's First Inaugural Address
+Year: 2008
+Authors: Franklin Delano Roosevelt
+------------------------
+Filename: 1040.txt
+Title: The Three Taverns
+Year: 1997
+Authors: Edwin Arlington Robinson
+------------------------
+Filename: 1041.txt
+Title: Shakespeare's Sonnets
+Year: 1997
+Authors: William Shakespeare
+------------------------
+Filename: 1043.txt
+Title: The Story of Evolution
+Year: 1997
+Authors: Joseph McCabe
+------------------------
+Filename: 1045.txt
+Title: Venus and Adonis
+Year: 1997
+Authors: William Shakespeare
+------------------------
+Filename: 1046.txt
+Title: God The Invisible King
+Year: 2006
+Authors: Herbert George Wells
+------------------------
+Filename: 1047.txt
+Title: The New Machiavelli
+Year: 1997
+Authors: Herbert George Wells
+------------------------
+Filename: 1048.txt
+Title: The Ruling Passion
+Year: 1997
+Authors: Henry van Dyke
+------------------------
+Filename: 1049.txt
+Title: Vanished Arizona
+Year: 1997
+Authors: Martha Summerhayes
+------------------------
+Filename: 105.txt
+Title: Persuasion
+Year: 2008
+Authors: Jane Austen
+------------------------
+Filename: 1050.txt
+Title: Dark Lady of the Sonnets
+Year: 2008
+Authors: George Bernard Shaw
+------------------------
+Filename: 1051.txt
+Title: Sartor Resartus
+Year: 1997
+Authors: Thomas Carlyle
+------------------------
+Filename: 1052.txt
+Title: Step by Step
+Year: 1997
+Authors: The American Tract Society
+------------------------
+Filename: 1053.txt
+Title: Within the Tides
+Year: 2011
+Authors: Joseph Conrad
+------------------------
+Filename: 1056.txt
+Title: Martin Eden
+Year: 2004
+Authors: Jack London
+------------------------
+Filename: 1059.txt
+Title: The World Set Free
+Year: 2006
+Authors: Herbert George Wells
+------------------------
+Filename: 106.txt
+Title: Jungle Tales of Tarzan
+Year: 2008
+Authors: Edgar Rice Burroughs
+------------------------
+Filename: 1061.txt
+Title: Myths and Myth-Makers
+Year: 1997
+Authors: John Fiske
+------------------------
+Filename: 1062.txt
+Title: First Gutenberg Collection of Edgar Allan Poe
+Year: 1997
+Authors: Edgar Allan Poe
+------------------------
+Filename: 1063.txt
+Title: The Cask of Amontillado
+Year: 2010
+Authors: Edgar Allan Poe
+------------------------
+Filename: 1064.txt
+Title: The Masque of the Red Death
+Year: 2010
+Authors: Edgar Allan Poe
+------------------------
+Filename: 1065.txt
+Title: The Raven
+Year: 2010
+Authors: Edgar Allan Poe
+------------------------
+Filename: 1067.txt
+Title: Personal Memoirs of U. S. Grant, Volume One
+Year: 2004
+Authors: Ulysses S. Grant
+------------------------
+Filename: 1068.txt
+Title: Personal Memoirs of U. S. Grant, Volume Two
+Year: 2004
+Authors: Ulysses S. Grant
+------------------------
+Filename: 1069.txt
+Title: Nana, The Miller's Daughter, Captain Burle, Death of Olivier Becaille
+Year: 2006
+Authors: Emile Zola
+------------------------
+Filename: 107.txt
+Title: Far from the Madding Crowd
+Year: 1994
+Authors: Thomas Hardy
+------------------------
+Filename: 1076.txt
+Title: The Wallet of Kai Lung
+Year: 1997
+Authors: Ernest Bramah
+------------------------
+Filename: 1077.txt
+Title: The Mirror of Kong Ho
+Year: 1997
+Authors: Ernest Bramah
+------------------------
+Filename: 1078.txt
+Title: The Scouts of the Valley
+Year: 1997
+Authors: Joseph A. Altsheler
+------------------------
+Filename: 1079.txt
+Title: The Life and Opinions of Tristram Shandy, Gentleman
+Year: 1997
+Authors: Laurence Sterne
+------------------------
+Filename: 108.txt
+Title: The Return of Sherlock Holmes
+Year: 2007
+Authors: Arthur Conan Doyle
+------------------------
+Filename: 1080.txt
+Title: A Modest Proposal
+Year: 1997
+Authors: Jonathan Swift
+------------------------
+Filename: 1083.txt
+Title: The Arrow of Gold
+Year: 2009
+Authors: Joseph Conrad
+------------------------
+Filename: 1085.txt
+Title: The Life of John Sterling
+Year: 1997
+Authors: Thomas Carlyle
+------------------------
+Filename: 1087.txt
+Title: Baartock
+Year: 1997
+Authors: Lewis Roth
+------------------------
+Filename: 1088.txt
+Title: Rolf In The Woods
+Year: 1997
+Authors: Ernest Thompson Seton
+------------------------
+Filename: 1089.txt
+Title: Moon-Face and Other Stories
+Year: 1997
+Authors: Jack London
+------------------------
+Filename: 109.txt
+Title: Renascence and Other Poems
+Year: 2008
+Authors: Edna St. Vincent Millay
+------------------------
+Filename: 1090.txt
+Title: The Bickerstaff-Partridge Papers
+Year: 1997
+Authors: Jonathan Swift
+------------------------
+Filename: 1091.txt
+Title: Heroes and Hero Worship
+Year: 1997
+Authors: Thomas Carlyle
+------------------------
+Filename: 1093.txt
+Title: The Beast in the Jungle
+Year: 2005
+Authors: Henry James
+------------------------
+Filename: 1097.txt
+Title: Mrs. Warren's Profession
+Year: 2006
+Authors: George Bernard Shaw
+------------------------
+Filename: 1098.txt
+Title: The Turmoil
+Year: 1997
+Authors: Booth Tarkington
+------------------------
+Filename: 1099.txt
+Title: The Riverman
+Year: 1997
+Authors: Stewart Edward White
+------------------------
+Filename: 11.txt
+Title: Alice's Adventures in Wonderland
+Year: 1994
+Authors: Lewis Carroll
+------------------------
+Filename: 110.txt
+Title: Tess of the d'Urbervilles
+Year: 1994
+Authors: Thomas Hardy
+------------------------
+Filename: 1103.txt
+Title: King Richard III
+Year: 1997
+Authors: William Shakespeare
+------------------------
+Filename: 111.txt
+Title: Freckles
+Year: 2006
+Authors: Gene Stratton-Porter
+------------------------
+Filename: 1112.txt
+Title: Romeo and Juliet
+Year: 1997
+Authors: William Shakespeare
+------------------------
+Filename: 1118.txt
+Title: Much Ado About Nothing
+Year: 1997
+Authors: William Shakespeare
+------------------------
+Filename: 112.txt
+Title: Violists
+Year: 1994
+Authors: Richard McGowan
+------------------------
+Filename: 1121.txt
+Title: As You Like It
+Year: 1997
+Authors: William Shakespeare
+------------------------
+Filename: 113.txt
+Title: The Secret Garden
+Year: 2008
+Authors: Frances Hodgson Burnett
+------------------------
+Filename: 1138.txt
+Title: The Research Magnificent
+Year: 1997
+Authors: H. G. Wells
+------------------------
+Filename: 1139.txt
+Title: Fisherman's Luck
+Year: 1997
+Authors: Henry van Dyke
+------------------------
+Filename: 114.txt
+Title: Tenniel Illustrations for Alice in Wonderland
+Year: 2008
+Authors: Sir John Tenniel
+------------------------
+Filename: 1140.txt
+Title: Latter-Day Pamphlets
+Year: 1997
+Authors: Thomas Carlyle
+------------------------
+Filename: 1142.txt
+Title: Typhoon
+Year: 2006
+Authors: Joseph Conrad
+------------------------
+Filename: 1143.txt
+Title: Notes on Life and Letters
+Year: 2005
+Authors: Joseph Conrad
+------------------------
+Filename: 1144.txt
+Title: In the Cage
+Year: 2005
+Authors: Henry James
+------------------------
+Filename: 1146.txt
+Title: Journal of A Voyage to Lisbon
+Year: 1997
+Authors: Henry Fielding
+------------------------
+Filename: 1147.txt
+Title: From This World to the Next
+Year: 2008
+Authors: Henry Fielding
+------------------------
+Filename: 1149.txt
+Title: From London to Land's End
+Year: 2007
+Authors: Daniel Defoe
+------------------------
+Filename: 115.txt
+Title: United States Census Figures back to 1630
+Year: 2008
+Authors: U.S. Census of Population and Housing
+------------------------
+Filename: 1150.txt
+Title: The Danish History, Books I-IX
+Year: 2006
+Authors: Saxo Grammaticus
+------------------------
+Filename: 1151.txt
+Title: The Nibelungenlied
+Year: 1997
+Authors: Unknown
+------------------------
+Filename: 1152.txt
+Title: The Story of the Volsungs, (Volsunga Saga)
+Year: 1997
+Authors: Unknown
+------------------------
+Filename: 1153.txt
+Title: The Chessmen of Mars
+Year: 1998
+Authors: Edgar Rice Burroughs
+------------------------
+Filename: 1157.txt
+Title: Damaged Goods
+Year: 1998
+Authors: Upton Sinclair
+------------------------
+Filename: 1158.txt
+Title: Penrod and Sam
+Year: 1998
+Authors: Booth Tarkington
+------------------------
+Filename: 1159.txt
+Title: Fire-Tongue
+Year: 1998
+Authors: Sax Rohmer
+------------------------
+Filename: 1160.txt
+Title: The Game
+Year: 2005
+Authors: Jack London
+------------------------
+Filename: 1161.txt
+Title: Jerry of the Islands
+Year: 2005
+Authors: Jack London
+------------------------
+Filename: 1162.txt
+Title: The Jacket (The Star-Rover)
+Year: 2005
+Authors: Jack London
+------------------------
+Filename: 1163.txt
+Title: Adventure
+Year: 2005
+Authors: Jack London
+------------------------
+Filename: 1164.txt
+Title: The Iron Heel
+Year: 2006
+Authors: Jack London
+------------------------
+Filename: 1167.txt
+Title: A Strange Disappearance
+Year: 1998
+Authors: Anna Katharine Green
+------------------------
+Filename: 1168.txt
+Title: The Pool in the Desert
+Year: 1998
+Authors: Sara Jeanette Duncan
+------------------------
+Filename: 1169.txt
+Title: Agesilaus
+Year: 1998
+Authors: Xenophon
+------------------------
+Filename: 117.txt
+Title: Beethoven's Fifth Symphony, in C-minor, Opus #67
+Year: 2012
+Authors: Ludwig van Beethoven
+------------------------
+Filename: 1170.txt
+Title: Anabasis
+Year: 1998
+Authors: Xenophon
+------------------------
+Filename: 1171.txt
+Title: The Apology
+Year: 1998
+Authors: Xenophon
+------------------------
+Filename: 1172.txt
+Title: The Cavalry General
+Year: 1998
+Authors: Xenophon
+------------------------
+Filename: 1173.txt
+Title: The Economist
+Year: 1998
+Authors: Xenophon
+------------------------
+Filename: 1174.txt
+Title: Hellenica
+Year: 1998
+Authors: Xenophon
+------------------------
+Filename: 1175.txt
+Title: Hiero
+Year: 1998
+Authors: Xenophon
+------------------------
+Filename: 1176.txt
+Title: On Horsemanship
+Year: 1998
+Authors: Xenophon
+------------------------
+Filename: 1177.txt
+Title: The Memorabilia
+Year: 1998
+Authors: Xenophon
+------------------------
+Filename: 1178.txt
+Title: The Polity of the Athenians and the Lacedaemonians
+Year: 1998
+Authors: Xenophon
+------------------------
+Filename: 1179.txt
+Title: On Revenues
+Year: 2008
+Authors: Xenophon
+------------------------
+Filename: 118.txt
+Title: Big Dummy's Guide to the Internet
+Year: 1994
+Authors: Electronic Frontier Foundation
+------------------------
+Filename: 1180.txt
+Title: The Sportsman
+Year: 1998
+Authors: Xenophon
+------------------------
+Filename: 1181.txt
+Title: The Symposium
+Year: 1998
+Authors: Xenophon
+------------------------
+Filename: 1182.txt
+Title: Dope
+Year: 1998
+Authors: Sax Rohmer
+------------------------
+Filename: 1183.txt
+Title: The Return of Dr. Fu-Manchu
+Year: 1998
+Authors: Sax Rohmer
+------------------------
+Filename: 1185.txt
+Title: History of the Conflict Between Religion and Science
+Year: 1998
+Authors: John William Draper
+------------------------
+Filename: 1186.txt
+Title: Poems
+Year: 2005
+Authors: Alice Meynell
+------------------------
+Filename: 1187.txt
+Title: War of the Classes
+Year: 2007
+Authors: Jack London
+------------------------
+Filename: 1188.txt
+Title: The Lair of the White Worm
+Year: 2005
+Authors: Bram Stoker
+------------------------
+Filename: 1189.txt
+Title: The Message
+Year: 1998
+Authors: Honore de Balzac
+------------------------
+Filename: 1190.txt
+Title: The Jolly Corner
+Year: 2005
+Authors: Henry James
+------------------------
+Filename: 1191.txt
+Title: The Double-Dealer
+Year: 2008
+Authors: William Congreve
+------------------------
+Filename: 1194.txt
+Title: The Adventures of Louis de Rougemont
+Year: 2007
+Authors: Louis de Rougemont
+------------------------
+Filename: 1195.txt
+Title: Glasses
+Year: 2005
+Authors: Henry James
+------------------------
+Filename: 1196.txt
+Title: The Purse
+Year: 1998
+Authors: Honore de Balzac
+------------------------
+Filename: 1197.txt
+Title: Taras Bulba and Other Tales
+Year: 1998
+Authors: Nikolai Vasilievich Gogol
+------------------------
+Filename: 1198.txt
+Title: Robbery Under Arms
+Year: 2008
+Authors: Thomas Alexander Browne
+------------------------
+Filename: 12.txt
+Title: Through the Looking-Glass
+Year: 1991
+Authors: Charles Dodgson
+------------------------
+Filename: 1200.txt
+Title: Gargantua and Pantagruel, Complete.
+Year: 2004
+Authors: Francois Rabelais
+------------------------
+Filename: 1202.txt
+Title: Tales of Unrest
+Year: 2006
+Authors: Joseph Conrad
+------------------------
+Filename: 1203.txt
+Title: Dolly Dialogues
+Year: 1998
+Authors: Anthony Hope
+------------------------
+Filename: 1204.txt
+Title: Cabin Fever
+Year: 1998
+Authors: B. M. Bower
+------------------------
+Filename: 1205.txt
+Title: The Colour of Life
+Year: 2005
+Authors: Alice Meynell
+------------------------
+Filename: 1206.txt
+Title: Flying U Ranch
+Year: 1998
+Authors: B. M. Bower
+------------------------
+Filename: 1207.txt
+Title: Nada the Lily
+Year: 2007
+Authors: H. Rider Haggard
+------------------------
+Filename: 1208.txt
+Title: South Sea Tales
+Year: 1998
+Authors: Jack London
+------------------------
+Filename: 1209.txt
+Title: History of the Conquest of Peru
+Year: 1998
+Authors: William Hickling Prescott
+------------------------
+Filename: 121.txt
+Title: Northanger Abbey
+Year: 1994
+Authors: Jane Austen
+------------------------
+Filename: 1210.txt
+Title: Kwaidan: Stories and Studies of Strange Things
+Year: 1998
+Authors: Lafcadio Hearn
+------------------------
+Filename: 1211.txt
+Title: A Selection From The Lyrical Poems Of Robert Herrick
+Year: 1998
+Authors: Robert Herrick
+------------------------
+Filename: 1212.txt
+Title: Love And Freindship And Other Early Works
+Year: 1998
+Authors: Jane Austen
+------------------------
+Filename: 1213.txt
+Title: The Man that Corrupted Hadleyburg
+Year: 2005
+Authors: Mark Twain
+------------------------
+Filename: 1214.txt
+Title: The Street of Seven Stars
+Year: 1998
+Authors: Mary Roberts Rinehart
+------------------------
+Filename: 1215.txt
+Title: The Elixir of Life
+Year: 1998
+Authors: Honore de Balzac
+------------------------
+Filename: 1216.txt
+Title: Decline of Science in England
+Year: 1998
+Authors: Charles Babbage
+------------------------
+Filename: 1217.txt
+Title: Penelope's Experiences in Scotland
+Year: 1998
+Authors: Kate Douglas Wiggin
+------------------------
+Filename: 1218.txt
+Title: The Adventures of Jimmie Dale
+Year: 2006
+Authors: Frank L. Packard
+------------------------
+Filename: 1219.txt
+Title: An Essay on Comedy
+Year: 2005
+Authors: George Meredith
+------------------------
+Filename: 122.txt
+Title: Return of the Native
+Year: 2006
+Authors: Thomas Hardy
+------------------------
+Filename: 1220.txt
+Title: The Atheist's Mass
+Year: 1998
+Authors: Honore de Balzac
+------------------------
+Filename: 1222.txt
+Title: Cobb's Anatomy
+Year: 1998
+Authors: Irvin S. Cobb
+------------------------
+Filename: 1223.txt
+Title: Ursula
+Year: 1997
+Authors: Honore de Balzac
+------------------------
+Filename: 1225.txt
+Title: Faraday As A Discoverer
+Year: 1998
+Authors: John Tyndall
+------------------------
+Filename: 1227.txt
+Title: The Expression of Emotion in Man and Animals
+Year: 1998
+Authors: Charles Darwin
+------------------------
+Filename: 1228.txt
+Title: On the Origin of Species
+Year: 1998
+Authors: Charles Darwin
+------------------------
+Filename: 123.txt
+Title: At the Earth's Core
+Year: 2008
+Authors: Edgar Rice Burroughs
+------------------------
+Filename: 1230.txt
+Title: Pierre Grassou
+Year: 1998
+Authors: Honore de Balzac
+------------------------
+Filename: 1231.txt
+Title: On the Track
+Year: 1998
+Authors: Henry Lawson
+------------------------
+Filename: 1232.txt
+Title: The Prince
+Year: 2006
+Authors: Nicolo Machiavelli
+------------------------
+Filename: 1235.txt
+Title: Captain Fracasse
+Year: 2006
+Authors: Theophile Gautier
+------------------------
+Filename: 1236.txt
+Title: First Across the Continent
+Year: 2006
+Authors: Noah Brooks
+------------------------
+Filename: 1237.txt
+Title: Father Goriot
+Year: 1998
+Authors: Honore de Balzac
+------------------------
+Filename: 1238.txt
+Title: The City of Dreadful Night
+Year: 1998
+Authors: James Thomson
+------------------------
+Filename: 1239.txt
+Title: The Spirit of the Border
+Year: 2004
+Authors: Zane Grey
+------------------------
+Filename: 124.txt
+Title: Deuterocanonical Books of the Bible
+Year: 2008
+Authors: Unknown
+------------------------
+Filename: 1240.txt
+Title: The Playboy of the Western World
+Year: 1998
+Authors: J. M. Synge
+------------------------
+Filename: 1241.txt
+Title: The Well of the Saints
+Year: 1998
+Authors: J. M. Synge
+------------------------
+Filename: 1242.txt
+Title: Unconscious Comedians
+Year: 1998
+Authors: Honore de Balzac
+------------------------
+Filename: 1243.txt
+Title: Hearts of Controversy
+Year: 2005
+Authors: Alice Meynell
+------------------------
+Filename: 1245.txt
+Title: Night and Day
+Year: 1998
+Authors: Virginia Woolf
+------------------------
+Filename: 1246.txt
+Title: The House of Dust
+Year: 1998
+Authors: Conrad Aiken
+------------------------
+Filename: 1247.txt
+Title: Second April
+Year: 1998
+Authors: Edna St. Vincent Millay
+------------------------
+Filename: 1248.txt
+Title: Last of the Great Scouts
+Year: 2006
+Authors: Helen Cody Wetmore
+------------------------
+Filename: 125.txt
+Title: A Girl Of The Limberlost
+Year: 2006
+Authors: Gene Stratton Porter
+------------------------
+Filename: 1250.txt
+Title: Anthem
+Year: 1998
+Authors: Ayn Rand
+------------------------
+Filename: 1251.txt
+Title: Le Morte D'Arthur, Volume I (of II)
+Year: 1998
+Authors: Thomas Malory
+------------------------
+Filename: 1252.txt
+Title: Le Morte D'Arthur, Volume II (of II)
+Year: 1998
+Authors: Thomas Malory
+------------------------
+Filename: 1253.txt
+Title: A Simple Soul
+Year: 2006
+Authors: Gustave Flaubert
+------------------------
+Filename: 1254.txt
+Title: Cyrano de Bergerac
+Year: 1998
+Authors: Edmond Rostand
+------------------------
+Filename: 1257.txt
+Title: The Three Musketeers
+Year: 1998
+Authors: Alexandre Dumas
+------------------------
+Filename: 1258.txt
+Title: Ten Years Later
+Year: 1998
+Authors: Alexandre Dumas
+------------------------
+Filename: 1259.txt
+Title: Twenty Years After
+Year: 2003
+Authors: Alexandre Dumas
+------------------------
+Filename: 126.txt
+Title: The Poison Belt
+Year: 2008
+Authors: Arthur Conan Doyle
+------------------------
+Filename: 1260.txt
+Title: Jane Eyre
+Year: 2007
+Authors: Charlotte Bronte
+------------------------
+Filename: 1261.txt
+Title: Betty Zane
+Year: 2004
+Authors: Zane Grey
+------------------------
+Filename: 1263.txt
+Title: The Glimpses of the Moon
+Year: 1998
+Authors: Edith Wharton
+------------------------
+Filename: 1264.txt
+Title: The Wheels of Chance
+Year: 1998
+Authors: H. G. Wells
+------------------------
+Filename: 1265.txt
+Title: Queen Victoria
+Year: 2006
+Authors: Lytton Strachey
+------------------------
+Filename: 1266.txt
+Title: Lavender and Old Lace
+Year: 1998
+Authors: Myrtle Reed
+------------------------
+Filename: 1267.txt
+Title: Kai Lung's Golden Hours
+Year: 1998
+Authors: Ernest Bramah
+------------------------
+Filename: 1268.txt
+Title: The Mysterious Island
+Year: 1998
+Authors: Jules Verne
+------------------------
+Filename: 1269.txt
+Title: Soul of a Bishop
+Year: 2006
+Authors: H. G. Wells
+------------------------
+Filename: 127.txt
+Title: Number "e" (Natural Log) to Approximately 1 Million Places
+Year: 2008
+Authors: Robert Nemiroff
+------------------------
+Filename: 1270.txt
+Title: In Defense of Women
+Year: 1998
+Authors: H. L. Mencken
+------------------------
+Filename: 1271.txt
+Title: Bygone Beliefs
+Year: 2008
+Authors: H. Stanley Redgrove
+------------------------
+Filename: 1273.txt
+Title: The Autobiography of a Slander
+Year: 2007
+Authors: Edna Lyall
+------------------------
+Filename: 1274.txt
+Title: Martin Hyde, The Duke's Messenger
+Year: 1998
+Authors: John Masefield
+------------------------
+Filename: 1276.txt
+Title: The Rhythm of Life
+Year: 2005
+Authors: Alice Meynell
+------------------------
+Filename: 1277.txt
+Title: Melmoth Reconciled
+Year: 1998
+Authors: Honore de Balzac
+------------------------
+Filename: 1278.txt
+Title: Penelope's English Experiences
+Year: 1998
+Authors: Kate Douglas Wiggin
+------------------------
+Filename: 1279.txt
+Title: Poems And Songs Of Robert Burns
+Year: 2005
+Authors: Robert Burns
+------------------------
+Filename: 128.txt
+Title: The Arabian Nights Entertainments
+Year: 2008
+Authors: Andrew Lang.
+------------------------
+Filename: 1281.txt
+Title: Tom Swift and his Aerial Warship
+Year: 1998
+Authors: Victor Appleton
+------------------------
+Filename: 1282.txt
+Title: Tom Swift Among The Diamond Makers
+Year: 1998
+Authors: Victor Appleton
+------------------------
+Filename: 1283.txt
+Title: Tom Swift and his Wizard Camera
+Year: 1998
+Authors: Victor Appleton
+------------------------
+Filename: 1284.txt
+Title: Tom Swift and his Air Scout
+Year: 1998
+Authors: Victor Appleton
+------------------------
+Filename: 1285.txt
+Title: The Water Goats and Other Troubles
+Year: 1998
+Authors: Ellis Parker Butler
+------------------------
+Filename: 1288.txt
+Title: Dream Days
+Year: 1998
+Authors: Kenneth Grahame
+------------------------
+Filename: 129.txt
+Title: The Square Root of Two, to 5 Million Digits
+Year: 2008
+Authors: Robert Nemiroff
+------------------------
+Filename: 1291.txt
+Title: Herodias
+Year: 2006
+Authors: Gustave Flaubert
+------------------------
+Filename: 1294.txt
+Title: The Firm of Nucingen
+Year: 1998
+Authors: Honore de Balzac
+------------------------
+Filename: 1295.txt
+Title: Ceres' Runaway
+Year: 2005
+Authors: Alice Meynell
+------------------------
+Filename: 1296.txt
+Title: The Provost
+Year: 2007
+Authors: John Galt
+------------------------
+Filename: 1297.txt
+Title: The Iron Puddler
+Year: 1998
+Authors: James J. Davis
+------------------------
+Filename: 1298.txt
+Title: The Virginian
+Year: 1998
+Authors: Owen Wister
+------------------------
+Filename: 1299.txt
+Title: The Heritage of the Sioux
+Year: 1998
+Authors: B.M. Bower
+------------------------
+Filename: 13.txt
+Title: The Hunting of the Snark
+Year: 1992
+Authors: Lewis Carroll
+------------------------
+Filename: 130.txt
+Title: Orthodoxy
+Year: 1994
+Authors: G. K. Chesterton
+------------------------
+Filename: 1300.txt
+Title: Riders of the Purple Sage
+Year: 2000
+Authors: Zane Grey
+------------------------
+Filename: 1302.txt
+Title: Enemies of Books
+Year: 1998
+Authors: William Blades
+------------------------
+Filename: 1303.txt
+Title: The Scapegoat
+Year: 2006
+Authors: Hall Caine
+------------------------
+Filename: 1305.txt
+Title: The Ball at Sceaux
+Year: 1998
+Authors: Honore de Balzac
+------------------------
+Filename: 1306.txt
+Title: Seven Men
+Year: 1998
+Authors: Max Beerbohm
+------------------------
+Filename: 1307.txt
+Title: The Magic Skin
+Year: 1998
+Authors: Honore de Balzac
+------------------------
+Filename: 1309.txt
+Title: The Spirit of Place
+Year: 2005
+Authors: Alice Meynell
+------------------------
+Filename: 131.txt
+Title: The Pilgrim's Progress
+Year: 2008
+Authors: John Bunyan
+------------------------
+Filename: 1311.txt
+Title: If
+Year: 1998
+Authors: Lord Dunsany
+------------------------
+Filename: 1312.txt
+Title: Selected Stories
+Year: 2006
+Authors: Bret Harte
+------------------------
+Filename: 1313.txt
+Title: Over the Sliprails
+Year: 1998
+Authors: Henry Lawson
+------------------------
+Filename: 1314.txt
+Title: The Malefactor
+Year: 1998
+Authors: E. Phillips Oppenheim
+------------------------
+Filename: 1315.txt
+Title: Autobiography and Selected Essays
+Year: 2006
+Authors: Thomas Henry Huxley
+------------------------
+Filename: 1316.txt
+Title: Some Reminiscences
+Year: 2006
+Authors: Joseph Conrad
+------------------------
+Filename: 1317.txt
+Title: Saltbush Bill, J.P., and Other Verses
+Year: 1998
+Authors: A. B. Paterson
+------------------------
+Filename: 1318.txt
+Title: The Twin Hells
+Year: 1997
+Authors: John N. Reynolds
+------------------------
+Filename: 132.txt
+Title: The Art of War
+Year: 1994
+Authors: Sun Tzu
+------------------------
+Filename: 1322.txt
+Title: Leaves of Grass
+Year: 1998
+Authors: Walt Whitman
+------------------------
+Filename: 1323.txt
+Title: The Conquest Of Peru
+Year: 1998
+Authors: William H. Prescott
+------------------------
+Filename: 1326.txt
+Title: The Crisis in Russia
+Year: 1998
+Authors: Arthur Ransome
+------------------------
+Filename: 1327.txt
+Title: Elizabeth and her German Garden
+Year: 1998
+Authors: Elizabeth
+------------------------
+Filename: 133.txt
+Title: The Damnation of Theron Ware
+Year: 2006
+Authors: Harold Frederic
+------------------------
+Filename: 1330.txt
+Title: The Story of Little Black Sambo, and The Story of Little Black Mingo
+Year: 1998
+Authors: Helen Bannerman
+------------------------
+Filename: 1332.txt
+Title: Peter Pan in Kensington Gardens
+Year: 1998
+Authors: J. M. Barrie
+------------------------
+Filename: 1333.txt
+Title: Robert F. Murray
+Year: 2007
+Authors: Robert F. Murray
+------------------------
+Filename: 1334.txt
+Title: Paul Kelver
+Year: 1998
+Authors: Jerome Klapka
+------------------------
+Filename: 1335.txt
+Title: The Ancien Regime
+Year: 2005
+Authors: Charles Kingsley
+------------------------
+Filename: 1336.txt
+Title: Shelley
+Year: 2005
+Authors: Francis Thompson
+------------------------
+Filename: 1337.txt
+Title: Shelley
+Year: 1998
+Authors: Sydney Waterlow
+------------------------
+Filename: 1338.txt
+Title: Selected Prose of Oscar Wilde
+Year: 2005
+Authors: Oscar Wilde
+------------------------
+Filename: 134.txt
+Title: Maria
+Year: 2006
+Authors: Mary Wollstonecraft
+------------------------
+Filename: 1341.txt
+Title: The Altruist in Politics
+Year: 1998
+Authors: Benjamin Cardozo
+------------------------
+Filename: 1342.txt
+Title: Pride and Prejudice
+Year: 1998
+Authors: Jane Austen
+------------------------
+Filename: 1343.txt
+Title: Bureaucracy
+Year: 1998
+Authors: Honore de Balzac
+------------------------
+Filename: 1344.txt
+Title: The Secrets of the Princesse de Cadignan
+Year: 1997
+Authors: Honore de Balzac
+------------------------
+Filename: 1345.txt
+Title: The Vicar of Tours
+Year: 1998
+Authors: Honore de Balzac
+------------------------
+Filename: 1346.txt
+Title: The Eighteenth Brumaire of Louis Bonaparte
+Year: 2006
+Authors: Karl Marx
+------------------------
+Filename: 1347.txt
+Title: A New Philosophy: Henri Bergson
+Year: 1998
+Authors: Edouard le Roy
+------------------------
+Filename: 1348.txt
+Title: A Master's Degree
+Year: 1998
+Authors: Margaret Hill McCarter
+------------------------
+Filename: 1349.txt
+Title: Russia
+Year: 2006
+Authors: Donald Mackenzie Wallace
+------------------------
+Filename: 1350.txt
+Title: The Country Doctor
+Year: 1998
+Authors: Honore de Balzac
+------------------------
+Filename: 1352.txt
+Title: An Old Maid
+Year: 1998
+Authors: Honore de Balzac
+------------------------
+Filename: 1353.txt
+Title: Off on a Comet
+Year: 1998
+Authors: Jules Verne
+------------------------
+Filename: 1354.txt
+Title: Chronicles of Avonlea
+Year: 1998
+Authors: Lucy Maud Montgomery
+------------------------
+Filename: 1355.txt
+Title: The Underground City
+Year: 1998
+Authors: Jules Verne
+------------------------
+Filename: 1356.txt
+Title: The Cruise of the Cachalot
+Year: 1998
+Authors: Frank T. Bullen
+------------------------
+Filename: 1357.txt
+Title: Madame Firmiani
+Year: 1998
+Authors: Honore de Balzac
+------------------------
+Filename: 1358.txt
+Title: Enoch Arden, &c.
+Year: 1998
+Authors: Alfred Tennyson
+------------------------
+Filename: 136.txt
+Title: A Child's Garden of Verses
+Year: 2008
+Authors: Robert Louis Stevenson
+------------------------
+Filename: 1360.txt
+Title: Historical Lectures and Essays
+Year: 2005
+Authors: Charles Kingsley
+------------------------
+Filename: 1361.txt
+Title: Tom Swift and his Giant Cannon
+Year: 1998
+Authors: Victor Appleton
+------------------------
+Filename: 1362.txt
+Title: Tom Swift and his Undersea Search
+Year: 1998
+Authors: Victor Appleton
+------------------------
+Filename: 1363.txt
+Title: Tom Swift among the Fire Fighters
+Year: 1998
+Authors: Victor Appleton
+------------------------
+Filename: 1364.txt
+Title: Tom Swift and his Electric Locomotive
+Year: 1998
+Authors: Victor Appleton
+------------------------
+Filename: 1365.txt
+Title: The Complete Poetical Works of Henry Wadsworth Longfellow
+Year: 2004
+Authors: Henry Wadsworth Longfellow
+------------------------
+Filename: 1366.txt
+Title: The Cloister and the Hearth
+Year: 2006
+Authors: Charles Reade
+------------------------
+Filename: 1367.txt
+Title: Findelkind
+Year: 1998
+Authors: Louise de la Ramee
+------------------------
+Filename: 1368.txt
+Title: When the World Shook
+Year: 1998
+Authors: H. Rider Haggard
+------------------------
+Filename: 1369.txt
+Title: Paz
+Year: 1998
+Authors: Honore de Balzac
+------------------------
+Filename: 137.txt
+Title: Sara Crewe
+Year: 2006
+Authors: Frances Hodgson Burnett
+------------------------
+Filename: 1371.txt
+Title: Astoria
+Year: 2006
+Authors: Washington Irving
+------------------------
+Filename: 1372.txt
+Title: The Adventures of Captain Bonneville
+Year: 2006
+Authors: Washington Irving
+------------------------
+Filename: 1373.txt
+Title: Study of a Woman
+Year: 1997
+Authors: Honore de Balzac
+------------------------
+Filename: 1374.txt
+Title: Vendetta
+Year: 1997
+Authors: Honore de Balzac
+------------------------
+Filename: 1375.txt
+Title: New Chronicles of Rebecca
+Year: 1998
+Authors: Kate Douglas Wiggin
+------------------------
+Filename: 1376.txt
+Title: The Little White Bird
+Year: 1998
+Authors: J. M. Barrie
+------------------------
+Filename: 1377.txt
+Title: The Talisman
+Year: 1998
+Authors: Sir Walter Scott
+------------------------
+Filename: 1378.txt
+Title: The Land of Footprints
+Year: 1998
+Authors: Stewart Edward White
+------------------------
+Filename: 1379.txt
+Title: A Straight Deal
+Year: 1998
+Authors: Owen Wister
+------------------------
+Filename: 138.txt
+Title: George Sand, Some Aspects of Her Life and Writings
+Year: 2006
+Authors: Rene Doumic
+------------------------
+Filename: 1380.txt
+Title: The Two Brothers
+Year: 1997
+Authors: Honore de Balzac
+------------------------
+Filename: 1384.txt
+Title: The Ayrshire Legatees
+Year: 2008
+Authors: John Galt
+------------------------
+Filename: 1385.txt
+Title: Lin McLean
+Year: 1998
+Authors: Owen Wister
+------------------------
+Filename: 1386.txt
+Title: Lady Baltimore
+Year: 1998
+Authors: Owen Wister
+------------------------
+Filename: 1387.txt
+Title: Mother
+Year: 1998
+Authors: Owen Wister
+------------------------
+Filename: 1388.txt
+Title: Padre Ignacio
+Year: 1998
+Authors: Owen Wister
+------------------------
+Filename: 1389.txt
+Title: Gobseck
+Year: 1997
+Authors: Honore de Balzac
+------------------------
+Filename: 139.txt
+Title: The Lost World
+Year: 2008
+Authors: Arthur Conan Doyle
+------------------------
+Filename: 1390.txt
+Title: The Jimmyjohn Boss and Other Stories
+Year: 1998
+Authors: Owen Wister
+------------------------
+Filename: 1391.txt
+Title: Penelope's Irish Experiences
+Year: 1998
+Authors: Kate Douglas Wiggin
+------------------------
+Filename: 1392.txt
+Title: The Seven Poor Travellers
+Year: 2005
+Authors: Charles Dickens
+------------------------
+Filename: 1393.txt
+Title: Amours de Voyage
+Year: 1998
+Authors: Arthur Hugh Clough
+------------------------
+Filename: 1394.txt
+Title: The Holly-Tree
+Year: 2005
+Authors: Charles Dickens
+------------------------
+Filename: 1395.txt
+Title: Letters on Literature
+Year: 2005
+Authors: Andrew Lang
+------------------------
+Filename: 1396.txt
+Title: Rienzi
+Year: 2006
+Authors: Edward Bulwer Lytton
+------------------------
+Filename: 1397.txt
+Title: The Ruins
+Year: 2006
+Authors: C. F. Volney
+------------------------
+Filename: 1399.txt
+Title: Anna Karenina
+Year: 1998
+Authors: Leo Tolstoy
+------------------------
+Filename: 14.txt
+Title: The 1990 CIA World Factbook
+Year: 0
+Authors: United States.  Central Intelligence Agency
+------------------------
+Filename: 140.txt
+Title: The Jungle
+Year: 2006
+Authors: Upton Sinclair
+------------------------
+Filename: 1400.txt
+Title: Great Expectations
+Year: 1998
+Authors: Charles Dickens
+------------------------
+Filename: 1401.txt
+Title: Tarzan the Untamed
+Year: 1998
+Authors: Edgar Rice Burroughs
+------------------------
+Filename: 1402.txt
+Title: Where the Blue Begins
+Year: 1998
+Authors: Christopher Morley
+------------------------
+Filename: 1403.txt
+Title: A Start in Life
+Year: 1997
+Authors: Honore de Balzac
+------------------------
+Filename: 1404.txt
+Title: The Federalist Papers
+Year: 1998
+Authors: Alexander Hamilton;John Jay;James Madison
+------------------------
+Filename: 1405.txt
+Title: The Collection of Antiquities
+Year: 1998
+Authors: Honore de Balzac
+------------------------
+Filename: 1406.txt
+Title: The Perils of Certain English Prisoners
+Year: 2005
+Authors: Charles Dickens
+------------------------
+Filename: 1407.txt
+Title: A Message from the Sea
+Year: 2005
+Authors: Charles Dickens
+------------------------
+Filename: 1409.txt
+Title: The Soul of the Far East
+Year: 1998
+Authors: Percival Lowell
+------------------------
+Filename: 1410.txt
+Title: The Commission in Lunacy
+Year: 1998
+Authors: Honore de Balzac
+------------------------
+Filename: 1411.txt
+Title: Domestic Peace
+Year: 1998
+Authors: Honore de Balzac
+------------------------
+Filename: 1413.txt
+Title: Tom Tiddler's Ground
+Year: 2005
+Authors: Charles Dickens
+------------------------
+Filename: 1414.txt
+Title: Somebody's Luggage
+Year: 2005
+Authors: Charles Dickens
+------------------------
+Filename: 1415.txt
+Title: Doctor Marigold
+Year: 2005
+Authors: Charles Dickens
+------------------------
+Filename: 1416.txt
+Title: Mrs. Lirriper's Lodgings
+Year: 2005
+Authors: Charles Dickens
+------------------------
+Filename: 1417.txt
+Title: Sons of the Soil
+Year: 1998
+Authors: Honore de Balzac
+------------------------
+Filename: 1418.txt
+Title: Country Sentiment
+Year: 1998
+Authors: Robert Graves
+------------------------
+Filename: 1419.txt
+Title: Mugby Junction
+Year: 2005
+Authors: Charles Dickens
+------------------------
+Filename: 1420.txt
+Title: London's Underworld
+Year: 1998
+Authors: Thomas Holmes
+------------------------
+Filename: 1421.txt
+Title: Mrs. Lirriper's Legacy
+Year: 2005
+Authors: Charles Dickens
+------------------------
+Filename: 1422.txt
+Title: Going into Society
+Year: 2005
+Authors: Charles Dickens
+------------------------
+Filename: 1423.txt
+Title: No Thoroughfare
+Year: 2005
+Authors: Charles Dickens;Wilkie Collins
+------------------------
+Filename: 1424.txt
+Title: Castle Rackrent
+Year: 2006
+Authors: Maria Edgeworth
+------------------------
+Filename: 1425.txt
+Title: El Verdugo
+Year: 1998
+Authors: Honore de Balzac
+------------------------
+Filename: 1426.txt
+Title: The Recruit
+Year: 1998
+Authors: Honore de Balzac
+------------------------
+Filename: 1427.txt
+Title: A Drama on the Seashore
+Year: 1998
+Authors: Honore de Balzac
+------------------------
+Filename: 1428.txt
+Title: La Grenadiere
+Year: 1998
+Authors: Honore de Balzac
+------------------------
+Filename: 1429.txt
+Title: The Garden Party
+Year: 1998
+Authors: Katherine Mansfield
+------------------------
+Filename: 143.txt
+Title: The Mayor of Casterbridge
+Year: 2007
+Authors: Thomas Hardy
+------------------------
+Filename: 1430.txt
+Title: Beautiful Stories from Shakespeare
+Year: 1998
+Authors: E. Nesbit
+------------------------
+Filename: 1431.txt
+Title: Trooper Peter Halket of Mashonaland
+Year: 1998
+Authors: Olive Schreiner
+------------------------
+Filename: 1432.txt
+Title: Seraphita
+Year: 1998
+Authors: Honore de Balzac
+------------------------
+Filename: 1433.txt
+Title: The Red Inn
+Year: 1998
+Authors: Honore de Balzac
+------------------------
+Filename: 1434.txt
+Title: Essays
+Year: 2005
+Authors: Alice Meynell
+------------------------
+Filename: 1436.txt
+Title: A Voyage to Abyssinia
+Year: 2007
+Authors: Jerome Lobo
+------------------------
+Filename: 1437.txt
+Title: Juana
+Year: 1998
+Authors: Honore de Balzac
+------------------------
+Filename: 1439.txt
+Title: Dreams
+Year: 1998
+Authors: Olive Schreiner
+------------------------
+Filename: 144.txt
+Title: The Voyage Out
+Year: 2006
+Authors: Virginia Woolf
+------------------------
+Filename: 1440.txt
+Title: Woman and Labour
+Year: 1998
+Authors: Olive Schreiner
+------------------------
+Filename: 1441.txt
+Title: The Story of an African Farm
+Year: 1998
+Authors: Olive Schreiner
+------------------------
+Filename: 1442.txt
+Title: The Kingdom of the Blind
+Year: 1998
+Authors: E. Phillips Oppenheim
+------------------------
+Filename: 1443.txt
+Title: Two Poets
+Year: 1998
+Authors: Honore de Balzac
+------------------------
+Filename: 1444.txt
+Title: The Voice of the City
+Year: 1998
+Authors: O. Henry
+------------------------
+Filename: 1446.txt
+Title: Perfect Behavior
+Year: 1998
+Authors: Donald Ogden Stewart
+------------------------
+Filename: 1447.txt
+Title: The Illustrious Prince
+Year: 1998
+Authors: E. Phillips Oppenheim
+------------------------
+Filename: 1448.txt
+Title: Heidi
+Year: 1998
+Authors: Johanna Spyri
+------------------------
+Filename: 1449.txt
+Title: The Valley of the Moon
+Year: 1998
+Authors: Jack London
+------------------------
+Filename: 145.txt
+Title: Middlemarch
+Year: 2008
+Authors: George Eliot
+------------------------
+Filename: 1450.txt
+Title: Pollyanna
+Year: 1998
+Authors: Eleanor H. Porter
+------------------------
+Filename: 1453.txt
+Title: The Alkahest
+Year: 1998
+Authors: Honore de Balzac
+------------------------
+Filename: 1454.txt
+Title: Maitre Cornelius
+Year: 1998
+Authors: Honore de Balzac
+------------------------
+Filename: 1455.txt
+Title: The Hated Son
+Year: 1998
+Authors: Honore de Balzac
+------------------------
+Filename: 1456.txt
+Title: An Episode Under the Terror
+Year: 1998
+Authors: Honore de Balzac
+------------------------
+Filename: 1457.txt
+Title: Mistress Wilding
+Year: 1998
+Authors: Rafael Sabatini
+------------------------
+Filename: 1458.txt
+Title: Dream Life and Real Life
+Year: 1998
+Authors: Olive Schreiner
+------------------------
+Filename: 1459.txt
+Title: Prufrock and Other Observations
+Year: 1998
+Authors: T. S. Eliot
+------------------------
+Filename: 146.txt
+Title: A Little Princess
+Year: 2008
+Authors: Frances Hodgson Burnett
+------------------------
+Filename: 1460.txt
+Title: The Black Dwarf
+Year: 2006
+Authors: Sir Walter Scott
+------------------------
+Filename: 1461.txt
+Title: A Legend of Montrose
+Year: 2006
+Authors: Sir Walter Scott
+------------------------
+Filename: 1463.txt
+Title: The Private Papers of Henry Ryecroft
+Year: 2005
+Authors: George Gissing
+------------------------
+Filename: 1465.txt
+Title: The Wreck of the Golden Mary
+Year: 2005
+Authors: Charles Dickens
+------------------------
+Filename: 1468.txt
+Title: The History of England from the Accession of James II.
+Year: 1998
+Authors: Thomas Babington Macaulay
+------------------------
+Filename: 1471.txt
+Title: New Poems
+Year: 1998
+Authors: Francis Thompson
+------------------------
+Filename: 1472.txt
+Title: In a German Pension
+Year: 1998
+Authors: Katherine Mansfield
+------------------------
+Filename: 1473.txt
+Title: The Absentee
+Year: 2006
+Authors: Maria Edgeworth
+------------------------
+Filename: 1474.txt
+Title: The Illustrious Gaudissart
+Year: 1998
+Authors: Honore de Balzac
+------------------------
+Filename: 1475.txt
+Title: Gaudissart II
+Year: 1998
+Authors: Honore de Balzac
+------------------------
+Filename: 1476.txt
+Title: Chance
+Year: 2005
+Authors: Joseph Conrad
+------------------------
+Filename: 1477.txt
+Title: The Toys of Peace
+Year: 2005
+Authors: Saki
+------------------------
+Filename: 1478.txt
+Title: A Parody Outline of History
+Year: 1998
+Authors: Donald Ogden Stewart
+------------------------
+Filename: 148.txt
+Title: The Autobiography of Benjamin Franklin
+Year: 2008
+Authors: Benjamin Franklin
+------------------------
+Filename: 1480.txt
+Title: Tom Brown's Schooldays
+Year: 2006
+Authors: Thomas Hughes
+------------------------
+Filename: 1481.txt
+Title: A Daughter of Eve
+Year: 1998
+Authors: Honore de Balzac
+------------------------
+Filename: 1482.txt
+Title: Modeste Mignon
+Year: 1998
+Authors: Honore de Balzac
+------------------------
+Filename: 1484.txt
+Title: The Four Horsemen of the Apocalypse
+Year: 2006
+Authors: Vicente Blasco Ibanez
+------------------------
+Filename: 1486.txt
+Title: The Unseen World and Other Essays
+Year: 1998
+Authors: John Fiske
+------------------------
+Filename: 1487.txt
+Title: The Perfect Wagnerite
+Year: 1998
+Authors: George Bernard Shaw
+------------------------
+Filename: 1488.txt
+Title: The True Story of Christopher Columbus
+Year: 2006
+Authors: Elbridge S. Brooks
+------------------------
+Filename: 149.txt
+Title: The Lost Continent
+Year: 2008
+Authors: Edgar Rice Burroughs
+------------------------
+Filename: 1492.txt
+Title: The Life of Christopher Columbus from his own Letters and Journals
+Year: 2006
+Authors: Edward Everett Hale
+------------------------
+Filename: 1493.txt
+Title: The Legends of the Jews Volume 1
+Year: 1998
+Authors: Louis Ginzberg
+------------------------
+Filename: 1495.txt
+Title: The Golf Course Mystery
+Year: 1998
+Authors: Chester K. Steele
+------------------------
+Filename: 1496.txt
+Title: Massacre at Paris
+Year: 1998
+Authors: Christopher Marlowe
+------------------------
+Filename: 1497.txt
+Title: The Republic
+Year: 1998
+Authors: Plato
+------------------------
+Filename: 1498.txt
+Title: Beacon Lights of History, Volume III, Part 1
+Year: 1998
+Authors: John Lord
+------------------------
+Filename: 1499.txt
+Title: Beacon Lights of History, Volume 3, Part 2
+Year: 1998
+Authors: John Lord
+------------------------
+Filename: 15.txt
+Title: Moby Dick
+Year: 1991
+Authors: Herman Melville
+------------------------
+Filename: 150.txt
+Title: Plato's Republic
+Year: 2008
+Authors: Plato
+------------------------
+Filename: 151.txt
+Title: The Rime of the Ancient Mariner
+Year: 2006
+Authors: Samuel Taylor Coleridge
+------------------------
+Filename: 1517.txt
+Title: The Merry Wives of Windsor
+Year: 1998
+Authors: William Shakespeare
+------------------------
+Filename: 152.txt
+Title: Wild Justice
+Year: 1994
+Authors: Ruth M. Sprague
+------------------------
+Filename: 153.txt
+Title: Jude the Obscure
+Year: 1994
+Authors: Thomas Hardy
+------------------------
+Filename: 1531.txt
+Title: Othello, the Moor of Venice
+Year: 1998
+Authors: William Shakespeare
+------------------------
+Filename: 1539.txt
+Title: The Winter's Tale
+Year: 1998
+Authors: William Shakespeare
+------------------------
+Filename: 154.txt
+Title: The Rise of Silas Lapham
+Year: 2008
+Authors: William Dean Howells
+------------------------
+Filename: 1549.txt
+Title: Commentary on the Epistle to the Galatians
+Year: 1998
+Authors: Martin Luther
+------------------------
+Filename: 1550.txt
+Title: A Lady of Quality
+Year: 2005
+Authors: Frances Hodgson Burnett
+------------------------
+Filename: 1551.txt
+Title: A Cathedral Courtship
+Year: 2008
+Authors: Kate Douglas Wiggin
+------------------------
+Filename: 1553.txt
+Title: The Hidden Masterpiece
+Year: 1998
+Authors: Honore de Balzac
+------------------------
+Filename: 1554.txt
+Title: Adieu
+Year: 1998
+Authors: Honore de Balzac
+------------------------
+Filename: 1555.txt
+Title: A Passion in the Desert
+Year: 1998
+Authors: Honore de Balzac
+------------------------
+Filename: 1556.txt
+Title: The Marriage Contract
+Year: 1998
+Authors: Honore de Balzac
+------------------------
+Filename: 1557.txt
+Title: Men of Iron
+Year: 2006
+Authors: Howard Pyle
+------------------------
+Filename: 1559.txt
+Title: A Distinguished Provincial at Paris
+Year: 1998
+Authors: Honore de Balzac
+------------------------
+Filename: 156.txt
+Title: Beethoven's Fifth Symphony, in C-minor, Opus #67
+Year: 2012
+Authors: Ludwig van Beethoven
+------------------------
+Filename: 1560.txt
+Title: The San Francisco Calamity
+Year: 2006
+Authors: Unknown
+------------------------
+Filename: 1561.txt
+Title: Pagan & Christian Creeds
+Year: 1998
+Authors: Edward Carpenter
+------------------------
+Filename: 1562.txt
+Title: Little Rivers
+Year: 2006
+Authors: Henry van Dyke
+------------------------
+Filename: 1563.txt
+Title: The Crystal Stopper
+Year: 1998
+Authors: Maurice LeBlanc
+------------------------
+Filename: 1564.txt
+Title: Life of Johnson
+Year: 2006
+Authors: James Boswell
+------------------------
+Filename: 1565.txt
+Title: The Last Days of Pompeii
+Year: 2006
+Authors: Edward George Bulwer-Lytton
+------------------------
+Filename: 1566.txt
+Title: The Evolution of Modern Medicine
+Year: 2006
+Authors: William Osler
+------------------------
+Filename: 1569.txt
+Title: The Lily of the Valley
+Year: 1998
+Authors: Honore de Balzac
+------------------------
+Filename: 157.txt
+Title: Daddy-Long-Legs
+Year: 2008
+Authors: Jean Webster
+------------------------
+Filename: 1571.txt
+Title: Critias
+Year: 1998
+Authors: Plato
+------------------------
+Filename: 1572.txt
+Title: Timaeus
+Year: 1998
+Authors: Plato
+------------------------
+Filename: 1573.txt
+Title: Frank's Campaign
+Year: 1998
+Authors: Horatio Alger, Jr.
+------------------------
+Filename: 1574.txt
+Title: Historic Girls
+Year: 1998
+Authors: E. S. Brooks
+------------------------
+Filename: 1577.txt
+Title: The Grey Room
+Year: 1998
+Authors: Eden Phillpotts
+------------------------
+Filename: 1578.txt
+Title: Aucassin and Nicolete
+Year: 2005
+Authors: Andrew Lang
+------------------------
+Filename: 1579.txt
+Title: Lysis
+Year: 1998
+Authors: Plato
+------------------------
+Filename: 158.txt
+Title: Emma
+Year: 1994
+Authors: Jane Austen
+------------------------
+Filename: 1580.txt
+Title: Charmides
+Year: 1998
+Authors: Plato
+------------------------
+Filename: 1581.txt
+Title: The Holy Bible
+Year: 1998
+Authors: Unknown
+------------------------
+Filename: 1582.txt
+Title: The Bible, Douay-Rheims, New Testament
+Year: 1998
+Authors: Unknown
+------------------------
+Filename: 1583.txt
+Title: Options
+Year: 1998
+Authors: O. Henry
+------------------------
+Filename: 1584.txt
+Title: Laches
+Year: 1998
+Authors: Plato
+------------------------
+Filename: 1585.txt
+Title: The Wrong Box
+Year: 2006
+Authors: Robert Louis Stevenson;Lloyd Osbourne
+------------------------
+Filename: 1586.txt
+Title: Man and Wife
+Year: 2006
+Authors: Wilkie Collins
+------------------------
+Filename: 1587.txt
+Title: The Black Robe
+Year: 2006
+Authors: Wilkie Collins
+------------------------
+Filename: 1588.txt
+Title: A Rogue's Life
+Year: 2006
+Authors: Wilkie Collins
+------------------------
+Filename: 159.txt
+Title: The Island of Doctor Moreau
+Year: 2004
+Authors: H. G. Wells
+------------------------
+Filename: 1590.txt
+Title: The Amazing Interlude
+Year: 2004
+Authors: Mary Roberts Rinehart
+------------------------
+Filename: 1591.txt
+Title: Protagoras
+Year: 1999
+Authors: Plato
+------------------------
+Filename: 1593.txt
+Title: How to Tell the Birds from the Flowers
+Year: 1999
+Authors: Robert Williams Wood
+------------------------
+Filename: 1594.txt
+Title: Essays in Little
+Year: 2007
+Authors: Andrew Lang
+------------------------
+Filename: 1595.txt
+Title: Whirligigs
+Year: 1999
+Authors: O. Henry
+------------------------
+Filename: 1596.txt
+Title: Smoke Bellew
+Year: 1998
+Authors: Jack London
+------------------------
+Filename: 1597.txt
+Title: Andersen's Fairy Tales
+Year: 1999
+Authors: Hans Christian Andersen
+------------------------
+Filename: 1598.txt
+Title: Euthydemus
+Year: 1999
+Authors: Plato
+------------------------
+Filename: 1599.txt
+Title: Cinderella; or, The Little Glass Slipper and Other Stories
+Year: 1999
+Authors: Unknown
+------------------------
+Filename: 16.txt
+Title: Peter Pan
+Year: 1991
+Authors: James M. Barrie
+------------------------
+Filename: 160.txt
+Title: The Awakening and Selected Short Stories
+Year: 2006
+Authors: Kate Chopin
+------------------------
+Filename: 1600.txt
+Title: Symposium
+Year: 1999
+Authors: Plato
+------------------------
+Filename: 1601.txt
+Title: The Breaking Point
+Year: 1999
+Authors: Mary Roberts Rinehart
+------------------------
+Filename: 1602.txt
+Title: Dawn O'Hara, The Girl Who Laughed
+Year: 1999
+Authors: Edna Ferber
+------------------------
+Filename: 1603.txt
+Title: The Blue Flower, and Others
+Year: 1999
+Authors: Henry van Dyke
+------------------------
+Filename: 1604.txt
+Title: The Ebb-Tide
+Year: 1999
+Authors: Robert Louis Stevenson;Lloyde Osbourne
+------------------------
+Filename: 1605.txt
+Title: The Crock of Gold
+Year: 1999
+Authors: James Stephens
+------------------------
+Filename: 1606.txt
+Title: Kenilworth
+Year: 2006
+Authors: Sir Walter Scott
+------------------------
+Filename: 1608.txt
+Title: Camille (La Dame aux Camilias)
+Year: 1999
+Authors: Alexandre Dumas
+------------------------
+Filename: 1609.txt
+Title: The Bible, Douay-Rheims, Old Testament--Part I
+Year: 1999
+Authors: Unknown
+------------------------
+Filename: 161.txt
+Title: Sense and Sensibility
+Year: 2008
+Authors: Jane Austen
+------------------------
+Filename: 1610.txt
+Title: The Bible, Douay-Rheims, Old Testament--Part 2
+Year: 1999
+Authors: Unknown
+------------------------
+Filename: 1611.txt
+Title: Seventeen
+Year: 2006
+Authors: Booth Tarkington
+------------------------
+Filename: 1612.txt
+Title: Poems By a Little Girl
+Year: 1999
+Authors: Hilda Conkling
+------------------------
+Filename: 1613.txt
+Title: Count Bunker
+Year: 1999
+Authors: J. Storer Clouston
+------------------------
+Filename: 1614.txt
+Title: The Golden Fleece
+Year: 1999
+Authors: Julian Hawthorne
+------------------------
+Filename: 1616.txt
+Title: Cratylus
+Year: 1999
+Authors: Plato
+------------------------
+Filename: 1617.txt
+Title: The Wind in the Rose-bush and Other Stories of the Supernatural
+Year: 1999
+Authors: Mary Eleanor Wilkins Freeman
+------------------------
+Filename: 1618.txt
+Title: In the Shadow of the Glen
+Year: 1999
+Authors: J. M. Synge
+------------------------
+Filename: 162.txt
+Title: Take Me for a Ride
+Year: 1994
+Authors: Mark E. Laxer
+------------------------
+Filename: 1620.txt
+Title: The Lion and the Unicorn and Other Stories
+Year: 1999
+Authors: Richard Harding Davis
+------------------------
+Filename: 1621.txt
+Title: Miss or Mrs.?
+Year: 2006
+Authors: Wilkie Collins
+------------------------
+Filename: 1622.txt
+Title: The Law and the Lady
+Year: 1999
+Authors: Wilkie Collins
+------------------------
+Filename: 1623.txt
+Title: The New Magdalen
+Year: 1999
+Authors: Wilkie Collins
+------------------------
+Filename: 1624.txt
+Title: The Two Destinies
+Year: 1999
+Authors: Wilkie Collins
+------------------------
+Filename: 1625.txt
+Title: The Frozen Deep
+Year: 1999
+Authors: Wilkie Collins
+------------------------
+Filename: 1626.txt
+Title: After Dark
+Year: 1999
+Authors: Wilkie Collins
+------------------------
+Filename: 1628.txt
+Title: My Lady's Money
+Year: 2006
+Authors: Wilkie Collins
+------------------------
+Filename: 1629.txt
+Title: I Say No
+Year: 1999
+Authors: Wilkie Collins
+------------------------
+Filename: 163.txt
+Title: Flower Fables
+Year: 2008
+Authors: Louisa May Alcott
+------------------------
+Filename: 1630.txt
+Title: Little Novels
+Year: 1999
+Authors: Wilkie Collins
+------------------------
+Filename: 1631.txt
+Title: A Monk of Fife
+Year: 2005
+Authors: Andrew Lang
+------------------------
+Filename: 1632.txt
+Title: A Book of Scoundrels
+Year: 2006
+Authors: Charles Whibley
+------------------------
+Filename: 1634.txt
+Title: The Foolish Virgin
+Year: 1999
+Authors: Thomas Dixon
+------------------------
+Filename: 1635.txt
+Title: Ion
+Year: 1999
+Authors: Plato
+------------------------
+Filename: 1636.txt
+Title: Phaedrus
+Year: 1999
+Authors: Plato
+------------------------
+Filename: 1638.txt
+Title: The New Revelation
+Year: 1999
+Authors: Arthur Conan Doyle
+------------------------
+Filename: 1639.txt
+Title: Eve and David
+Year: 1999
+Authors: Honore de Balzac
+------------------------
+Filename: 164.txt
+Title: Twenty Thousand Leagues under the Sea (slightly abridged)
+Year: 1994
+Authors: Jules Verne
+------------------------
+Filename: 1640.txt
+Title: Lilith
+Year: 1999
+Authors: George MacDonald
+------------------------
+Filename: 1641.txt
+Title: The Lesser Bourgeoisie
+Year: 1999
+Authors: Honore de Balzac
+------------------------
+Filename: 1642.txt
+Title: Euthyphro
+Year: 1999
+Authors: Plato
+------------------------
+Filename: 1643.txt
+Title: Meno
+Year: 1999
+Authors: Plato
+------------------------
+Filename: 1644.txt
+Title: The Adventures of Gerard
+Year: 1999
+Authors: Arthur Conan Doyle
+------------------------
+Filename: 1646.txt
+Title: Roads of Destiny
+Year: 1997
+Authors: O. Henry
+------------------------
+Filename: 1649.txt
+Title: Ferragus
+Year: 1999
+Authors: Honore de Balzac
+------------------------
+Filename: 165.txt
+Title: McTeague
+Year: 2006
+Authors: Frank Norris
+------------------------
+Filename: 1651.txt
+Title: The Mystery of Orcival
+Year: 2006
+Authors: Emile Gaboriau
+------------------------
+Filename: 1652.txt
+Title: The Survivors of the Chancellor
+Year: 1999
+Authors: Jules Verne
+------------------------
+Filename: 1654.txt
+Title: An Unsocial Socialist
+Year: 2006
+Authors: George Bernard Shaw
+------------------------
+Filename: 1655.txt
+Title: The God of His Fathers
+Year: 2005
+Authors: Jack London
+------------------------
+Filename: 1656.txt
+Title: Apology
+Year: 1999
+Authors: Plato
+------------------------
+Filename: 1658.txt
+Title: Phaedo
+Year: 1999
+Authors: Plato
+------------------------
+Filename: 1659.txt
+Title: The Girl with the Golden Eyes
+Year: 1999
+Authors: Honore de Balzac
+------------------------
+Filename: 166.txt
+Title: Summer
+Year: 2006
+Authors: Edith Wharton
+------------------------
+Filename: 1660.txt
+Title: Scenes from a Courtesan's Life
+Year: 1999
+Authors: Honore de Balzac
+------------------------
+Filename: 1662.txt
+Title: The 1997 CIA World Factbook
+Year: 1999
+Authors: United States. Central Intelligence Agency.
+------------------------
+Filename: 1663.txt
+Title: Webster's Seventh of March Speech, and the Secession Movement
+Year: 1999
+Authors: Herbert Darling Foster
+------------------------
+Filename: 1664.txt
+Title: Songs for Parents
+Year: 1999
+Authors: John Farrar
+------------------------
+Filename: 1665.txt
+Title: Derrick Vaughan--Novelist
+Year: 1999
+Authors: Edna Lyall
+------------------------
+Filename: 1666.txt
+Title: The Golden Asse
+Year: 2006
+Authors: Lucius Apuleius
+------------------------
+Filename: 1667.txt
+Title: My Aunt Margaret's Mirror
+Year: 1999
+Authors: Sir Walter Scott
+------------------------
+Filename: 1668.txt
+Title: The Tapestried Chamber, and Death of the Laird's Jock
+Year: 1999
+Authors: Sir Walter Scott
+------------------------
+Filename: 1669.txt
+Title: The Human Drift
+Year: 2005
+Authors: Jack London
+------------------------
+Filename: 167.txt
+Title: American Handbook of the Daguerrotype
+Year: 2008
+Authors: Samuel D. Humphrey
+------------------------
+Filename: 1670.txt
+Title: The Small Catechism of Martin Luther
+Year: 1999
+Authors: Martin Luther
+------------------------
+Filename: 1671.txt
+Title: When a Man Marries
+Year: 1999
+Authors: Mary Roberts Rinehart
+------------------------
+Filename: 1672.txt
+Title: Gorgias
+Year: 1999
+Authors: Plato
+------------------------
+Filename: 1673.txt
+Title: Lesser Hippias
+Year: 1999
+Authors: Plato
+------------------------
+Filename: 1676.txt
+Title: Alcibiades I
+Year: 1999
+Authors: (may be spurious) Plato
+------------------------
+Filename: 1677.txt
+Title: Alcibiades II
+Year: 1999
+Authors: An Imitator of Plato
+------------------------
+Filename: 1678.txt
+Title: An Historical Mystery
+Year: 1998
+Authors: Honore de Balzac
+------------------------
+Filename: 1679.txt
+Title: Hiram The Young Farmer
+Year: 1999
+Authors: Burbank L. Todd
+------------------------
+Filename: 168.txt
+Title: The History and Practice of the Art of Photography
+Year: 2008
+Authors: Henry H. Snelling
+------------------------
+Filename: 1680.txt
+Title: At the Sign of the Cat and Racket
+Year: 1998
+Authors: Honore de Balzac
+------------------------
+Filename: 1681.txt
+Title: Eryxias
+Year: 1999
+Authors: An Imitator of Plato
+------------------------
+Filename: 1682.txt
+Title: Menexenus
+Year: 1999
+Authors: Plato
+------------------------
+Filename: 1683.txt
+Title: Honorine
+Year: 1998
+Authors: Honore de Balzac
+------------------------
+Filename: 1684.txt
+Title: The Egoist
+Year: 1999
+Authors: George Meredith
+------------------------
+Filename: 1685.txt
+Title: The Mystery of the Yellow Room
+Year: 1999
+Authors: Gaston Leroux
+------------------------
+Filename: 1686.txt
+Title: The Secret of the Night
+Year: 1999
+Authors: Gaston Leroux
+------------------------
+Filename: 1687.txt
+Title: Parmenides
+Year: 1999
+Authors: Plato
+------------------------
+Filename: 1688.txt
+Title: The People of the Abyss
+Year: 2005
+Authors: Jack London
+------------------------
+Filename: 1689.txt
+Title: The Pivot of Civilization
+Year: 2008
+Authors: Margaret Sanger
+------------------------
+Filename: 169.txt
+Title: The Well at the World's End
+Year: 2008
+Authors: William Morris
+------------------------
+Filename: 1690.txt
+Title: Marie
+Year: 1999
+Authors: H. Rider Haggard
+------------------------
+Filename: 1692.txt
+Title: 1492
+Year: 1999
+Authors: Mary Johnston
+------------------------
+Filename: 1693.txt
+Title: Dangerous Days
+Year: 1999
+Authors: Mary Roberts Rinehart
+------------------------
+Filename: 1697.txt
+Title: Madam How and Lady Why
+Year: 2005
+Authors: Charles Kingsley
+------------------------
+Filename: 1698.txt
+Title: The Survivors of the Chancellor
+Year: 1999
+Authors: Jules Verne
+------------------------
+Filename: 1699.txt
+Title: The Vanished Messenger
+Year: 1999
+Authors: E. Phillips Oppenheim
+------------------------
+Filename: 17.txt
+Title: The Book Of Mormon
+Year: 1992
+Authors: Unknown
+------------------------
+Filename: 170.txt
+Title: The Haunted Hotel
+Year: 2008
+Authors: Wilkie Collins
+------------------------
+Filename: 1700.txt
+Title: Life of Charlotte Bronte
+Year: 1999
+Authors: Elizabeth Cleghorn Gaskell
+------------------------
+Filename: 1701.txt
+Title: The Story Of Waitstill Baxter
+Year: 1999
+Authors: By Kate Douglas Wiggin
+------------------------
+Filename: 1703.txt
+Title: Dead Men Tell No Tales
+Year: 1999
+Authors: E. W. Hornung
+------------------------
+Filename: 1704.txt
+Title: Pierrette
+Year: 1999
+Authors: Honore de Balzac
+------------------------
+Filename: 1705.txt
+Title: A History of Science, Volume 1(of 5)
+Year: 1999
+Authors: Henry Smith Williams
+------------------------
+Filename: 1706.txt
+Title: A History of Science, Volume 2(of 5)
+Year: 1999
+Authors: Henry Smith Williams
+------------------------
+Filename: 1707.txt
+Title: A History of Science, Volume 3(of 5)
+Year: 1999
+Authors: Henry Smith Williams
+------------------------
+Filename: 1708.txt
+Title: A History of Science, Volume 4(of 5)
+Year: 1999
+Authors: Henry Smith Williams
+------------------------
+Filename: 171.txt
+Title: Charlotte Temple
+Year: 2006
+Authors: Susanna Rowson
+------------------------
+Filename: 1710.txt
+Title: La Grande Breteche
+Year: 1999
+Authors: Honore de Balzac
+------------------------
+Filename: 1711.txt
+Title: Child of Storm
+Year: 1999
+Authors: H. Rider Haggard
+------------------------
+Filename: 1712.txt
+Title: The Rescue
+Year: 2006
+Authors: Joseph Conrad
+------------------------
+Filename: 1713.txt
+Title: Lincoln
+Year: 2006
+Authors: Nathaniel Wright Stephenson
+------------------------
+Filename: 1714.txt
+Title: Another Study of Woman
+Year: 1999
+Authors: Honore de Balzac
+------------------------
+Filename: 1715.txt
+Title: Eugenie Grandet
+Year: 1999
+Authors: Honore de Balzac
+------------------------
+Filename: 1716.txt
+Title: The Copy-Cat and Other Stories
+Year: 1999
+Authors: Mary E. Wilkins Freeman
+------------------------
+Filename: 1717.txt
+Title: What's Wrong With The World
+Year: 1999
+Authors: G.K. Chesterton
+------------------------
+Filename: 1718.txt
+Title: Manalive
+Year: 2005
+Authors: G. K. Chesterton
+------------------------
+Filename: 1719.txt
+Title: The Ballad of the White Horse
+Year: 1999
+Authors: G.K. Chesterton
+------------------------
+Filename: 172.txt
+Title: The Haunted Bookshop
+Year: 2008
+Authors: Christopher Morley
+------------------------
+Filename: 1720.txt
+Title: The Man Who Knew Too Much
+Year: 2004
+Authors: G.K. Chesterton
+------------------------
+Filename: 1721.txt
+Title: The Trees of Pride
+Year: 1999
+Authors: G.K. Chesterton
+------------------------
+Filename: 1723.txt
+Title: Cow-Country
+Year: 1999
+Authors: B. M. Bower
+------------------------
+Filename: 1724.txt
+Title: Finished
+Year: 2004
+Authors: H. Rider Haggard
+------------------------
+Filename: 1725.txt
+Title: Heart of the West
+Year: 1999
+Authors: O. Henry
+------------------------
+Filename: 1726.txt
+Title: Theaetetus
+Year: 1999
+Authors: Plato
+------------------------
+Filename: 1727.txt
+Title: The Odyssey
+Year: 1999
+Authors: Homer
+------------------------
+Filename: 1729.txt
+Title: The Deserted Woman
+Year: 1999
+Authors: Honore de Balzac
+------------------------
+Filename: 173.txt
+Title: The Insidious Dr. Fu-Manchu
+Year: 2008
+Authors: Sax Rohmer
+------------------------
+Filename: 1730.txt
+Title: Michael, Brother of Jerry
+Year: 2005
+Authors: Jack London
+------------------------
+Filename: 1732.txt
+Title: The Schoolmistress and Other Stories
+Year: 2006
+Authors: Anton Chekhov
+------------------------
+Filename: 1733.txt
+Title: The Red Cross Girl
+Year: 1999
+Authors: Richard Harding Davis
+------------------------
+Filename: 1734.txt
+Title: The Secret Places of the Heart
+Year: 2006
+Authors: H. G. Wells
+------------------------
+Filename: 1735.txt
+Title: Sophist
+Year: 1999
+Authors: Plato
+------------------------
+Filename: 1737.txt
+Title: Facino Cane
+Year: 1999
+Authors: Honore de Balzac
+------------------------
+Filename: 1738.txt
+Title: Statesman
+Year: 1999
+Authors: Plato
+------------------------
+Filename: 1739.txt
+Title: The Black Death, and The Dancing Mania
+Year: 2007
+Authors: Justus Friedrich Karl Hecker
+------------------------
+Filename: 174.txt
+Title: The Picture of Dorian Gray
+Year: 2008
+Authors: Oscar Wilde
+------------------------
+Filename: 1740.txt
+Title: The Flying U's Last Stand
+Year: 1999
+Authors: B. M. Bower
+------------------------
+Filename: 1741.txt
+Title: The White Moll
+Year: 1999
+Authors: Frank L. Packard
+------------------------
+Filename: 1742.txt
+Title: Miss Civilization
+Year: 1999
+Authors: Richard Harding Davis
+------------------------
+Filename: 1743.txt
+Title: Twelve Stories and a Dream
+Year: 1999
+Authors: H. G. Wells
+------------------------
+Filename: 1744.txt
+Title: Philebus
+Year: 1999
+Authors: Plato
+------------------------
+Filename: 1745.txt
+Title: The Poetical Works of John Milton
+Year: 1999
+Authors: John Milton
+------------------------
+Filename: 1747.txt
+Title: The Red Seal
+Year: 1999
+Authors: Natalie Sumner Lincoln
+------------------------
+Filename: 1749.txt
+Title: Cousin Betty
+Year: 1999
+Authors: Honore de Balzac
+------------------------
+Filename: 175.txt
+Title: The Phantom of the Opera
+Year: 2008
+Authors: Gaston Leroux
+------------------------
+Filename: 1750.txt
+Title: Laws
+Year: 1999
+Authors: Plato
+------------------------
+Filename: 1751.txt
+Title: Twilight Land
+Year: 1999
+Authors: Howard Pyle
+------------------------
+Filename: 1753.txt
+Title: Swan Song
+Year: 2006
+Authors: Anton Checkov
+------------------------
+Filename: 1754.txt
+Title: The Sea-Gull
+Year: 2006
+Authors: Anton Checkov
+------------------------
+Filename: 1755.txt
+Title: Ivanoff
+Year: 1999
+Authors: Anton Checkov
+------------------------
+Filename: 1756.txt
+Title: Uncle Vanya
+Year: 1999
+Authors: Anton Checkov
+------------------------
+Filename: 1757.txt
+Title: The Cruise of the Dolphin
+Year: 1999
+Authors: Thomas Bailey Aldrich
+------------------------
+Filename: 1758.txt
+Title: Marjorie Daw
+Year: 1999
+Authors: Thomas Bailey Aldrich
+------------------------
+Filename: 1759.txt
+Title: The Black-Bearded Barbarian (George Leslie Mackay)
+Year: 1999
+Authors: Mary Esther Miller MacGregor
+------------------------
+Filename: 176.txt
+Title: Roderick Hudson
+Year: 2006
+Authors: Henry James
+------------------------
+Filename: 1761.txt
+Title: My Buried Treasure
+Year: 1999
+Authors: Richard Harding Davis
+------------------------
+Filename: 1762.txt
+Title: The Consul
+Year: 1999
+Authors: Richard Harding Davis
+------------------------
+Filename: 1763.txt
+Title: The Nature Faker
+Year: 1999
+Authors: Richard Harding Davis
+------------------------
+Filename: 1764.txt
+Title: Billy and the Big Stick
+Year: 1999
+Authors: Richard Harding Davis
+------------------------
+Filename: 178.txt
+Title: Confidence
+Year: 2006
+Authors: Henry James
+------------------------
+Filename: 179.txt
+Title: The Europeans
+Year: 2006
+Authors: Henry James
+------------------------
+Filename: 18.txt
+Title: The Federalist Papers
+Year: 1991
+Authors: Alexander Hamilton
+------------------------
+Filename: 180.txt
+Title: The 1994 CIA World Factbook
+Year: 2008
+Authors: United States Central Intelligence Agency
+------------------------
+Filename: 1803.txt
+Title: Wyoming, a Story of the Outdoor West
+Year: 1999
+Authors: William MacLeod Raine
+------------------------
+Filename: 1804.txt
+Title: War and the Future
+Year: 2006
+Authors: H. G. Wells
+------------------------
+Filename: 1805.txt
+Title: The Gentle Grafter
+Year: 1999
+Authors: O. Henry
+------------------------
+Filename: 1806.txt
+Title: The Frame Up
+Year: 1999
+Authors: Richard Harding Davis
+------------------------
+Filename: 1807.txt
+Title: The Lost House
+Year: 1999
+Authors: Richard Harding Davis
+------------------------
+Filename: 1808.txt
+Title: The Log of The "Jolly Polly"
+Year: 1999
+Authors: Richard Harding Davis
+------------------------
+Filename: 1809.txt
+Title: Bucky O'Connor
+Year: 1999
+Authors: William MacLeod Raine
+------------------------
+Filename: 1810.txt
+Title: A Second Home
+Year: 1999
+Authors: Honore de Balzac
+------------------------
+Filename: 1811.txt
+Title: Massimilla Doni
+Year: 2010
+Authors: Honore de Balzac
+------------------------
+Filename: 1812.txt
+Title: A Prince of Bohemia
+Year: 1999
+Authors: Honore de Balzac
+------------------------
+Filename: 1813.txt
+Title: A Man of Business
+Year: 1999
+Authors: Honore de Balzac
+------------------------
+Filename: 1814.txt
+Title: The Agony Column
+Year: 1999
+Authors: Earl Derr Biggers
+------------------------
+Filename: 1815.txt
+Title: The Boys' Life of Abraham Lincoln
+Year: 1999
+Authors: Helen Nicolay
+------------------------
+Filename: 1816.txt
+Title: Tattine
+Year: 1999
+Authors: Ruth Ogden
+------------------------
+Filename: 1817.txt
+Title: A Question of Latitude
+Year: 2006
+Authors: Richard Harding Davis
+------------------------
+Filename: 1818.txt
+Title: The Spy
+Year: 2006
+Authors: Richard Harding Davis
+------------------------
+Filename: 1819.txt
+Title: The Messengers
+Year: 2006
+Authors: Richard Harding Davis
+------------------------
+Filename: 1820.txt
+Title: A Wasted Day
+Year: 2006
+Authors: Richard Harding Davis
+------------------------
+Filename: 1821.txt
+Title: A Charmed Life
+Year: 2006
+Authors: Richard Harding Davis
+------------------------
+Filename: 1822.txt
+Title: The Amateur
+Year: 2006
+Authors: Richard Harding Davis
+------------------------
+Filename: 1823.txt
+Title: The Make-Believe Man
+Year: 1999
+Authors: Richard Harding Davis
+------------------------
+Filename: 1824.txt
+Title: Peace Manoeuvres
+Year: 2006
+Authors: Richard Harding Davis
+------------------------
+Filename: 1825.txt
+Title: The Adventures of Reddy Fox
+Year: 1999
+Authors: Thornton W. Burgess
+------------------------
+Filename: 1826.txt
+Title: Sarrasine
+Year: 2010
+Authors: Honore de Balzac
+------------------------
+Filename: 1827.txt
+Title: The Life of Charlotte Bronte - Volume 1
+Year: 2005
+Authors: Elizabeth Gaskell
+------------------------
+Filename: 1828.txt
+Title: Chronicles of the Canongate
+Year: 1999
+Authors: Sir Walter Scott
+------------------------
+Filename: 1829.txt
+Title: Mae Madden
+Year: 2006
+Authors: Mary Murdoch Mason
+------------------------
+Filename: 1830.txt
+Title: Wyndham Towers
+Year: 1998
+Authors: Thomas Bailey Aldrich
+------------------------
+Filename: 1832.txt
+Title: The Lamp That Went Out
+Year: 1999
+Authors: Augusta Groner
+------------------------
+Filename: 1833.txt
+Title: The Case of the Registered Letter
+Year: 1999
+Authors: Augusta Groner
+------------------------
+Filename: 1834.txt
+Title: The Case of The Pocket Diary Found in the Snow
+Year: 1999
+Authors: Grace Isabel Colbron;Augusta Groner
+------------------------
+Filename: 1835.txt
+Title: The Case of The Pool of Blood in the Pastor's Study
+Year: 1999
+Authors: Grace Isabel Colbron;Augusta Groner
+------------------------
+Filename: 1836.txt
+Title: The Case of the Golden Bullet
+Year: 1999
+Authors: Grace Isabel Colbron;Augusta Groner
+------------------------
+Filename: 1838.txt
+Title: A New Voyage to Carolina
+Year: #N/A
+Authors: John Lawson
+------------------------
+Filename: 1839.txt
+Title: Other Things Being Equal
+Year: 1999
+Authors: Emma Wolf
+------------------------
+Filename: 1840.txt
+Title: The Financier
+Year: 2006
+Authors: Theodore Dreiser
+------------------------
+Filename: 1841.txt
+Title: Z. Marcas
+Year: 1999
+Authors: Honore de Balzac
+------------------------
+Filename: 1842.txt
+Title: Michael Strogoff
+Year: 1999
+Authors: Jules Verne
+------------------------
+Filename: 1843.txt
+Title: Vera
+Year: 1999
+Authors: Richard Harding Davis
+------------------------
+Filename: 1845.txt
+Title: Zuleika Dobson
+Year: 1999
+Authors: Max Beerbohm
+------------------------
+Filename: 1846.txt
+Title: The Vision Spendid
+Year: 1999
+Authors: William MacLeod Raine
+------------------------
+Filename: 1847.txt
+Title: Songs, Merry and Sad
+Year: 1999
+Authors: John Charles McNeill
+------------------------
+Filename: 1848.txt
+Title: Montezuma's Daughter
+Year: 2006
+Authors: H. Rider Haggard
+------------------------
+Filename: 1849.txt
+Title: The Yellow Crayon
+Year: 1999
+Authors: E. Phillips Oppenheim
+------------------------
+Filename: 1850.txt
+Title: Old Christmas
+Year: 2006
+Authors: Washington Irving
+------------------------
+Filename: 1851.txt
+Title: The Woman in the Alcove
+Year: 1999
+Authors: Anna Katharine Green
+------------------------
+Filename: 1852.txt
+Title: Lucile
+Year: 1999
+Authors: Owen Meredith
+------------------------
+Filename: 1853.txt
+Title: The Ninth Vibration And Other Stories
+Year: 1999
+Authors: L. Adams Beck
+------------------------
+Filename: 1854.txt
+Title: Catherine de' Medici
+Year: 1999
+Authors: Honore de Balzac
+------------------------
+Filename: 1856.txt
+Title: Cousin Pons
+Year: 1999
+Authors: Honore de Balzac
+------------------------
+Filename: 1857.txt
+Title: Initials Only
+Year: 1999
+Authors: Anna Katharine Green
+------------------------
+Filename: 1858.txt
+Title: Plain Tales from the Hills
+Year: 1999
+Authors: Rudyard Kipling
+------------------------
+Filename: 1859.txt
+Title: The Works of Max Beerbohm
+Year: 1999
+Authors: Max Beerbohm
+------------------------
+Filename: 1860.txt
+Title: Westward Ho!
+Year: 2006
+Authors: Charles Kingsley
+------------------------
+Filename: 1861.txt
+Title: An Old Town By The Sea
+Year: 2006
+Authors: Thomas Bailey Aldrich
+------------------------
+Filename: 1862.txt
+Title: Tartarin of Tarascon
+Year: 1999
+Authors: Alphonse Daudet
+------------------------
+Filename: 1864.txt
+Title: Hero Tales From American History
+Year: 1999
+Authors: Henry Cabot Lodge;Theodore Roosevelt
+------------------------
+Filename: 1865.txt
+Title: North America, Volume I (of 2)
+Year: 1999
+Authors: Anthony Trollope
+------------------------
+Filename: 1866.txt
+Title: North America, Volume II (of 2)
+Year: 1998
+Authors: Anthony Trollope
+------------------------
+Filename: 1867.txt
+Title: The Diary of a Goose Girl
+Year: 2007
+Authors: Kate Douglas Smith Wiggin
+------------------------
+Filename: 1869.txt
+Title: The Man in Lower Ten
+Year: 1999
+Authors: Mary Roberts Rinehart
+------------------------
+Filename: 1870.txt
+Title: Reginald in Russia
+Year: 2010
+Authors: Saki
+------------------------
+Filename: 1871.txt
+Title: The Deputy of Arcis
+Year: 1999
+Authors: Honore de Balzac
+------------------------
+Filename: 1872.txt
+Title: The Red House Mystery
+Year: 1999
+Authors: A. A. Milne
+------------------------
+Filename: 1873.txt
+Title: Gambara
+Year: 1999
+Authors: Honore de Balzac
+------------------------
+Filename: 1874.txt
+Title: The Railway Children
+Year: 1999
+Authors: E. Nesbit
+------------------------
+Filename: 1875.txt
+Title: Painted Windows
+Year: 1999
+Authors: Elia W. Peattie
+------------------------
+Filename: 1876.txt
+Title: The Shape of Fear
+Year: 1999
+Authors: Elia W. Peattie
+------------------------
+Filename: 1877.txt
+Title: A Mountain Woman and Others
+Year: 1998
+Authors: Elia W. Peattie
+------------------------
+Filename: 1878.txt
+Title: A Millionaire of Yesterday
+Year: 1999
+Authors: E. Phillips Oppenheim
+------------------------
+Filename: 1879.txt
+Title: Royalty Restored
+Year: 1999
+Authors: J. Fitzgerald Molloy
+------------------------
+Filename: 1880.txt
+Title: The Pathfinder
+Year: 1999
+Authors: James Fenimore Cooper
+------------------------
+Filename: 1881.txt
+Title: The Call of the Canyon
+Year: 1999
+Authors: Zane Grey
+------------------------
+Filename: 1883.txt
+Title: The Wife and Other Stories
+Year: 2006
+Authors: Anton Chekhov
+------------------------
+Filename: 1884.txt
+Title: The Exiles
+Year: 1999
+Authors: Honore de Balzac
+------------------------
+Filename: 1885.txt
+Title: Bunyan Characters
+Year: 2005
+Authors: Alexander Whyte
+------------------------
+Filename: 1886.txt
+Title: Bunyan Characters (Second Series)
+Year: 2005
+Authors: Alexander Whyte
+------------------------
+Filename: 1887.txt
+Title: The Life of the Spider
+Year: 2005
+Authors: J. Henri Fabre
+------------------------
+Filename: 1888.txt
+Title: The Bittermeads Mystery
+Year: 1999
+Authors: E. R. Punshon
+------------------------
+Filename: 1890.txt
+Title: Speaking of Operations--
+Year: 1999
+Authors: Irvin S. Cobb
+------------------------
+Filename: 1891.txt
+Title: A Plea for Old Cap Collier
+Year: 1999
+Authors: Irvin S. Cobb
+------------------------
+Filename: 1892.txt
+Title: Extracts From Adam's Diary
+Year: 2004
+Authors: Mark Twain (Samuel Clemens)
+------------------------
+Filename: 1894.txt
+Title: Visit to Iceland
+Year: 2007
+Authors: Ida Pfeiffer
+------------------------
+Filename: 1896.txt
+Title: Under the Red Robe
+Year: 1999
+Authors: Stanley Weyman
+------------------------
+Filename: 1897.txt
+Title: The Seventh Man
+Year: 1999
+Authors: Max Brand
+------------------------
+Filename: 1898.txt
+Title: Albert Savarus
+Year: 1999
+Authors: Honore de Balzac
+------------------------
+Filename: 1899.txt
+Title: The Village Rector
+Year: 1999
+Authors: Honore de Balzac
+------------------------
+Filename: 19.txt
+Title: The Song Of Hiawatha
+Year: 2007
+Authors: Henry W. Longfellow
+------------------------
+Filename: 1900.txt
+Title: Typee
+Year: 1999
+Authors: Herman Melville
+------------------------
+Filename: 1901.txt
+Title: Secret of the Woods
+Year: 1999
+Authors: William J. Long
+------------------------
+Filename: 1902.txt
+Title: The Old Peabody Pew
+Year: 2005
+Authors: Kate Douglas Wiggin
+------------------------
+Filename: 1904.txt
+Title: The Life and Perambulations of a Mouse
+Year: 1999
+Authors: Dorothy Kilner
+------------------------
+Filename: 1905.txt
+Title: The Governess
+Year: 1999
+Authors: Sarah Fielding
+------------------------
+Filename: 1906.txt
+Title: Erewhon
+Year: 2005
+Authors: Samuel Butler
+------------------------
+Filename: 1907.txt
+Title: Rowdy of the Cross L
+Year: 1999
+Authors: B.M. Sinclair
+------------------------
+Filename: 1908.txt
+Title: Her Prairie Knight
+Year: 1999
+Authors: B.M. Sinclair
+------------------------
+Filename: 1909.txt
+Title: Darwin and Modern Science
+Year: 1999
+Authors: A.C. Seward
+------------------------
+Filename: 1911.txt
+Title: Concerning Christian Liberty
+Year: 2006
+Authors: Martin Luther
+------------------------
+Filename: 1912.txt
+Title: The Muse of the Department
+Year: 1999
+Authors: Honore de Balzac
+------------------------
+Filename: 1913.txt
+Title: The Drums Of Jeopardy
+Year: 1999
+Authors: Harold MacGrath
+------------------------
+Filename: 1915.txt
+Title: The Second Thoughts of An Idle Fellow
+Year: 1999
+Authors: Jerome K. Jerome
+------------------------
+Filename: 1916.txt
+Title: The Great Stone Face
+Year: 2006
+Authors: Nathaniel Hawthorne
+------------------------
+Filename: 1917.txt
+Title: The Queen of Hearts
+Year: 1999
+Authors: Wilkie Collins
+------------------------
+Filename: 1918.txt
+Title: Long Odds
+Year: 2010
+Authors: H. Rider Haggard
+------------------------
+Filename: 1919.txt
+Title: Ballads
+Year: 1999
+Authors: Horatio Alger, Jr.
+------------------------
+Filename: 1921.txt
+Title: The Chouans
+Year: 1999
+Authors: Honore de Balzac
+------------------------
+Filename: 1925.txt
+Title: Droll Stories, Volume 1
+Year: 2004
+Authors: Honore de Balzac
+------------------------
+Filename: 1926.txt
+Title: Grandfather's Chair
+Year: 1999
+Authors: Nathaniel Hawthorne
+------------------------
+Filename: 1929.txt
+Title: The School For Scandal
+Year: 1999
+Authors: Richard Brinsley Sheridan
+------------------------
+Filename: 1930.txt
+Title: Penguin Island
+Year: 2006
+Authors: Anatole France
+------------------------
+Filename: 1931.txt
+Title: The Zeppelin's Passenger
+Year: 1999
+Authors: E. Phillips Oppenheim
+------------------------
+Filename: 1932.txt
+Title: Early Kings of Norway
+Year: 1999
+Authors: Thomas Carlyle
+------------------------
+Filename: 1933.txt
+Title: The History of Samuel Titmarsh
+Year: 2006
+Authors: William Makepeace Thackeray
+------------------------
+Filename: 1934.txt
+Title: Songs of Innocence and Songs of Experience
+Year: 2008
+Authors: William Blake
+------------------------
+Filename: 1937.txt
+Title: The Second Jungle Book
+Year: 1999
+Authors: Rudyard Kipling
+------------------------
+Filename: 1938.txt
+Title: Resurrection
+Year: 1999
+Authors: Leo Tolstoy
+------------------------
+Filename: 1939.txt
+Title: A Gentleman of France
+Year: 1999
+Authors: Stanley Weyman
+------------------------
+Filename: 1940.txt
+Title: Christ in Flanders
+Year: 1999
+Authors: Honore de Balzac
+------------------------
+Filename: 1941.txt
+Title: Letters of Two Brides
+Year: 1999
+Authors: Honore de Balzac
+------------------------
+Filename: 1942.txt
+Title: Rise and Fall of Cesar Birotteau
+Year: 1999
+Authors: Honore de Balzac
+------------------------
+Filename: 1943.txt
+Title: Louis Lambert
+Year: 1999
+Authors: Honore de Balzac
+------------------------
+Filename: 1944.txt
+Title: The Witch and Other Stories
+Year: 2006
+Authors: Anton Chekhov
+------------------------
+Filename: 1945.txt
+Title: Egmont
+Year: 1999
+Authors: Johann Wolfgang Von Goethe
+------------------------
+Filename: 1946.txt
+Title: On War
+Year: 2006
+Authors: Carl von Clausewitz
+------------------------
+Filename: 1947.txt
+Title: Scaramouche
+Year: 1999
+Authors: Rafael Sabatini
+------------------------
+Filename: 1948.txt
+Title: The Story of a Bad Boy
+Year: 2006
+Authors: Thomas Bailey Aldrich
+------------------------
+Filename: 1949.txt
+Title: On the Ruin of Britain
+Year: 1999
+Authors: Gildas
+------------------------
+Filename: 1950.txt
+Title: A Woman of Thirty
+Year: 1999
+Authors: Honore de Balzac
+------------------------
+Filename: 1951.txt
+Title: The Coming Race
+Year: 2006
+Authors: Edward Bulwer Lytton
+------------------------
+Filename: 1953.txt
+Title: A Book of Strife in the Form of The Diary of an Old Soul
+Year: 1999
+Authors: George MacDonald
+------------------------
+Filename: 1954.txt
+Title: Colonel Chabert
+Year: 1999
+Authors: Honore de Balzac
+------------------------
+Filename: 1955.txt
+Title: The Darrow Enigma
+Year: 1999
+Authors: Melvin L. Severy
+------------------------
+Filename: 1956.txt
+Title: And Even Now
+Year: 1999
+Authors: Max Beerbohm
+------------------------
+Filename: 1957.txt
+Title: Beatrix
+Year: 1999
+Authors: Honore de Balzac
+------------------------
+Filename: 1958.txt
+Title: Hermann and Dorothea
+Year: 1999
+Authors: Johann Wolfgang von Goethe
+------------------------
+Filename: 1959.txt
+Title: The Crown of Thorns
+Year: 1999
+Authors: E. H. Chapin
+------------------------
+Filename: 1960.txt
+Title: Sight Unseen
+Year: 1999
+Authors: Mary Roberts Rinehart
+------------------------
+Filename: 1963.txt
+Title: The Confession
+Year: 1999
+Authors: Mary Roberts Rinehart
+------------------------
+Filename: 1966.txt
+Title: The Path of the King
+Year: 1999
+Authors: John Buchan
+------------------------
+Filename: 1967.txt
+Title: The Brotherhood of Consolation
+Year: 1999
+Authors: Honore de Balzac
+------------------------
+Filename: 1968.txt
+Title: The Human Comedy
+Year: 1999
+Authors: Honore de Balzac
+------------------------
+Filename: 1969.txt
+Title: Catherine: A Story
+Year: 1999
+Authors: William Makepeace Thackeray
+------------------------
+Filename: 1970.txt
+Title: A Poor Wise Man
+Year: 1999
+Authors: Mary Roberts Rinehart
+------------------------
+Filename: 1971.txt
+Title: Erewhon Revisited
+Year: 2005
+Authors: Samuel Butler
+------------------------
+Filename: 1972.txt
+Title: History Of The Britons (Historia Brittonum)
+Year: 2006
+Authors: Nennius
+------------------------
+Filename: 1973.txt
+Title: Tales of Troy: Ulysses the Sacker of Cities
+Year: 2005
+Authors: Andrew Lang
+------------------------
+Filename: 1974.txt
+Title: Poetics
+Year: 1999
+Authors: Aristotle
+------------------------
+Filename: 1975.txt
+Title: The Legacy of Cain
+Year: 1999
+Authors: Wilkie Collins
+------------------------
+Filename: 1976.txt
+Title: Peter Ruff and the Double Four
+Year: 1999
+Authors: E. Phillips Oppenheim
+------------------------
+Filename: 1977.txt
+Title: Phaedra
+Year: 1999
+Authors: Jean Baptiste Racine
+------------------------
+Filename: 1978.txt
+Title: Buttercup Gold and Other Stories
+Year: 1999
+Authors: Ellen Robena Field
+------------------------
+Filename: 1979.txt
+Title: The Perdue Chicken Cookbook
+Year: 1999
+Authors: Mitzi Perdue
+------------------------
+Filename: 1980.txt
+Title: Stories by English Authors: Africa
+Year: 2006
+Authors: Unknown
+------------------------
+Filename: 1983.txt
+Title: Monsieur Beaucaire
+Year: 2006
+Authors: Booth Tarkington
+------------------------
+Filename: 1985.txt
+Title: Men's Wives
+Year: 1999
+Authors: William Makepeace Thackeray
+------------------------
+Filename: 1987.txt
+Title: The Outlet
+Year: 1999
+Authors: Andy Adams
+------------------------
+Filename: 1988.txt
+Title: The History of Tom Thumb, and Others
+Year: 1999
+Authors: Unknown
+------------------------
+Filename: 1989.txt
+Title: The Foolish Dictionary
+Year: 2007
+Authors: Gideon Wurdz
+------------------------
+Filename: 1990.txt
+Title: The Bedford-Row Conspiracy
+Year: 1999
+Authors: William Makepeace Thackeray
+------------------------
+Filename: 1994.txt
+Title: Adventures among Books
+Year: 2005
+Authors: Andrew Lang
+------------------------
+Filename: 1998.txt
+Title: Thus Spake Zarathustra
+Year: 1999
+Authors: Friedrich Nietzsche
+------------------------
+Filename: 1999.txt
+Title: Crome Yellow
+Year: 1999
+Authors: Aldous Huxley
+------------------------
+Filename: 20.txt
+Title: Paradise Lost
+Year: 1991
+Authors: John Milton
+------------------------
+Filename: 200.txt
+Title: The Project Gutenberg Gutenberg Encyclopedia, Vol 1
+Year: 1995
+Authors: Project Gutenberg
+------------------------
+Filename: 2002.txt
+Title: Sonnets from the Portuguese
+Year: 2004
+Authors: Browning, Elizabeth Barrett
+------------------------
+Filename: 2003.txt
+Title: Spirits in Bondage
+Year: 1999
+Authors: C. S. Lewis
+------------------------
+Filename: 2004.txt
+Title: Pigs is Pigs
+Year: 1999
+Authors: Ellis Parker Butler
+------------------------
+Filename: 2005.txt
+Title: Piccadilly Jim
+Year: 2012
+Authors: P. G. Wodehouse
+------------------------
+Filename: 2006.txt
+Title: A Fair Penitent
+Year: 1999
+Authors: Wilkie Collins
+------------------------
+Filename: 2007.txt
+Title: We Two
+Year: 1999
+Authors: Edna Lyall
+------------------------
+Filename: 2008.txt
+Title: Mazelli, and Other Poems
+Year: 1999
+Authors: George W. Sands
+------------------------
+Filename: 2009.txt
+Title: On the Origin of Species
+Year: 1999
+Authors: Charles Darwin
+------------------------
+Filename: 201.txt
+Title: Flatland: A Romance of Many Dimensions (Illustrated)
+Year: 2008
+Authors: Edwin A. Abbot
+------------------------
+Filename: 2010.txt
+Title: The Autobiography of Charles Darwin
+Year: 1999
+Authors: Charles Darwin
+------------------------
+Filename: 2011.txt
+Title: Rudder Grange
+Year: 1999
+Authors: Frank R. Stockton
+------------------------
+Filename: 2012.txt
+Title: The Children
+Year: 2005
+Authors: Alice Meynell
+------------------------
+Filename: 2013.txt
+Title: The Pit Prop Syndicate
+Year: 1999
+Authors: Freeman Wills Crofts
+------------------------
+Filename: 2014.txt
+Title: The Lodger
+Year: 2005
+Authors: Marie Belloc Lowndes
+------------------------
+Filename: 2015.txt
+Title: A Miscellany of Men
+Year: 2008
+Authors: G. K. Chesterton
+------------------------
+Filename: 2016.txt
+Title: The 1998 CIA World Factbook
+Year: 1999
+Authors: United States.  Central Intelligence Agency.
+------------------------
+Filename: 2017.txt
+Title: The Dhammapada
+Year: 1999
+Authors: Unknown
+------------------------
+Filename: 2019.txt
+Title: The Bat
+Year: 2000
+Authors: Avery Hopwood
+------------------------
+Filename: 202.txt
+Title: My Bondage and My Freedom
+Year: 2008
+Authors: Frederick Douglass
+------------------------
+Filename: 2020.txt
+Title: Tarzan the Terrible
+Year: 2000
+Authors: Edgar Rice Burroughs
+------------------------
+Filename: 2021.txt
+Title: Nostromo: A Tale of the Seaboard
+Year: 2006
+Authors: Joseph Conrad
+------------------------
+Filename: 2022.txt
+Title: Angling Sketches
+Year: 2005
+Authors: Andrew Lang
+------------------------
+Filename: 2023.txt
+Title: Malvina of Brittany
+Year: 2000
+Authors: Jerome K. Jerome
+------------------------
+Filename: 2024.txt
+Title: Diary of a Pilgrimage
+Year: 2008
+Authors: Jerome K. Jerome
+------------------------
+Filename: 2025.txt
+Title: My Lady Caprice
+Year: 2000
+Authors: Jeffery Farnol
+------------------------
+Filename: 2026.txt
+Title: The Coming Conquest of England
+Year: 2006
+Authors: August Niemann
+------------------------
+Filename: 2027.txt
+Title: Tartuffe
+Year: 2000
+Authors: Jean-Baptiste Poquelin Moliere
+------------------------
+Filename: 2028.txt
+Title: The Yellow Claw
+Year: 2006
+Authors: Sax Rohmer
+------------------------
+Filename: 2029.txt
+Title: Lahoma
+Year: 2000
+Authors: John Breckinridge Ellis
+------------------------
+Filename: 2030.txt
+Title: Legends Of Babylon And Egypt
+Year: 2006
+Authors: Leonard W. King
+------------------------
+Filename: 2032.txt
+Title: Martin Pippin in the Apple Orchard
+Year: 2000
+Authors: Eleanor Farjeon
+------------------------
+Filename: 2034.txt
+Title: Waverley
+Year: 2006
+Authors: Sir Walter Scott
+------------------------
+Filename: 2035.txt
+Title: Stories by English Authors: Orient
+Year: 2006
+Authors: Unknown
+------------------------
+Filename: 2036.txt
+Title: Eight Years' Wandering in Ceylon
+Year: 2000
+Authors: Samuel White Baker
+------------------------
+Filename: 2037.txt
+Title: Novel Notes
+Year: 2005
+Authors: Jerome K. Jerome
+------------------------
+Filename: 2038.txt
+Title: The Lock And Key Library
+Year: 2005
+Authors: Unknown
+------------------------
+Filename: 2039.txt
+Title: Evangeline
+Year: 2000
+Authors: Henry Wadsworth Longfellow
+------------------------
+Filename: 204.txt
+Title: The Innocence of Father Brown
+Year: 2008
+Authors: G. K. Chesterton
+------------------------
+Filename: 2040.txt
+Title: Confessions of an English Opium-Eater
+Year: 2005
+Authors: Thomas De Quincey
+------------------------
+Filename: 2041.txt
+Title: The House of the Wolf
+Year: 2000
+Authors: Stanley Weyman
+------------------------
+Filename: 2042.txt
+Title: Something New
+Year: 2000
+Authors: P. G. Wodehouse
+------------------------
+Filename: 2044.txt
+Title: The Education of Henry Adams
+Year: 2000
+Authors: Henry Adams
+------------------------
+Filename: 2045.txt
+Title: My Memories of Eighty Years
+Year: 2000
+Authors: Chauncey M. Depew
+------------------------
+Filename: 2048.txt
+Title: The Sketch Book of Geoffrey Crayon, Gent.
+Year: 2000
+Authors: Washington Irving
+------------------------
+Filename: 2049.txt
+Title: Liber Amoris, or, The New Pygmalion
+Year: 2000
+Authors: William Hazlitt
+------------------------
+Filename: 2050.txt
+Title: Old John Brown
+Year: 2000
+Authors: Walter Hawkins
+------------------------
+Filename: 2051.txt
+Title: Dickory Cronke
+Year: 2005
+Authors: Daniel Defoe
+------------------------
+Filename: 2052.txt
+Title: Everybody's Business is Nobody's Business
+Year: 2005
+Authors: Daniel Defoe
+------------------------
+Filename: 2053.txt
+Title: The American Republic: Its Constitution, Tendencies, and Destiny
+Year: 2000
+Authors: A. O. Brownson
+------------------------
+Filename: 2056.txt
+Title: The Life of William Carey
+Year: 2000
+Authors: George Smith
+------------------------
+Filename: 2057.txt
+Title: The Last of the Plainsmen
+Year: 2000
+Authors: Zane Grey
+------------------------
+Filename: 2058.txt
+Title: Messer Marco Polo
+Year: 2000
+Authors: Brian Oswald Donn-Byrne
+------------------------
+Filename: 2059.txt
+Title: The Little Shepherd of Kingdom Come
+Year: 2000
+Authors: John Fox
+------------------------
+Filename: 206.txt
+Title: The Martin Luther King, Jr. Day, 1995, Memorial Issue
+Year: 2008
+Authors: Unknown
+------------------------
+Filename: 2060.txt
+Title: The History of the Caliph Vathek
+Year: 2010
+Authors: William Beckford
+------------------------
+Filename: 2062.txt
+Title: All for Love
+Year: 2000
+Authors: John Dryden
+------------------------
+Filename: 2063.txt
+Title: The Trail of the White Mule
+Year: 2000
+Authors: B. M. Bower
+------------------------
+Filename: 2064.txt
+Title: A Journey to the Western Isles of Scotland
+Year: 2005
+Authors: Samuel Johnson
+------------------------
+Filename: 2065.txt
+Title: Dick Hamilton's Airship
+Year: 2000
+Authors: Howard R. Garis
+------------------------
+Filename: 2066.txt
+Title: Wildfire
+Year: 2000
+Authors: Zane Grey
+------------------------
+Filename: 2067.txt
+Title: Beasts, Men and Gods
+Year: 2006
+Authors: Ferdinand Ossendowski
+------------------------
+Filename: 2068.txt
+Title: Keziah Coffin
+Year: 2006
+Authors: Joseph C. Lincoln
+------------------------
+Filename: 2069.txt
+Title: The Religion of Babylonia and Assyria
+Year: 2000
+Authors: Theophilus G. Pinches
+------------------------
+Filename: 207.txt
+Title: The Spell of the Yukon
+Year: 1995
+Authors: Robert Service
+------------------------
+Filename: 2070.txt
+Title: To the Last Man
+Year: 2000
+Authors: Zane Grey
+------------------------
+Filename: 2071.txt
+Title: Stories By English Authors: Germany
+Year: 2006
+Authors: Unknown
+------------------------
+Filename: 2072.txt
+Title: Michael
+Year: 2006
+Authors: E. F. Benson
+------------------------
+Filename: 2073.txt
+Title: The Valet's Tragedy and Other Stories
+Year: 2000
+Authors: Andrew Lang
+------------------------
+Filename: 2076.txt
+Title: The Civilization Of China
+Year: 2006
+Authors: Herbert A. Giles
+------------------------
+Filename: 2077.txt
+Title: The Nabob
+Year: 2006
+Authors: Alphonse Daudet
+------------------------
+Filename: 2078.txt
+Title: Thais
+Year: 2006
+Authors: Anatole France
+------------------------
+Filename: 2079.txt
+Title: From the Memoirs of a Minister of France
+Year: 2000
+Authors: Stanley Weyman
+------------------------
+Filename: 208.txt
+Title: Daisy Miller
+Year: 2008
+Authors: Henry James
+------------------------
+Filename: 2081.txt
+Title: The Blithedale Romance
+Year: 2000
+Authors: Nathaniel Hawthorne
+------------------------
+Filename: 2082.txt
+Title: Memoirs of the Comtesse du Barry
+Year: 2000
+Authors: Etienne Leon Lamothe-Langon
+------------------------
+Filename: 2083.txt
+Title: In Search of the Castaways
+Year: 2000
+Authors: Jules Verne
+------------------------
+Filename: 2084.txt
+Title: The Way of All Flesh
+Year: 2005
+Authors: Samuel Butler
+------------------------
+Filename: 2085.txt
+Title: Cyropaedia
+Year: 2000
+Authors: Xenophon
+------------------------
+Filename: 2086.txt
+Title: The Slowcoach
+Year: 2000
+Authors: E. V. Lucas
+------------------------
+Filename: 2087.txt
+Title: The Life and Letters of Charles Darwin, Volume I (of II)
+Year: 1999
+Authors: Charles Darwin
+------------------------
+Filename: 2088.txt
+Title: The Life and Letters of Charles Darwin, Volume II (of II)
+Year: 2000
+Authors: Charles Darwin
+------------------------
+Filename: 2089.txt
+Title: The Reception of the 'Origin of Species'
+Year: 2000
+Authors: Thomas Henry Huxley
+------------------------
+Filename: 209.txt
+Title: The Turn of the Screw
+Year: 1995
+Authors: Henry James
+------------------------
+Filename: 2094.txt
+Title: The Original Writings of Samuel Adams, Volume 4
+Year: 2000
+Authors: Samuel Adams
+------------------------
+Filename: 2095.txt
+Title: Clotelle: a Tale of the Southern States
+Year: 2000
+Authors: William Wells Brown
+------------------------
+Filename: 2096.txt
+Title: A Smaller History of Greece
+Year: 2000
+Authors: William Smith
+------------------------
+Filename: 2097.txt
+Title: The Sign of the Four
+Year: 2000
+Authors: Arthur Conan Doyle
+------------------------
+Filename: 2098.txt
+Title: A Thief in the Night
+Year: 2000
+Authors: E. W. Hornung
+------------------------
+Filename: 2099.txt
+Title: History of the Moravian Church
+Year: 2000
+Authors: J. E. Hutton
+------------------------
+Filename: 21.txt
+Title: Aesop's Fables
+Year: 1991
+Authors: Aesop
+------------------------
+Filename: 210.txt
+Title: An International Episode
+Year: 2008
+Authors: Henry James
+------------------------
+Filename: 2101.txt
+Title: History Of Friedrich II. of Prussia, Vol. I. (of XXI.)
+Year: 2000
+Authors: Thomas Carlyle
+------------------------
+Filename: 2102.txt
+Title: History Of Friedrich II. of Prussia, Vol, II. (of XXI.)
+Year: 2000
+Authors: Thomas Carlyle
+------------------------
+Filename: 2103.txt
+Title: History Of Friedrich II. of Prussia, Vol. III. (of XXI.)
+Year: 2000
+Authors: Thomas Carlyle
+------------------------
+Filename: 2104.txt
+Title: History Of Friedrich II. of Prussia, Volume IV. (of XXI.)
+Year: 2000
+Authors: Thomas Carlyle
+------------------------
+Filename: 2105.txt
+Title: History Of Friedrich II. of Prussia, Volume V. (of XXI.)
+Year: 2000
+Authors: Thomas Carlyle
+------------------------
+Filename: 2106.txt
+Title: History Of Friedrich II. of Prussia, Vol. VI. (of XXI.)
+Year: 2000
+Authors: Thomas Carlyle
+------------------------
+Filename: 2107.txt
+Title: History Of Friedrich II. of Prussia, Vol. VII. (of XXI.)
+Year: 2000
+Authors: Thomas Carlyle
+------------------------
+Filename: 2108.txt
+Title: History Of Friedrich II. of Prussia, Vol. VIII. (of XXI.)
+Year: 2000
+Authors: Thomas Carlyle
+------------------------
+Filename: 2109.txt
+Title: History of Friedrich II. of Prussia, Vol. IX. (of XXI.)
+Year: 2000
+Authors: Thomas Carlyle
+------------------------
+Filename: 211.txt
+Title: The Aspern Papers
+Year: 2008
+Authors: Henry James
+------------------------
+Filename: 2110.txt
+Title: History of Friedrich II. of Prussia, Vol. X. (of XXI.)
+Year: 2000
+Authors: Thomas Carlyle
+------------------------
+Filename: 2111.txt
+Title: History of Friedrich II. of Prussia, Vol. XI. (of XXI.)
+Year: 2000
+Authors: Thomas Carlyle
+------------------------
+Filename: 2112.txt
+Title: History of Friedrich II. of Prussia, Vol. XII. (of XXI.)
+Year: 2000
+Authors: Thomas Carlyle
+------------------------
+Filename: 2113.txt
+Title: History of Friedrich II. of Prussia, Vol. XIII. (of XXI.)
+Year: 2000
+Authors: Thomas Carlyle
+------------------------
+Filename: 2114.txt
+Title: History of Friedrich II. of Prussia, Vol. XIV. (of XXI.)
+Year: 2000
+Authors: Thomas Carlyle
+------------------------
+Filename: 2115.txt
+Title: History of Friedrich II. of Prussia, Vol. XV. (of XXI.)
+Year: 2000
+Authors: Thomas Carlyle
+------------------------
+Filename: 2116.txt
+Title: History of Friedrich II. of Prussia, Vol. XVI. (of XXI.)
+Year: 2000
+Authors: Thomas Carlyle
+------------------------
+Filename: 2117.txt
+Title: History of Friedrich II. of Prussia, Vol. XVII. (of XXI.)
+Year: 2000
+Authors: Thomas Carlyle
+------------------------
+Filename: 2118.txt
+Title: History of Friedrich II. of Prussia, Vol. XVIII. (of XXI.)
+Year: 2000
+Authors: Thomas Carlyle
+------------------------
+Filename: 2119.txt
+Title: History of Friedrich II. of Prussia, Vol. XIX. (of XXI.)
+Year: 2000
+Authors: Thomas Carlyle
+------------------------
+Filename: 212.txt
+Title: A List of Factorial Math Constants
+Year: 1995
+Authors: Unknown
+------------------------
+Filename: 2120.txt
+Title: History of Friedrich II. of Prussia, Vol. XX. (of XXI.)
+Year: 2000
+Authors: Thomas Carlyle
+------------------------
+Filename: 2121.txt
+Title: History of Friedrich II. of Prussia, Vol. XXI. (of XXI.)
+Year: 2000
+Authors: Thomas Carlyle
+------------------------
+Filename: 2122.txt
+Title: History of Friedrich II. of Prussia, Appendix
+Year: 2000
+Authors: Thomas Carlyle
+------------------------
+Filename: 2123.txt
+Title: The Crime of Sylvestre Bonnard
+Year: 2000
+Authors: Anatole France
+------------------------
+Filename: 2124.txt
+Title: Record of Buddhistic Kingdoms
+Year: 2006
+Authors: Fa-Hsien
+------------------------
+Filename: 2126.txt
+Title: The Quest of the Sacred Slipper
+Year: 2000
+Authors: Sax Rohmer
+------------------------
+Filename: 2127.txt
+Title: Paul and Virginia
+Year: 2006
+Authors: Bernardin de Saint Pierre
+------------------------
+Filename: 2128.txt
+Title: Narratives of New Netherland, 1609-1664
+Year: 2000
+Authors: Unknown
+------------------------
+Filename: 2129.txt
+Title: Murad the Unlucky and Other Tales
+Year: 2005
+Authors: Maria Edgeworth
+------------------------
+Filename: 213.txt
+Title: The Man from Snowy River
+Year: 1995
+Authors: Andrew Barton 'Banjo' Paterson
+------------------------
+Filename: 2130.txt
+Title: Utopia
+Year: 2005
+Authors: Thomas More
+------------------------
+Filename: 2131.txt
+Title: An Account of Egypt
+Year: 2006
+Authors: Herodotus
+------------------------
+Filename: 2132.txt
+Title: The Daughter of an Empress
+Year: 2006
+Authors: Louise Muhlbach
+------------------------
+Filename: 2133.txt
+Title: Chinese Sketches
+Year: 2006
+Authors: Herbert A. Giles
+------------------------
+Filename: 2134.txt
+Title: Utopia of Usurers and other Essays
+Year: 2000
+Authors: Gilbert Keith Chesterton
+------------------------
+Filename: 2135.txt
+Title: Stories By English Authors: London
+Year: 2006
+Authors: Unknown
+------------------------
+Filename: 2136.txt
+Title: The Tale of Balen
+Year: 2008
+Authors: Algernon Charles Swinburne
+------------------------
+Filename: 2139.txt
+Title: Alvira: the Heroine of Vesuvius
+Year: 2000
+Authors: A. J. O'Reilly
+------------------------
+Filename: 214.txt
+Title: In the Days When the World Was Wide and Other Verses
+Year: 2008
+Authors: Henry Lawson
+------------------------
+Filename: 2141.txt
+Title: Strictly Business
+Year: 2000
+Authors: O. Henry
+------------------------
+Filename: 2142.txt
+Title: Childhood
+Year: 2006
+Authors: Leo Tolstoy
+------------------------
+Filename: 2145.txt
+Title: Ben-Hur: A Tale of the Christ
+Year: 2000
+Authors: Lew Wallace
+------------------------
+Filename: 2148.txt
+Title: The Works of Edgar Allan Poe
+Year: 2008
+Authors: Edgar Allan Poe
+------------------------
+Filename: 215.txt
+Title: The Call of the Wild
+Year: 2008
+Authors: Jack London
+------------------------
+Filename: 2154.txt
+Title: Around the World in 80 Days
+Year: 2000
+Authors: Jules Verne
+------------------------
+Filename: 2155.txt
+Title: Phyllis of Philistia
+Year: 2006
+Authors: Frank Frankfort Moore
+------------------------
+Filename: 2156.txt
+Title: China and the Manchus
+Year: 1999
+Authors: Herbert Allen Giles
+------------------------
+Filename: 2157.txt
+Title: Female Suffrage
+Year: 2000
+Authors: Susan Fenimore Cooper
+------------------------
+Filename: 2158.txt
+Title: The Prime Minister
+Year: 1999
+Authors: Anthony Trollope
+------------------------
+Filename: 216.txt
+Title: Tao Teh King
+Year: 1995
+Authors: Lao-Tze
+------------------------
+Filename: 2160.txt
+Title: The Expedition of Humphry Clinker
+Year: 2000
+Authors: Tobias Smollett
+------------------------
+Filename: 2161.txt
+Title: Song Book of Quong Lee of Limehouse
+Year: 2000
+Authors: Thomas Burke
+------------------------
+Filename: 2162.txt
+Title: Anarchism and Other Essays
+Year: 2000
+Authors: Emma Goldman
+------------------------
+Filename: 2163.txt
+Title: The Bridge-Builders
+Year: 2006
+Authors: Rudyard Kipling
+------------------------
+Filename: 2164.txt
+Title: The Lumley Autograph
+Year: 2000
+Authors: Susan Fenimore Cooper
+------------------------
+Filename: 2165.txt
+Title: The Lifted Veil
+Year: 2005
+Authors: George Eliot
+------------------------
+Filename: 2166.txt
+Title: King Solomon's Mines
+Year: 2005
+Authors: H. Rider Haggard
+------------------------
+Filename: 2167.txt
+Title: The Miscellaneous Writings and Speeches of Lord Macaulay, Vol. 1 (of 4)
+Year: 2000
+Authors: Thomas Babington Macaulay
+------------------------
+Filename: 2168.txt
+Title: The Miscellaneous Writings and Speeches of Lord Macaulay, Vol. 2 (of 4)
+Year: 2000
+Authors: Thomas Babington Macaulay
+------------------------
+Filename: 2169.txt
+Title: The Miscellaneous Writings and Speeches of Lord Macaulay, Vol. 3. (of 4)
+Year: 2000
+Authors: Thomas Babington Macaulay
+------------------------
+Filename: 217.txt
+Title: Sons and Lovers
+Year: 2006
+Authors: David Herbert Lawrence
+------------------------
+Filename: 2170.txt
+Title: The Miscellaneous Writings and Speeches of Lord Macaulay, Vol. 4 (of 4)
+Year: 2000
+Authors: Thomas Babington Macaulay
+------------------------
+Filename: 2171.txt
+Title: Brother Jacob
+Year: 2005
+Authors: George Eliot
+------------------------
+Filename: 2172.txt
+Title: That Mainwaring Affair
+Year: 2000
+Authors: Maynard Barbour
+------------------------
+Filename: 2173.txt
+Title: Thoughts on the Present Discontents
+Year: 2007
+Authors: Edmund Burke
+------------------------
+Filename: 2175.txt
+Title: You Never Can Tell
+Year: 2000
+Authors: George Bernard Shaw
+------------------------
+Filename: 2176.txt
+Title: Seven Discourses on Art
+Year: 2005
+Authors: Joshua Reynolds
+------------------------
+Filename: 2177.txt
+Title: Thankful Blossom
+Year: 2000
+Authors: Bret Harte
+------------------------
+Filename: 2178.txt
+Title: By Shore and Sedge
+Year: 2000
+Authors: Bret Harte
+------------------------
+Filename: 2179.txt
+Title: Drift from Two Shores
+Year: 2000
+Authors: Bret Harte
+------------------------
+Filename: 2180.txt
+Title: In a Hollow of the Hills
+Year: 2000
+Authors: Bret Harte
+------------------------
+Filename: 2181.txt
+Title: The Marble Faun, Volume I.
+Year: 2006
+Authors: Nathaniel Hawthorne
+------------------------
+Filename: 2182.txt
+Title: The Marble Faun, Volume II.
+Year: 2006
+Authors: Nathaniel Hawthorne
+------------------------
+Filename: 2183.txt
+Title: Three Men on the Bummel
+Year: 2006
+Authors: Jerome K. Jerome
+------------------------
+Filename: 2185.txt
+Title: Maruja
+Year: 2000
+Authors: Bret Harte
+------------------------
+Filename: 2186.txt
+Title: Captains Courageous
+Year: 2000
+Authors: Rudyard Kipling
+------------------------
+Filename: 219.txt
+Title: Heart of Darkness
+Year: 1995
+Authors: Joseph Conrad
+------------------------
+Filename: 2191.txt
+Title: Boy Scouts in Mexico; or On Guard with Uncle Sam
+Year: 2000
+Authors: G. Harvey Ralphson
+------------------------
+Filename: 2193.txt
+Title: A Ward of the Golden Gate
+Year: 2000
+Authors: Bret Harte
+------------------------
+Filename: 2194.txt
+Title: Mauprat
+Year: 2006
+Authors: George Sand
+------------------------
+Filename: 2196.txt
+Title: An Iceland Fisherman
+Year: 2006
+Authors: Pierre Loti
+------------------------
+Filename: 2197.txt
+Title: The Gambler
+Year: 2000
+Authors: Fyodor Dostoyevsky
+------------------------
+Filename: 2198.txt
+Title: Stories from Pentamerone
+Year: 2000
+Authors: Giambattista Basile
+------------------------
+Filename: 2199.txt
+Title: The Iliad
+Year: 2000
+Authors: Homer
+------------------------
+Filename: 22.txt
+Title: Roget's Thesaurus
+Year: 1991
+Authors: Peter Mark Roget
+------------------------
+Filename: 220.txt
+Title: The Secret Sharer
+Year: 1995
+Authors: Joseph Conrad
+------------------------
+Filename: 2201.txt
+Title: Human Genome Project, rough draft, Chromosome Number 01
+Year: 2000
+Authors: Human Genome Project
+------------------------
+Filename: 2202.txt
+Title: Human Genome Project, rough draft, Chromosome Number 02
+Year: 2000
+Authors: Human Genome Project
+------------------------
+Filename: 2203.txt
+Title: Human Genome Project, rough draft, Chromosome Number 03
+Year: 2000
+Authors: Human Genome Project
+------------------------
+Filename: 2204.txt
+Title: Human Genome Project, rough draft, Chromosome Number 04
+Year: 2000
+Authors: Human Genome Project
+------------------------
+Filename: 2205.txt
+Title: Human Genome Project, rough draft, Chromosome Number 05
+Year: 2000
+Authors: Human Genome Project
+------------------------
+Filename: 2206.txt
+Title: Human Genome Project, rough draft, Chromosome Number 06
+Year: 2000
+Authors: Human Genome Project
+------------------------
+Filename: 2207.txt
+Title: Human Genome Project, rough draft, Chromosome Number 07
+Year: 2000
+Authors: Human Genome Project
+------------------------
+Filename: 2208.txt
+Title: Human Genome Project, rough draft, Chromosome Number 08
+Year: 2000
+Authors: Human Genome Project
+------------------------
+Filename: 2209.txt
+Title: Human Genome Project, rough draft, Chromosome Number 09
+Year: 2000
+Authors: Human Genome Project
+------------------------
+Filename: 221.txt
+Title: The Return of Sherlock Holmes
+Year: 2008
+Authors: Arthur Conan Doyle
+------------------------
+Filename: 2210.txt
+Title: Human Genome Project, rough draft, Chromosome Number 10
+Year: 2000
+Authors: Human Genome Project
+------------------------
+Filename: 2211.txt
+Title: Human Genome Project, rough draft, Chromosome Number 11
+Year: 2000
+Authors: Human Genome Project
+------------------------
+Filename: 2212.txt
+Title: Human Genome Project, rough draft, Chromosome Number 12
+Year: 2000
+Authors: Human Genome Project
+------------------------
+Filename: 2213.txt
+Title: Human Genome Project, rough draft, Chromosome Number 13
+Year: 2000
+Authors: Human Genome Project
+------------------------
+Filename: 2214.txt
+Title: Human Genome Project, rough draft, Chromosome Number 14
+Year: 2000
+Authors: Human Genome Project
+------------------------
+Filename: 2215.txt
+Title: Human Genome Project, rough draft, Chromosome Number 15
+Year: 2000
+Authors: Human Genome Project
+------------------------
+Filename: 2216.txt
+Title: Human Genome Project, rough draft, Chromosome Number 16
+Year: 2000
+Authors: Human Genome Project
+------------------------
+Filename: 2217.txt
+Title: Human Genome Project, rough draft, Chromosome Number 17
+Year: 2000
+Authors: Human Genome Project
+------------------------
+Filename: 2218.txt
+Title: Human Genome Project, rough draft, Chromosome Number 18
+Year: 2000
+Authors: Human Genome Project
+------------------------
+Filename: 2219.txt
+Title: Human Genome Project, rough draft, Chromosome Number 19
+Year: 2000
+Authors: Human Genome Project
+------------------------
+Filename: 222.txt
+Title: The Moon and Sixpence
+Year: 2007
+Authors: W. Somerset Maugham
+------------------------
+Filename: 2220.txt
+Title: Human Genome Project, rough draft, Chromosome Number 20
+Year: 2000
+Authors: Human Genome Project
+------------------------
+Filename: 223.txt
+Title: The Wisdom of Father Brown
+Year: 1995
+Authors: G. K. Chesterton
+------------------------
+Filename: 224.txt
+Title: A Pair of Blue Eyes
+Year: 2008
+Authors: Thomas Hardy
+------------------------
+Filename: 226.txt
+Title: Cicero's Orations
+Year: 2008
+Authors: Cicero
+------------------------
+Filename: 227.txt
+Title: The Aeneid
+Year: 2008
+Authors: Virgil
+------------------------
+Filename: 228.txt
+Title: The Aeneid
+Year: 2008
+Authors: Virgil
+------------------------
+Filename: 229.txt
+Title: The Bucolics and Eclogues
+Year: 2008
+Authors: Virgil
+------------------------
+Filename: 23.txt
+Title: The Narrative of the Life of Frederick Douglass
+Year: 2006
+Authors: Frederick Douglass
+------------------------
+Filename: 230.txt
+Title: The Bucolics and Eclogues
+Year: 2008
+Authors: Virgil
+------------------------
+Filename: 231.txt
+Title: The Georgics
+Year: 2008
+Authors: Virgil
+------------------------
+Filename: 232.txt
+Title: The Georgics
+Year: 2008
+Authors: Virgil
+------------------------
+Filename: 233.txt
+Title: Sister Carrie
+Year: 1995
+Authors: Theodore Dreiser
+------------------------
+Filename: 234.txt
+Title: Child Christopher
+Year: 2008
+Authors: William Morris
+------------------------
+Filename: 235.txt
+Title: William Gibson Interviewed
+Year: 1995
+Authors: Giuseppe Salza
+------------------------
+Filename: 236.txt
+Title: The Jungle Book
+Year: 2006
+Authors: Rudyard Kipling
+------------------------
+Filename: 237.txt
+Title: Sexti Properti Carmina
+Year: 2008
+Authors: Sextus Propertius
+------------------------
+Filename: 238.txt
+Title: Dear Enemy
+Year: 2008
+Authors: Jean Webster
+------------------------
+Filename: 239.txt
+Title: Radar Map of the United States
+Year: 1995
+Authors: United States
+------------------------
+Filename: 24.txt
+Title: O Pioneers!
+Year: 1992
+Authors: Willa Cather
+------------------------
+Filename: 240.txt
+Title: Stories From the Old Attic
+Year: 1995
+Authors: Robert Harris
+------------------------
+Filename: 241.txt
+Title: Clotelle
+Year: 2008
+Authors: William Wells Brown
+------------------------
+Filename: 242.txt
+Title: My Antonia
+Year: 2008
+Authors: Willa Cather
+------------------------
+Filename: 243.txt
+Title: The Forged Coupon and Other Stories
+Year: 2006
+Authors: Leo Tolstoy
+------------------------
+Filename: 244.txt
+Title: A Study In Scarlet
+Year: 1995
+Authors: Arthur Conan Doyle
+------------------------
+Filename: 246.txt
+Title: Rubaiyat of Omar Khayyam
+Year: 1995
+Authors: Omar Khayyam
+------------------------
+Filename: 249.txt
+Title: French Cave Paintings
+Year: 1995
+Authors: Jean Clottes
+------------------------
+Filename: 25.txt
+Title: The 1991 CIA World Factbook
+Year: 1992
+Authors: United States.  Central Intelligence Agency.
+------------------------
+Filename: 250.txt
+Title: A Brief History of the Internet
+Year: 1995
+Authors: Michael Hart
+------------------------
+Filename: 251.txt
+Title: 1995 United States Congressional Address Book
+Year: 1995
+Authors: United States
+------------------------
+Filename: 252.txt
+Title: Copyright Law of the United States of America:
+Year: 2008
+Authors: Library of Congress Copyright Office
+------------------------
+Filename: 253.txt
+Title: The Universal Copyright Convention (1988)
+Year: 2008
+Authors: Coalition for Networked Information
+------------------------
+Filename: 254.txt
+Title: The Second Story of Meno
+Year: 2008
+Authors: Unknown
+------------------------
+Filename: 255.txt
+Title: QREAD, an Etext Viewer for Windows
+Year: 1995
+Authors: Dan Scavelle
+------------------------
+Filename: 256.txt
+Title: Motion Picture of Rotating Earth
+Year: 1995
+Authors: United States
+------------------------
+Filename: 257.txt
+Title: Troilus and Criseyde
+Year: 1995
+Authors: Geoffrey Chaucer
+------------------------
+Filename: 258.txt
+Title: Poems
+Year: 2008
+Authors: Adam Lindsay Gordon
+------------------------
+Filename: 259.txt
+Title: Ballads of a Cheechako
+Year: 2008
+Authors: Robert W. Service
+------------------------
+Filename: 26.txt
+Title: Paradise Lost
+Year: 1992
+Authors: John Milton
+------------------------
+Filename: 260.txt
+Title: Introduction to Robert Browning
+Year: 2008
+Authors: Hiram Corson
+------------------------
+Filename: 261.txt
+Title: A Dome of Many-Coloured Glass
+Year: 2008
+Authors: Amy Lowell
+------------------------
+Filename: 262.txt
+Title: The Collected Poems of Rupert Brooke
+Year: 1995
+Authors: Rupert Brooke
+------------------------
+Filename: 263.txt
+Title: Trees and Other Poems
+Year: 1995
+Authors: Joyce Kilmer
+------------------------
+Filename: 264.txt
+Title: Main Street and Other Poems
+Year: 2008
+Authors: Alfred Joyce Kilmer
+------------------------
+Filename: 265.txt
+Title: The Life and Death of Cormac the Skald
+Year: 2008
+Authors: Unknown
+------------------------
+Filename: 266.txt
+Title: Confessio Amantis
+Year: 2008
+Authors: John Gower
+------------------------
+Filename: 267.txt
+Title: The Touchstone
+Year: 2008
+Authors: Edith Wharton
+------------------------
+Filename: 268.txt
+Title: The Octopus
+Year: 2008
+Authors: Frank Norris
+------------------------
+Filename: 27.txt
+Title: Far from the Madding Crowd
+Year: 1992
+Authors: Thomas Hardy
+------------------------
+Filename: 270.txt
+Title: Dream Days
+Year: 2008
+Authors: Kenneth Grahame
+------------------------
+Filename: 271.txt
+Title: Black Beauty
+Year: 2006
+Authors: Anna Sewell
+------------------------
+Filename: 272.txt
+Title: An Open Letter on Translating
+Year: 2008
+Authors: Gary Mann
+------------------------
+Filename: 273.txt
+Title: The Smalcald Articles
+Year: 1995
+Authors: Martin Luther
+------------------------
+Filename: 274.txt
+Title: Martin Luther's 95 Theses
+Year: 2008
+Authors: Martin Luther
+------------------------
+Filename: 275.txt
+Title: The Confession of Faith
+Year: 2008
+Authors: Unknown
+------------------------
+Filename: 276.txt
+Title: One Hundred Fourth Symphony, in D-major
+Year: 1995
+Authors: Franz Josef Haydn
+------------------------
+Filename: 277.txt
+Title: Trinity [Atomic Test] Site
+Year: 2008
+Authors: The National Atomic Museum
+------------------------
+Filename: 278.txt
+Title: Trinity [Atomic test] Site
+Year: 1995
+Authors: White Sands Missile Range Public Affairs Office
+------------------------
+Filename: 279.txt
+Title: Photos and Maps of Trinity (Atomic Test) Site
+Year: 1995
+Authors: United States Army
+------------------------
+Filename: 28.txt
+Title: Aesop's Fables
+Year: 1992
+Authors: Aesop
+------------------------
+Filename: 280.txt
+Title: Records of a Family of Engineers
+Year: 2010
+Authors: Robert Louis Stevenson
+------------------------
+Filename: 281.txt
+Title: Father Damien
+Year: 2007
+Authors: Robert Louis Stevenson
+------------------------
+Filename: 283.txt
+Title: The Reef
+Year: 1995
+Authors: Edith Wharton
+------------------------
+Filename: 284.txt
+Title: House of Mirth
+Year: 2008
+Authors: Edith Wharton
+------------------------
+Filename: 285.txt
+Title: The Lost Continent
+Year: 2008
+Authors: C. J. Cutcliffe Hyne
+------------------------
+Filename: 286.txt
+Title: Laddie
+Year: 2008
+Authors: Gene Stratton Porter
+------------------------
+Filename: 287.txt
+Title: Remember the Alamo
+Year: 2008
+Authors: Amelia E. Barr
+------------------------
+Filename: 288.txt
+Title: The Certain Hour
+Year: 2008
+Authors: James Branch Cabell
+------------------------
+Filename: 289.txt
+Title: The Wind in the Willows
+Year: 1995
+Authors: Kenneth Grahame
+------------------------
+Filename: 29.txt
+Title: Census of Population and Housing, 1990
+Year: 1992
+Authors: United States Bureau of the Census
+------------------------
+Filename: 290.txt
+Title: The Stark Munro Letters
+Year: 1995
+Authors: J. Stark Munro
+------------------------
+Filename: 291.txt
+Title: The Golden Age
+Year: 2008
+Authors: Kenneth Grahame
+------------------------
+Filename: 292.txt
+Title: Beauty and The Beast, and Tales From Home
+Year: 2008
+Authors: Bayard Taylor
+------------------------
+Filename: 293.txt
+Title: Paul Prescott's Charge
+Year: 2006
+Authors: Horatio Alger
+------------------------
+Filename: 295.txt
+Title: The Early Short Fiction of Edith Wharton, Part 1 (of 10)
+Year: 1995
+Authors: Edith Wharton
+------------------------
+Filename: 296.txt
+Title: The Cash Boy
+Year: 2006
+Authors: Horatio Alger Jr.
+------------------------
+Filename: 297.txt
+Title: The Flirt
+Year: 2004
+Authors: Booth Tarkington
+------------------------
+Filename: 298.txt
+Title: The Market-Place
+Year: 2008
+Authors: Harold Frederic
+------------------------
+Filename: 299.txt
+Title: Tales From Two Hemispheres
+Year: 1995
+Authors: Hjalmar Hjorth Boysen
+------------------------
+Filename: 30.txt
+Title: The Bible, King James Version, Complete
+Year: 1992
+Authors: Unknown
+------------------------
+Filename: 300.txt
+Title: United States Declaration of Independence
+Year: 1995
+Authors: Thomas Jefferson
+------------------------
+Filename: 301.txt
+Title: The Ballad of Reading Gaol
+Year: 1995
+Authors: Oscar Wilde
+------------------------
+Filename: 302.txt
+Title: The Fibonacci Number Series
+Year: 1995
+Authors: Michael Husted
+------------------------
+Filename: 303.txt
+Title: HomeBrew HomePages Put YOU on the World Wide Web
+Year: 2015
+Authors: Unknown
+------------------------
+Filename: 304.txt
+Title: Rio Grande's Last Race and Other Verses
+Year: 1995
+Authors: Andrew Barton 'Banjo' Paterson
+------------------------
+Filename: 305.txt
+Title: The Count's Millions
+Year: 2008
+Authors: Emile Gaboriau
+------------------------
+Filename: 306.txt
+Title: The Early Short Fiction of Edith Wharton,  Part 2 (of 10)
+Year: 1995
+Authors: Edith Wharton
+------------------------
+Filename: 307.txt
+Title: Three Elephant Power
+Year: 2008
+Authors: Andrew Barton 'Banjo' Paterson
+------------------------
+Filename: 308.txt
+Title: Three Men in a Boat
+Year: 2010
+Authors: Jerome K. Jerome
+------------------------
+Filename: 309.txt
+Title: Rhymes of a Rolling Stone
+Year: 1995
+Authors: Robert W. Service
+------------------------
+Filename: 31.txt
+Title: The Oedipus Trilogy
+Year: 2006
+Authors: Sophocles
+------------------------
+Filename: 310.txt
+Title: Before Adam
+Year: 1995
+Authors: Jack London
+------------------------
+Filename: 311.txt
+Title: Bunner Sisters
+Year: 2008
+Authors: Edith Wharton
+------------------------
+Filename: 312.txt
+Title: Young Adventure
+Year: 1995
+Authors: Stephen Vincent Benet
+------------------------
+Filename: 313.txt
+Title: The Children of the Night
+Year: 2008
+Authors: Edwin Arlington Robinson
+------------------------
+Filename: 314.txt
+Title: Guide to Life and Literature of the Southwest
+Year: 1995
+Authors: J. Frank Dobie
+------------------------
+Filename: 315.txt
+Title: Rhymes of a Red Cross Man
+Year: 1995
+Authors: Robert W. Service
+------------------------
+Filename: 316.txt
+Title: The Golden Road
+Year: 2008
+Authors: Lucy Maud Montgomery
+------------------------
+Filename: 317.txt
+Title: The Culprit Fay
+Year: 2007
+Authors: Joseph Rodman Drake
+------------------------
+Filename: 318.txt
+Title: John Barleycorn
+Year: 2008
+Authors: Jack London
+------------------------
+Filename: 32.txt
+Title: Herland
+Year: 1992
+Authors: Charlotte Perkins Stetson Gilman
+------------------------
+Filename: 321.txt
+Title: Moran of the Lady Letty
+Year: 2008
+Authors: Frank Norris
+------------------------
+Filename: 322.txt
+Title: St. Ives
+Year: 2010
+Authors: Robert Louis Stevenson
+------------------------
+Filename: 323.txt
+Title: Verses 1889-1896
+Year: 2008
+Authors: Rudyard Kipling
+------------------------
+Filename: 324.txt
+Title: A Knight of the Cumberland
+Year: 2008
+Authors: John Fox Jr.
+------------------------
+Filename: 326.txt
+Title: Steep Trails
+Year: 1995
+Authors: John Muir
+------------------------
+Filename: 327.txt
+Title: The Princess Aline
+Year: 2008
+Authors: Richard Harding Davis
+------------------------
+Filename: 328.txt
+Title: A Heap o' Livin'
+Year: 2008
+Authors: Edgar A. Guest
+------------------------
+Filename: 33.txt
+Title: The Scarlet Letter
+Year: 1992
+Authors: Nathaniel Hawthorne
+------------------------
+Filename: 330.txt
+Title: Where There's A Will
+Year: 2006
+Authors: Mary Roberts Rinehart
+------------------------
+Filename: 331.txt
+Title: The Mucker
+Year: 1995
+Authors: Edgar Rice Burroughs
+------------------------
+Filename: 332.txt
+Title: The Burial of the Guns
+Year: 2008
+Authors: Thomas Nelson Page
+------------------------
+Filename: 333.txt
+Title: Robert Louis Stevenson
+Year: 2007
+Authors: Walter Raleigh
+------------------------
+Filename: 334.txt
+Title: Episodes in Van Bibber's Life
+Year: 2008
+Authors: Richard Harding Davis
+------------------------
+Filename: 335.txt
+Title: Frances Waldeaux
+Year: 2008
+Authors: Rebecca Harding Davis
+------------------------
+Filename: 336.txt
+Title: Indian Heroes and Great Chieftains
+Year: 2008
+Authors: Charles A. Eastman
+------------------------
+Filename: 337.txt
+Title: Indian Boyhood
+Year: 2008
+Authors: Charles A. Eastman
+------------------------
+Filename: 338.txt
+Title: Old Indian Legends
+Year: 2008
+Authors: Zitkala-Sa
+------------------------
+Filename: 339.txt
+Title: Old Indian Days
+Year: 2008
+Authors: Charles A. Eastman
+------------------------
+Filename: 34.txt
+Title: Zen and the Art of the Internet
+Year: 1992
+Authors: Brendan P. Kehoe
+------------------------
+Filename: 340.txt
+Title: The Soul of the Indian
+Year: 2008
+Authors: Charles A. Eastman
+------------------------
+Filename: 341.txt
+Title: Myths and Legends of the Sioux
+Year: 1995
+Authors: Marie L. McLaughlin
+------------------------
+Filename: 342.txt
+Title: Margaret Ogilvy
+Year: 2010
+Authors: J. M. Barrie
+------------------------
+Filename: 343.txt
+Title: Fables
+Year: 2007
+Authors: Robert Louis Stevenson
+------------------------
+Filename: 344.txt
+Title: The Merry Men
+Year: 2007
+Authors: Robert Louis Stevenson
+------------------------
+Filename: 345.txt
+Title: Dracula
+Year: 2013
+Authors: Bram Stoker
+------------------------
+Filename: 346.txt
+Title: The Troll Garden and Selected Stories
+Year: 1995
+Authors: Willa Cather
+------------------------
+Filename: 347.txt
+Title: Grettir The Strong
+Year: 2008
+Authors: Unknown
+------------------------
+Filename: 348.txt
+Title: Hesiod, The Homeric Hymns, and Homerica
+Year: 2008
+Authors: Homer;Hesiod
+------------------------
+Filename: 349.txt
+Title: The Harvester
+Year: 1995
+Authors: Gene Stratton Porter
+------------------------
+Filename: 35.txt
+Title: The Time Machine
+Year: 2004
+Authors: H. G. (Herbert George) Wells
+------------------------
+Filename: 350.txt
+Title: Fanny Herself
+Year: 2008
+Authors: Edna Ferber
+------------------------
+Filename: 351.txt
+Title: Of Human Bondage
+Year: 2008
+Authors: W. Somerset Maugham
+------------------------
+Filename: 352.txt
+Title: Buttered Side Down
+Year: 2008
+Authors: Edna Ferber
+------------------------
+Filename: 353.txt
+Title: In Flanders Fields and Other Poems
+Year: 2008
+Authors: John McCrae
+------------------------
+Filename: 354.txt
+Title: The Story of a Pioneer
+Year: 1995
+Authors: Anna Howard Shaw
+------------------------
+Filename: 355.txt
+Title: The Parasite
+Year: 2008
+Authors: Arthur Conan Doyle
+------------------------
+Filename: 356.txt
+Title: Beyond the City
+Year: 2008
+Authors: Arthur Conan Doyle
+------------------------
+Filename: 357.txt
+Title: A Dream of John Ball, A King's Lesson
+Year: 2008
+Authors: William Morris
+------------------------
+Filename: 358.txt
+Title: The Scarlet Car
+Year: 2008
+Authors: Richard Harding Davis
+------------------------
+Filename: 359.txt
+Title: Good Stories For Great Holidays
+Year: 1995
+Authors: Frances Jenkins Olcott
+------------------------
+Filename: 360.txt
+Title: What is Property?
+Year: 1995
+Authors: P. J. Proudhon
+------------------------
+Filename: 361.txt
+Title: Miss Billy Married
+Year: 2008
+Authors: Eleanor H. Porter
+------------------------
+Filename: 362.txt
+Title: Miss Billy's Decision
+Year: 2008
+Authors: Eleanor H. Porter
+------------------------
+Filename: 363.txt
+Title: The Oakdale Affair
+Year: 2008
+Authors: Edgar Rice Burroughs
+------------------------
+Filename: 364.txt
+Title: The Mad King
+Year: 2004
+Authors: Edgar Rice Burroughs
+------------------------
+Filename: 365.txt
+Title: The Land of Little Rain
+Year: 2008
+Authors: Mary Austin
+------------------------
+Filename: 366.txt
+Title: Bab: A Sub-Deb
+Year: 1995
+Authors: Mary Roberts Rinehart
+------------------------
+Filename: 367.txt
+Title: The Country of the Pointed Firs
+Year: 2008
+Authors: Sarah Orne Jewett
+------------------------
+Filename: 368.txt
+Title: Acres of Diamonds
+Year: 2008
+Authors: Russell H. Conwell
+------------------------
+Filename: 369.txt
+Title: The Outlaw of Torn
+Year: 2008
+Authors: Edgar Rice Burroughs
+------------------------
+Filename: 37.txt
+Title: Census of Population and Housing, 1990 [2nd]
+Year: 1992
+Authors: United States Bureau of the Census
+------------------------
+Filename: 370.txt
+Title: The Fortunes and Misfortunes of the Famous Moll Flanders &c.
+Year: 2008
+Authors: Daniel Defoe
+------------------------
+Filename: 371.txt
+Title: Literary Blunders
+Year: 1995
+Authors: Henry Benjamin Wheatley
+------------------------
+Filename: 372.txt
+Title: Prince Otto
+Year: 2010
+Authors: Robert Louis Stevenson
+------------------------
+Filename: 373.txt
+Title: Lay Morals
+Year: 2010
+Authors: Robert Louis Stevenson
+------------------------
+Filename: 374.txt
+Title: Fantastic Fables
+Year: 2007
+Authors: Ambrose Bierce
+------------------------
+Filename: 375.txt
+Title: An Occurrence at Owl Creek
+Year: 2008
+Authors: Ambrose Bierce
+------------------------
+Filename: 376.txt
+Title: A Journal of the Plague Year
+Year: 2006
+Authors: Daniel Defoe
+------------------------
+Filename: 377.txt
+Title: Kansas Women in Literature
+Year: 2008
+Authors: Nettie Garmer Barker
+------------------------
+Filename: 378.txt
+Title: The White Knight: Tirant lo Blanc
+Year: 1995
+Authors: Joanot Martorell;Marti Johan d'Galba
+------------------------
+Filename: 379.txt
+Title: Worldly Ways and Byways
+Year: 2007
+Authors: Eliot Gregory
+------------------------
+Filename: 38.txt
+Title: The Jargon File, Version 2.9.10, 01 Jul 1992
+Year: 1992
+Authors: Unknown
+------------------------
+Filename: 380.txt
+Title: Weir of Hermiston
+Year: 2010
+Authors: Robert Louis Stevenson
+------------------------
+Filename: 381.txt
+Title: Memories and Portraits
+Year: 2010
+Authors: Robert Louis Stevenson
+------------------------
+Filename: 382.txt
+Title: Edinburgh
+Year: 2010
+Authors: Robert Louis Stevenson
+------------------------
+Filename: 383.txt
+Title: She Stoops to Conquer
+Year: 1995
+Authors: Oliver Goldsmith
+------------------------
+Filename: 384.txt
+Title: The Lost Prince
+Year: 1996
+Authors: Frances Hodgson Burnett
+------------------------
+Filename: 385.txt
+Title: The Redheaded Outfield and Other Baseball Stories
+Year: 1996
+Authors: Zane Grey
+------------------------
+Filename: 389.txt
+Title: The Great God Pan
+Year: 1996
+Authors: Arthur Machen
+------------------------
+Filename: 39.txt
+Title: Hitchhiker's Guide to the Internet
+Year: 1992
+Authors: Ed Krol
+------------------------
+Filename: 391.txt
+Title: The Song of Roland
+Year: 1996
+Authors: Unknown
+------------------------
+Filename: 392.txt
+Title: Jerusalem Delivered
+Year: 1995
+Authors: Torquato Tasso
+------------------------
+Filename: 396.txt
+Title: The Lady, or the Tiger?
+Year: 1995
+Authors: Frank R. Stockton
+------------------------
+Filename: 397.txt
+Title: L'Allegro, Il Penseroso, Comus, and Lycidas
+Year: 1995
+Authors: John Milton
+------------------------
+Filename: 398.txt
+Title: First Book of Adam and Eve
+Year: 2008
+Authors: Rutherford Platt
+------------------------
+Filename: 399.txt
+Title: Cast Upon the Breakers
+Year: 2006
+Authors: Horatio Alger
+------------------------
+Filename: 400.txt
+Title: Helen of Troy and Other Poems
+Year: 1996
+Authors: Sara Teasdale
+------------------------
+Filename: 401.txt
+Title: Blix
+Year: 2008
+Authors: Frank Norris
+------------------------
+Filename: 402.txt
+Title: Penrod
+Year: 2006
+Authors: Booth Tarkington
+------------------------
+Filename: 403.txt
+Title: Soldiers of Fortune
+Year: 1996
+Authors: Richard Harding Davis
+------------------------
+Filename: 404.txt
+Title: Industrial Biography
+Year: 2008
+Authors: Samuel Smiles
+------------------------
+Filename: 405.txt
+Title: Adventures and Letters
+Year: 2008
+Authors: Richard Harding Davis
+------------------------
+Filename: 406.txt
+Title: Appreciations of Richard Harding Davis
+Year: 2008
+Authors: Unknown
+------------------------
+Filename: 407.txt
+Title: The Reporter Who Made Himself King
+Year: 2008
+Authors: Richard Harding Davis
+------------------------
+Filename: 408.txt
+Title: The Souls of Black Folk
+Year: 2008
+Authors: W. E. B. Du Bois
+------------------------
+Filename: 409.txt
+Title: Religious and Moral Poems
+Year: 1996
+Authors: Phillis Wheatley
+------------------------
+Filename: 41.txt
+Title: The Legend of Sleepy Hollow
+Year: 1992
+Authors: Washington Irving
+------------------------
+Filename: 410.txt
+Title: Hell fer Sartain' and Other Stories
+Year: 1996
+Authors: John Fox, Jr.
+------------------------
+Filename: 411.txt
+Title: The King's Jackal
+Year: 2008
+Authors: Richard Harding Davis
+------------------------
+Filename: 412.txt
+Title: John Jacob Astor
+Year: 1996
+Authors: Elbert Hubbard
+------------------------
+Filename: 414.txt
+Title: The Pageant of Summer
+Year: 2007
+Authors: Richard Jefferies
+------------------------
+Filename: 416.txt
+Title: Winesburg, Ohio
+Year: 2005
+Authors: Sherwood Anderson
+------------------------
+Filename: 418.txt
+Title: A Treatise on Good Works
+Year: 2008
+Authors: Dr. Martin Luther
+------------------------
+Filename: 419.txt
+Title: The Magic of Oz
+Year: 1996
+Authors: L. Frank Baum
+------------------------
+Filename: 42.txt
+Title: Dr. Jekyll and Mr. Hyde
+Year: 1992
+Authors: Robert Louis Stevenson
+------------------------
+Filename: 420.txt
+Title: Dorothy and the Wizard in Oz
+Year: 1996
+Authors: L. Frank Baum.
+------------------------
+Filename: 421.txt
+Title: Kidnapped
+Year: 2006
+Authors: Robert Louis Stevenson
+------------------------
+Filename: 422.txt
+Title: The Romany Rye
+Year: 2007
+Authors: George Borrow
+------------------------
+Filename: 423.txt
+Title: Round the Red Lamp
+Year: 2008
+Authors: Arthur Conan Doyle
+------------------------
+Filename: 424.txt
+Title: General William Booth enters into Heaven and other Poems
+Year: 1995
+Authors: Vachel Lindsay
+------------------------
+Filename: 427.txt
+Title: The Great War Syndicate
+Year: 2008
+Authors: Frank Stockton
+------------------------
+Filename: 428.txt
+Title: Frivolous Cupid
+Year: 1996
+Authors: Anthony Hope
+------------------------
+Filename: 429.txt
+Title: The Magic Egg and Other Stories
+Year: 2008
+Authors: Frank Stockton
+------------------------
+Filename: 430.txt
+Title: The Grain Of Dust
+Year: 2004
+Authors: David Graham Phillips
+------------------------
+Filename: 431.txt
+Title: The Fortune Hunter
+Year: 1996
+Authors: David Graham Phillips
+------------------------
+Filename: 432.txt
+Title: The Ambassadors
+Year: 1996
+Authors: Henry James
+------------------------
+Filename: 433.txt
+Title: The Conflict
+Year: 1996
+Authors: David Graham Phillips
+------------------------
+Filename: 434.txt
+Title: The Circular Staircase
+Year: 1996
+Authors: Mary Roberts Rinehart
+------------------------
+Filename: 436.txt
+Title: The Master Key
+Year: 1996
+Authors: L. Frank Baum
+------------------------
+Filename: 437.txt
+Title: The Life of Lazarillo of Tormes, Parts One and Two
+Year: 1995
+Authors: Lazarillo of Tormes
+------------------------
+Filename: 439.txt
+Title: The Vital Message
+Year: 1996
+Authors: Arthur Conan Doyle
+------------------------
+Filename: 44.txt
+Title: Song of the Lark
+Year: 1992
+Authors: Willa Cather
+------------------------
+Filename: 440.txt
+Title: Just David
+Year: 1996
+Authors: Eleanor H. Porter
+------------------------
+Filename: 442.txt
+Title: Love Songs
+Year: 1996
+Authors: Sara Teasdale
+------------------------
+Filename: 443.txt
+Title: The Love Affairs of a Bibliomaniac
+Year: 1996
+Authors: Eugene Field
+------------------------
+Filename: 446.txt
+Title: A Book of Remarkable Criminals
+Year: 1996
+Authors: H. B. Irving
+------------------------
+Filename: 447.txt
+Title: Maggie: A Girl of the Streets
+Year: 1996
+Authors: Stephen Crane
+------------------------
+Filename: 45.txt
+Title: Anne of Green Gables
+Year: 1992
+Authors: Lucy Maud Montgomery
+------------------------
+Filename: 450.txt
+Title: Susan Lenox: Her Fall and Rise
+Year: 2006
+Authors: David Graham Phillips
+------------------------
+Filename: 451.txt
+Title: The Shadow-Line
+Year: 2006
+Authors: Joseph Conrad
+------------------------
+Filename: 452.txt
+Title: Lavengro
+Year: 2006
+Authors: George Borrow
+------------------------
+Filename: 453.txt
+Title: Emma McChesney & Co.
+Year: 1996
+Authors: Edna Ferber
+------------------------
+Filename: 455.txt
+Title: The University of Hard Knocks
+Year: 1996
+Authors: Ralph Parlette
+------------------------
+Filename: 456.txt
+Title: The Door in the Wall And Other Stories
+Year: 2005
+Authors: H. G. Wells
+------------------------
+Filename: 457.txt
+Title: The Price She Paid
+Year: 1996
+Authors: David Graham Phillips
+------------------------
+Filename: 458.txt
+Title: Dreams and Dust
+Year: 1996
+Authors: Don Marquis
+------------------------
+Filename: 459.txt
+Title: The White People
+Year: 2006
+Authors: Frances Hodgson Burnett
+------------------------
+Filename: 46.txt
+Title: A Christmas Carol
+Year: 2004
+Authors: Charles Dickens
+------------------------
+Filename: 460.txt
+Title: The Dawn of a To-morrow
+Year: 1996
+Authors: Frances Hodgson Burnett
+------------------------
+Filename: 461.txt
+Title: The Quest of the Golden Girl
+Year: 1996
+Authors: Richard le Gallienne
+------------------------
+Filename: 462.txt
+Title: The Errand Boy
+Year: 2006
+Authors: Horatio Alger
+------------------------
+Filename: 463.txt
+Title: The Red Badge of Courage
+Year: 1996
+Authors: Stephen Crane
+------------------------
+Filename: 465.txt
+Title: The Mountains
+Year: 1996
+Authors: Stewart Edward White
+------------------------
+Filename: 466.txt
+Title: The Gaming Table:  Its Votaries and Victims
+Year: 1996
+Authors: Andrew Steinmetz
+------------------------
+Filename: 467.txt
+Title: The Princess of Cleves
+Year: 1996
+Authors: Madame de Lafayette
+------------------------
+Filename: 469.txt
+Title: The Duchesse de Langeais
+Year: 1996
+Authors: Honore de Balzac
+------------------------
+Filename: 47.txt
+Title: Anne Of Avonlea
+Year: 2006
+Authors: Lucy Maud Montgomery
+------------------------
+Filename: 470.txt
+Title: Heretics
+Year: 1996
+Authors: Gilbert K. Chesterton
+------------------------
+Filename: 471.txt
+Title: Bride of Lammermoor
+Year: 2006
+Authors: Sir Walter Scott
+------------------------
+Filename: 472.txt
+Title: The House Behind the Cedars
+Year: 1996
+Authors: Charles W. Chesnutt
+------------------------
+Filename: 473.txt
+Title: Stories to Tell to Children
+Year: 1996
+Authors: Sara Cone Bryant
+------------------------
+Filename: 474.txt
+Title: How to Tell Stories to Children
+Year: 2005
+Authors: Sara Cone Bryant
+------------------------
+Filename: 478.txt
+Title: The Cost
+Year: 1996
+Authors: David Graham Phillips
+------------------------
+Filename: 479.txt
+Title: Little Lord Fauntleroy
+Year: 2006
+Authors: Frances Hodgson Burnett
+------------------------
+Filename: 48.txt
+Title: The 1992 CIA World Factbook
+Year: 1993
+Authors: United States.  Central Intelligence Agency.
+------------------------
+Filename: 480.txt
+Title: Undo
+Year: 1996
+Authors: Joe Hutsko
+------------------------
+Filename: 481.txt
+Title: In the Bishop's Carriage
+Year: 1996
+Authors: Miriam Michelson
+------------------------
+Filename: 482.txt
+Title: The Woodlanders
+Year: 1996
+Authors: Thomas Hardy
+------------------------
+Filename: 483.txt
+Title: The Conquest of Canaan
+Year: 1996
+Authors: Booth Tarkington
+------------------------
+Filename: 484.txt
+Title: Poor and Proud
+Year: 1996
+Authors: Oliver Optic
+------------------------
+Filename: 485.txt
+Title: The Road to Oz
+Year: 1996
+Authors: L. Frank Baum
+------------------------
+Filename: 486.txt
+Title: Ozma of Oz
+Year: 1996
+Authors: L. Frank Baum
+------------------------
+Filename: 487.txt
+Title: Songs of Travel
+Year: 2009
+Authors: Robert Louis Stevenson
+------------------------
+Filename: 488.txt
+Title: She Stands Accused
+Year: 1996
+Authors: Victor MacClure
+------------------------
+Filename: 489.txt
+Title: One Basket
+Year: 1996
+Authors: Edna Ferber
+------------------------
+Filename: 49.txt
+Title: Surfing the Internet
+Year: 1993
+Authors: Jean Armour Polly
+------------------------
+Filename: 490.txt
+Title: Life and Adventures of Calamity Jane
+Year: 1996
+Authors: Calamity Jane
+------------------------
+Filename: 491.txt
+Title: Rezanov
+Year: 1996
+Authors: Gertrude Atherton
+------------------------
+Filename: 493.txt
+Title: Falk
+Year: 1996
+Authors: Joseph Conrad
+------------------------
+Filename: 494.txt
+Title: To-morrow
+Year: 1996
+Authors: Joseph Conrad
+------------------------
+Filename: 495.txt
+Title: Amy Foster
+Year: 1996
+Authors: Joseph Conrad
+------------------------
+Filename: 496.txt
+Title: The Little Lame Prince
+Year: 2006
+Authors: Miss Mulock--Pseudonym of Maria Dinah Craik
+------------------------
+Filename: 498.txt
+Title: Rebecca of Sunnybrook Farm
+Year: 1996
+Authors: Kate Douglas Wiggin
+------------------------
+Filename: 499.txt
+Title: Tom Swift in the Land of Wonders
+Year: 2002
+Authors: Victor Appleton
+------------------------
+Filename: 5.txt
+Title: The United States' Constitution
+Year: 1975
+Authors: Founding Fathers
+------------------------
+Filename: 50.txt
+Title: Pi to 1,000,000 places
+Year: 2008
+Authors: Scott Hemphill
+------------------------
+Filename: 500.txt
+Title: The Adventures of Pinocchio
+Year: 2006
+Authors: C. Collodi--Pseudonym of Carlo Lorenzini
+------------------------
+Filename: 502.txt
+Title: Desert Gold
+Year: 1996
+Authors: Zane Grey
+------------------------
+Filename: 503.txt
+Title: The Blue Fairy Book
+Year: 1996
+Authors: Unknown
+------------------------
+Filename: 504.txt
+Title: The Fifth String, The Conspirators
+Year: 1996
+Authors: John Philip Sousa
+------------------------
+Filename: 505.txt
+Title: History of the Warfare of Science with Theology in Christendom
+Year: 1996
+Authors: Andrew Dickson White
+------------------------
+Filename: 506.txt
+Title: The Shuttle
+Year: 2006
+Authors: Frances Hodgson Burnett
+------------------------
+Filename: 507.txt
+Title: Adam Bede
+Year: 2006
+Authors: George Eliot
+------------------------
+Filename: 508.txt
+Title: Twice-Told Tales
+Year: 1996
+Authors: Nathaniel Hawthorne
+------------------------
+Filename: 509.txt
+Title: The Purcell Papers
+Year: 2008
+Authors: Joseph Sheridan Le Fanu
+------------------------
+Filename: 51.txt
+Title: Anne Of The Island
+Year: 2006
+Authors: Lucy Maud Montgomery
+------------------------
+Filename: 510.txt
+Title: The Purcell Papers
+Year: 2008
+Authors: Joseph Sheridan Le Fanu
+------------------------
+Filename: 511.txt
+Title: The Purcell Papers
+Year: 2008
+Authors: Joseph Sheridan Le Fanu
+------------------------
+Filename: 512.txt
+Title: Mosses from an Old Manse and Other Stories
+Year: 1996
+Authors: Nathaniel Hawthorne
+------------------------
+Filename: 513.txt
+Title: The Snow Image
+Year: 1996
+Authors: Nathaniel Hawthorne
+------------------------
+Filename: 514.txt
+Title: Little Women
+Year: 1996
+Authors: Louisa May Alcott
+------------------------
+Filename: 515.txt
+Title: Margret Howth, A Story of To-day
+Year: 1996
+Authors: Rebecca Harding Davis
+------------------------
+Filename: 517.txt
+Title: The Emerald City of Oz
+Year: 1996
+Authors: L. Frank Baum
+------------------------
+Filename: 518.txt
+Title: The Enchanted Island of Yew
+Year: 1996
+Authors: L. Frank Baum
+------------------------
+Filename: 519.txt
+Title: A Kidnapped Santa Claus
+Year: 1996
+Authors: L. Frank Baum
+------------------------
+Filename: 52.txt
+Title: The Square Root of 2
+Year: 2008
+Authors: Stan Kerr
+------------------------
+Filename: 520.txt
+Title: The Life and Adventures of Santa Claus
+Year: 1996
+Authors: L. Frank Baum
+------------------------
+Filename: 521.txt
+Title: The Life and Adventures of Robinson Crusoe
+Year: 2010
+Authors: Daniel Defoe
+------------------------
+Filename: 522.txt
+Title: The Chinese Boy and Girl
+Year: 1996
+Authors: Isaac Taylor Headland
+------------------------
+Filename: 523.txt
+Title: Court Life in China
+Year: 1996
+Authors: Isaac Taylor Headland
+------------------------
+Filename: 524.txt
+Title: Ann Veronica
+Year: 2006
+Authors: H. G. Wells
+------------------------
+Filename: 525.txt
+Title: Youth
+Year: 1996
+Authors: Joseph Conrad
+------------------------
+Filename: 526.txt
+Title: Heart of Darkness
+Year: 2006
+Authors: Joseph Conrad
+------------------------
+Filename: 527.txt
+Title: End of the Tether
+Year: 2006
+Authors: Joseph Conrad
+------------------------
+Filename: 528.txt
+Title: Joe The Hotel Boy
+Year: 2006
+Authors: Horatio Alger Jr.
+------------------------
+Filename: 529.txt
+Title: Knights of Art
+Year: 1996
+Authors: Amy Steedman
+------------------------
+Filename: 53.txt
+Title: LOC Workshop on Electronic Texts
+Year: 1993
+Authors: Library of Congress
+------------------------
+Filename: 530.txt
+Title: Driven From Home
+Year: 2006
+Authors: Horatio Alger
+------------------------
+Filename: 531.txt
+Title: The Gaming Table:  Its Votaries and Victims
+Year: 1996
+Authors: Andrew Steinmetz
+------------------------
+Filename: 532.txt
+Title: At the Foot of the Rainbow
+Year: 1996
+Authors: Gene Stratton-Porter
+------------------------
+Filename: 533.txt
+Title: The Song of the Cardinal
+Year: 1996
+Authors: Gene Stratton-Porter
+------------------------
+Filename: 535.txt
+Title: Travels with a Donkey in the Cevennes
+Year: 2004
+Authors: Robert Louis Stevenson
+------------------------
+Filename: 536.txt
+Title: A Footnote to History
+Year: 2005
+Authors: Robert Louis Stevenson
+------------------------
+Filename: 537.txt
+Title: Tales of Terror and Mystery
+Year: 1996
+Authors: Arthur Conan Doyle
+------------------------
+Filename: 538.txt
+Title: Jean of the Lazy A
+Year: 1996
+Authors: B. M. Bower
+------------------------
+Filename: 54.txt
+Title: The Marvellous Land of Oz
+Year: 1993
+Authors: L. Frank Baum
+------------------------
+Filename: 540.txt
+Title: The Red Fairy Book
+Year: 1996
+Authors: Unknown
+------------------------
+Filename: 541.txt
+Title: The Age of Innocence
+Year: 1996
+Authors: Edith Wharton
+------------------------
+Filename: 542.txt
+Title: The Life of Me
+Year: 1996
+Authors: Clarence Edgar Johnson
+------------------------
+Filename: 543.txt
+Title: Main Street
+Year: 2006
+Authors: Sinclair Lewis
+------------------------
+Filename: 544.txt
+Title: Anne's House of Dreams
+Year: 1996
+Authors: Lucy Maud Montgomery
+------------------------
+Filename: 545.txt
+Title: At the Earth's Core
+Year: 1996
+Authors: Edgar Rice Burroughs
+------------------------
+Filename: 546.txt
+Title: Under the Andes
+Year: 1996
+Authors: Rex Stout
+------------------------
+Filename: 547.txt
+Title: Baron Trigault's Vengeance
+Year: 2008
+Authors: Emile Gaboriau
+------------------------
+Filename: 548.txt
+Title: Project Trinity 1945-1946
+Year: 1996
+Authors: Carl Maag;Steve Rohrer
+------------------------
+Filename: 549.txt
+Title: The Underdogs
+Year: 1996
+Authors: Mariano Azuela
+------------------------
+Filename: 55.txt
+Title: The Wonderful Wizard of Oz
+Year: 2008
+Authors: L. Frank Baum
+------------------------
+Filename: 550.txt
+Title: Silas Marner
+Year: 1996
+Authors: George Eliot
+------------------------
+Filename: 552.txt
+Title: The People that Time Forgot
+Year: 1996
+Authors: Edgar Rice Burroughs
+------------------------
+Filename: 553.txt
+Title: Out of Time's Abyss
+Year: 1996
+Authors: Edgar Rice Burroughs
+------------------------
+Filename: 554.txt
+Title: The Contrast
+Year: 1996
+Authors: Royall Tyler
+------------------------
+Filename: 556.txt
+Title: Rewards and Fairies
+Year: 1996
+Authors: Rudyard Kipling
+------------------------
+Filename: 557.txt
+Title: Puck of Pook's Hill
+Year: 1996
+Authors: Rudyard Kipling
+------------------------
+Filename: 558.txt
+Title: The Thirty-nine Steps
+Year: 1996
+Authors: John Buchan
+------------------------
+Filename: 559.txt
+Title: Greenmantle
+Year: 1996
+Authors: John Buchan
+------------------------
+Filename: 56.txt
+Title: NREN for All: Insurmountable Opportunity
+Year: 1993
+Authors: Jean Armour Polly
+------------------------
+Filename: 560.txt
+Title: Mr. Standfast
+Year: 1996
+Authors: John Buchan
+------------------------
+Filename: 561.txt
+Title: The Further Adventures of Robinson Crusoe
+Year: 2007
+Authors: Daniel Defoe
+------------------------
+Filename: 562.txt
+Title: Go Ahead Boys and the Racing Motorboat
+Year: 1996
+Authors: Ross Kay
+------------------------
+Filename: 563.txt
+Title: The Planet Mars and its Inhabitants
+Year: 2008
+Authors: Eros Urides;J. L. Kennon
+------------------------
+Filename: 564.txt
+Title: The Mystery of Edwin Drood
+Year: 2010
+Authors: Charles Dickens
+------------------------
+Filename: 57.txt
+Title: Aladdin and the Magic Lamp
+Year: 2008
+Authors: Unknown
+------------------------
+Filename: 570.txt
+Title: The Moravians in Georgia
+Year: 1996
+Authors: Adelaide L. Fries
+------------------------
+Filename: 571.txt
+Title: The 1995 CIA World Factbook
+Year: 1996
+Authors: United States Central Intelligence Agency
+------------------------
+Filename: 572.txt
+Title: The Great Big Treasury of Beatrix Potter
+Year: 1996
+Authors: Beatrix Potter
+------------------------
+Filename: 573.txt
+Title: Tales from Shakespeare
+Year: 1996
+Authors: Charles;Mary Lamb
+------------------------
+Filename: 574.txt
+Title: Poems of William Blake
+Year: 1996
+Authors: William Blake
+------------------------
+Filename: 575.txt
+Title: Essays
+Year: 1996
+Authors: Francis Bacon
+------------------------
+Filename: 578.txt
+Title: Down with the Cities
+Year: 1996
+Authors: Tadashi Nakashima
+------------------------
+Filename: 58.txt
+Title: Paradise Regained
+Year: 2008
+Authors: John Milton
+------------------------
+Filename: 581.txt
+Title: Ginx's Baby
+Year: 1996
+Authors: Edward Jenkins
+------------------------
+Filename: 582.txt
+Title: A Collection of Beatrix Potter Stories
+Year: 1996
+Authors: Beatrix Potter
+------------------------
+Filename: 583.txt
+Title: The Woman in White
+Year: 1996
+Authors: Wilkie Collins
+------------------------
+Filename: 584.txt
+Title: Our nig
+Year: 1996
+Authors: Harriet E. Wilson
+------------------------
+Filename: 585.txt
+Title: Running a Thousand Miles for Freedom
+Year: 1996
+Authors: William;Ellen Craft
+------------------------
+Filename: 587.txt
+Title: Danny's Own Story
+Year: 1996
+Authors: Don Marquis
+------------------------
+Filename: 590.txt
+Title: Robert Louis Stevenson
+Year: 2007
+Authors: Alexander H. Japp
+------------------------
+Filename: 591.txt
+Title: Flame and Shadow
+Year: 1996
+Authors: Sara Teasdale
+------------------------
+Filename: 592.txt
+Title: Chinese Nightingale
+Year: 1996
+Authors: Vachel Lindsay
+------------------------
+Filename: 593.txt
+Title: Selected Writings of Guy de Maupassant
+Year: 1996
+Authors: Guy de Maupassant
+------------------------
+Filename: 594.txt
+Title: Twilight Stories
+Year: 1996
+Authors: Unknown
+------------------------
+Filename: 595.txt
+Title: The Sisters' Tragedy
+Year: 1996
+Authors: Thomas Bailey Aldrich
+------------------------
+Filename: 596.txt
+Title: Rivers to the Sea
+Year: 1996
+Authors: Sara Teasdale
+------------------------
+Filename: 597.txt
+Title: Njal's Saga
+Year: 2004
+Authors: Unknown Icelanders
+------------------------
+Filename: 598.txt
+Title: Heimskringla
+Year: 1996
+Authors: Snorri Sturlason
+------------------------
+Filename: 599.txt
+Title: Vanity Fair
+Year: 1996
+Authors: William Makepeace Thackeray
+------------------------
+Filename: 60.txt
+Title: The Scarlet Pimpernel
+Year: 2006
+Authors: Baroness Orczy
+------------------------
+Filename: 600.txt
+Title: Notes from the Underground
+Year: 1996
+Authors: Feodor Dostoevsky
+------------------------
+Filename: 601.txt
+Title: The Monk; a romance
+Year: 1996
+Authors: M. G. Lewis
+------------------------
+Filename: 602.txt
+Title: Pharsalia; Dramatic Episodes of the Civil Wars
+Year: 1996
+Authors: Lucan
+------------------------
+Filename: 603.txt
+Title: Letters of George Borrow
+Year: 2007
+Authors: George Borrow
+------------------------
+Filename: 604.txt
+Title: Gulliver of Mars
+Year: 1996
+Authors: Edwin L. Arnold
+------------------------
+Filename: 605.txt
+Title: Pellucidar
+Year: 1996
+Authors: Edgar Rice Burroughs
+------------------------
+Filename: 606.txt
+Title: Indian Why Stories
+Year: 1996
+Authors: Frank Bird Linderman
+------------------------
+Filename: 607.txt
+Title: The Augsberg Confession
+Year: 1996
+Authors: Philip Melancthon
+------------------------
+Filename: 608.txt
+Title: Areopagitica
+Year: 2006
+Authors: John Milton
+------------------------
+Filename: 609.txt
+Title: America Through the Spectacles of an Oriental Diplomat
+Year: 1996
+Authors: Wu Tingfang
+------------------------
+Filename: 61.txt
+Title: The Communist Manifesto
+Year: 2005
+Authors: Karl Marx;Friedrich Engels
+------------------------
+Filename: 610.txt
+Title: Idylls of the King
+Year: 1996
+Authors: Alfred, Lord Tennyson
+------------------------
+Filename: 612.txt
+Title: The Constitution of Japan, 1946
+Year: 1996
+Authors: Japan
+------------------------
+Filename: 613.txt
+Title: The Constitution of the Empire of Japan, 1889
+Year: 1996
+Authors: Japan
+------------------------
+Filename: 615.txt
+Title: Orlando Furioso
+Year: 1996
+Authors: Lodovico Ariosto
+------------------------
+Filename: 617.txt
+Title: Poems
+Year: 2008
+Authors: Alan Seeger
+------------------------
+Filename: 618.txt
+Title: Codex Junius 11
+Year: 1996
+Authors: Unknown
+------------------------
+Filename: 619.txt
+Title: The Warden
+Year: 1996
+Authors: Anthony Trollope
+------------------------
+Filename: 62.txt
+Title: A Princess of Mars
+Year: 2008
+Authors: Edgar Rice Burroughs
+------------------------
+Filename: 620.txt
+Title: Sylvie and Bruno
+Year: 1996
+Authors: Lewis Carroll
+------------------------
+Filename: 623.txt
+Title: The Battle of the Books
+Year: 2007
+Authors: Jonathan Swift
+------------------------
+Filename: 624.txt
+Title: Looking Backwards from 2000 to 1887
+Year: 1996
+Authors: Edward Bellamy
+------------------------
+Filename: 625.txt
+Title: Ponkapog Papers
+Year: 2006
+Authors: Thomas Bailey Aldrich
+------------------------
+Filename: 626.txt
+Title: The Philobiblon of Richard de Bury
+Year: 1996
+Authors: Richard de Bury
+------------------------
+Filename: 627.txt
+Title: Essays of Travel
+Year: 2010
+Authors: Robert Louis Stevenson
+------------------------
+Filename: 628.txt
+Title: The Square Root of 3
+Year: 2008
+Authors: Robert Nemiroff;Jerry Bonnell
+------------------------
+Filename: 629.txt
+Title: The Square Root of 5
+Year: 2008
+Authors: Robert Nemiroff;Jerry Bonnell
+------------------------
+Filename: 63.txt
+Title: The Number "e"
+Year: 2008
+Authors: Unknown
+------------------------
+Filename: 630.txt
+Title: The Square Root of 6
+Year: 2008
+Authors: Robert Nemiroff;Jerry Bonnell
+------------------------
+Filename: 631.txt
+Title: The Square Root of 7
+Year: 2008
+Authors: Robert Nemiroff;Jerry Bonnell
+------------------------
+Filename: 632.txt
+Title: The Square Root of 8
+Year: 2008
+Authors: Robert Nemiroff;Jerry Bonnell
+------------------------
+Filename: 633.txt
+Title: The Golden Mean or Ratio [(1+sqrt(5))/2]
+Year: 1996
+Authors: Unknown
+------------------------
+Filename: 634.txt
+Title: Miscellaneous Mathematical Constants
+Year: 1996
+Authors: Unknown
+------------------------
+Filename: 635.txt
+Title: The Square Root of 10
+Year: 2008
+Authors: Robert Nemiroff;Jerry Bonnell
+------------------------
+Filename: 636.txt
+Title: Memoirs of Extraordinary Popular Delusions
+Year: 1996
+Authors: Charles Mackay
+------------------------
+Filename: 638.txt
+Title: An Outcast of the Islands
+Year: 2006
+Authors: Joseph Conrad
+------------------------
+Filename: 639.txt
+Title: The God-Idea of the Ancients
+Year: 1996
+Authors: Eliza Burt Gamble
+------------------------
+Filename: 64.txt
+Title: The Gods of Mars
+Year: 2008
+Authors: Edgar Rice Burroughs
+------------------------
+Filename: 640.txt
+Title: The Yellow Fairy Book
+Year: 1996
+Authors: Unknown
+------------------------
+Filename: 641.txt
+Title: The Violet Fairy Book
+Year: 1996
+Authors: Unknown
+------------------------
+Filename: 642.txt
+Title: The Altar of the Dead
+Year: 2010
+Authors: Henry James
+------------------------
+Filename: 643.txt
+Title: The Death of the Lion
+Year: 2010
+Authors: Henry James
+------------------------
+Filename: 645.txt
+Title: The Figure in the Carpet
+Year: 2013
+Authors: Henry James
+------------------------
+Filename: 646.txt
+Title: The Coral Island
+Year: 2007
+Authors: R. M. Ballantyne
+------------------------
+Filename: 647.txt
+Title: The Dynamiter
+Year: 2011
+Authors: Robert Louis Stevenson
+------------------------
+Filename: 648.txt
+Title: Wild Wales
+Year: 2008
+Authors: George Borrow
+------------------------
+Filename: 65.txt
+Title: The First 100,000 Prime Numbers
+Year: 2008
+Authors: Unknown
+------------------------
+Filename: 655.txt
+Title: Life and Letters of Robert Browning
+Year: 2006
+Authors: Mrs. Sutherland Orr
+------------------------
+Filename: 657.txt
+Title: The Anglo-Saxon Chronicle
+Year: 1996
+Authors: Unknown
+------------------------
+Filename: 658.txt
+Title: The Fall of Troy
+Year: 1996
+Authors: Smyrnaeus Quintus
+------------------------
+Filename: 659.txt
+Title: Paul the Peddler
+Year: 2006
+Authors: Horatio Alger, Jr.
+------------------------
+Filename: 66.txt
+Title: The Dawn of Amateur Radio in the U.K. and Greece
+Year: 2008
+Authors: Norman F. Joly
+------------------------
+Filename: 67.txt
+Title: The Black Experience in America
+Year: 2008
+Authors: Norman Coombs
+------------------------
+Filename: 671.txt
+Title: Phil the Fiddler
+Year: 2006
+Authors: Horatio Alger, Jr.
+------------------------
+Filename: 677.txt
+Title: The Heroes
+Year: 2011
+Authors: Charles Kingsley
+------------------------
+Filename: 679.txt
+Title: Poems
+Year: 1996
+Authors: Frances E. W. Harper
+------------------------
+Filename: 68.txt
+Title: Warlord of Mars
+Year: 1993
+Authors: Edgar Rice Burroughs
+------------------------
+Filename: 680.txt
+Title: The Golden Threshold
+Year: 1996
+Authors: Sarojini Naidu
+------------------------
+Filename: 681.txt
+Title: Creatures that once were Men
+Year: 1996
+Authors: Maxim Gorky
+------------------------
+Filename: 682.txt
+Title: Catalan's Constant [Ramanujan's Formula]
+Year: 1996
+Authors: Greg Fee
+------------------------
+Filename: 684.txt
+Title: Worldwide Effects of Nuclear War: Some Perspectives
+Year: 1996
+Authors: United States Arms Control and Disarmament Agency
+------------------------
+Filename: 685.txt
+Title: The Atomic Bombings of Hiroshima and Nagasaki
+Year: 1996
+Authors: United States
+------------------------
+Filename: 686.txt
+Title: The Treaty of the European Union, Maastricht Treaty, 7th February, 1992
+Year: 1996
+Authors: European Union
+------------------------
+Filename: 687.txt
+Title: A Personal Record
+Year: 2006
+Authors: Joseph Conrad
+------------------------
+Filename: 688.txt
+Title: The Goodness of St. Rocque and Other Stories
+Year: 1996
+Authors: Alice Dunbar
+------------------------
+Filename: 689.txt
+Title: The Kreutzer Sonata and Other Stories
+Year: 2006
+Authors: Leo Tolstoi
+------------------------
+Filename: 69.txt
+Title: The 32nd Mersenne Prime
+Year: 2008
+Authors: David Slowinski
+------------------------
+Filename: 693.txt
+Title: The Autobiography of a Quack And The Case Of George Dedlow
+Year: 2006
+Authors: S. Weir Mitchell
+------------------------
+Filename: 697.txt
+Title: The Light Princess
+Year: 1996
+Authors: George MacDonald
+------------------------
+Filename: 699.txt
+Title: A Child's History of England
+Year: 2007
+Authors: Charles Dickens
+------------------------
+Filename: 700.txt
+Title: The Old Curiosity Shop
+Year: 2008
+Authors: Charles Dickens
+------------------------
+Filename: 701.txt
+Title: The King of the Golden River
+Year: 1996
+Authors: John Ruskin.
+------------------------
+Filename: 702.txt
+Title: Somebody's Little Girl
+Year: 2008
+Authors: Martha Young
+------------------------
+Filename: 703.txt
+Title: Lucasta
+Year: 1996
+Authors: Richard Lovelace
+------------------------
+Filename: 704.txt
+Title: The Mansion
+Year: 1996
+Authors: Henry Van Dyke
+------------------------
+Filename: 706.txt
+Title: The Amateur Cracksman
+Year: 1996
+Authors: E. W. Hornung
+------------------------
+Filename: 707.txt
+Title: Raffles
+Year: 1996
+Authors: E. W. Hornung
+------------------------
+Filename: 708.txt
+Title: The Princess and the Goblin
+Year: 1996
+Authors: George MacDonald
+------------------------
+Filename: 709.txt
+Title: The Princess and the Curdie
+Year: 1996
+Authors: George MacDonald
+------------------------
+Filename: 71.txt
+Title: On the Duty of Civil Disobedience
+Year: 2004
+Authors: Henry David Thoreau
+------------------------
+Filename: 710.txt
+Title: Love of Life
+Year: 2007
+Authors: Jack London
+------------------------
+Filename: 711.txt
+Title: Allan Quatermain
+Year: 2004
+Authors: H. Rider Haggard
+------------------------
+Filename: 712.txt
+Title: Thomas Jefferson
+Year: 2006
+Authors: Edward S. Ellis et. al.
+------------------------
+Filename: 713.txt
+Title: Memoirs of Extraordinary Popular Delusions
+Year: 2008
+Authors: Charles Mackay
+------------------------
+Filename: 714.txt
+Title: The Bobbsey Twins in the Country
+Year: 1996
+Authors: Laura Lee Hope
+------------------------
+Filename: 715.txt
+Title: The Moon Endureth--Tales and Fancies
+Year: 2008
+Authors: John Buchan
+------------------------
+Filename: 716.txt
+Title: The Cruise of the Jasper B.
+Year: 1996
+Authors: Don Marquis
+------------------------
+Filename: 717.txt
+Title: Chita: A Memory of Last Island
+Year: 1996
+Authors: Lafcadio Hearn
+------------------------
+Filename: 718.txt
+Title: Tono Bungay
+Year: 2006
+Authors: H. G. Wells
+------------------------
+Filename: 72.txt
+Title: Thuvia, Maid of Mars
+Year: 1993
+Authors: Edgar Rice Burroughs
+------------------------
+Filename: 720.txt
+Title: Almayer's Folly
+Year: 2006
+Authors: Joseph Conrad
+------------------------
+Filename: 721.txt
+Title: The Birds' Christmas Carol
+Year: 1996
+Authors: Kate Douglas Wiggin
+------------------------
+Filename: 723.txt
+Title: Henry James, Jr.
+Year: 1996
+Authors: William Dean Howells
+------------------------
+Filename: 724.txt
+Title: The Man of Letters as a Man of Business
+Year: 1996
+Authors: William Dean Howells
+------------------------
+Filename: 725.txt
+Title: Men of Invention and Industry
+Year: 1996
+Authors: Samuel Smiles
+------------------------
+Filename: 726.txt
+Title: A Psychological Counter-current in Recent Fiction
+Year: 1996
+Authors: William Dean Howells
+------------------------
+Filename: 727.txt
+Title: The Star-Spangled Banner
+Year: 1996
+Authors: John A. Carpenter
+------------------------
+Filename: 728.txt
+Title: Emile Zola
+Year: 1996
+Authors: William Dean Howells
+------------------------
+Filename: 729.txt
+Title: Hackers, Heroes of the Computer Revolution
+Year: 1996
+Authors: Stephen Levy
+------------------------
+Filename: 73.txt
+Title: The Red Badge of Courage
+Year: 2008
+Authors: Stephen Crane
+------------------------
+Filename: 730.txt
+Title: Oliver Twist
+Year: 1996
+Authors: Charles Dickens
+------------------------
+Filename: 731.txt
+Title: The History of The Decline and Fall of the Roman Empire
+Year: 1996
+Authors: Edward Gibbon
+------------------------
+Filename: 732.txt
+Title: The History of The Decline and Fall of the Roman Empire
+Year: 1996
+Authors: Edward Gibbon
+------------------------
+Filename: 733.txt
+Title: The History of The Decline and Fall of the Roman Empire
+Year: 1996
+Authors: Edward Gibbon
+------------------------
+Filename: 734.txt
+Title: The History of The Decline and Fall of the Roman Empire
+Year: 1996
+Authors: Edward Gibbon
+------------------------
+Filename: 737.txt
+Title: The Bobbsey Twins at School
+Year: 1996
+Authors: Laura Lee Hope
+------------------------
+Filename: 739.txt
+Title: Henry Clay's Remarks in House and Senate
+Year: 1996
+Authors: Henry Clay
+------------------------
+Filename: 740.txt
+Title: Remarks of Mr. Calhoun of South Carolina on the bill to prevent the interference of certain federal officers in elections: delivered in the Senate of the United States February 22, 1839
+Year: 1996
+Authors: John C. Calhoun
+------------------------
+Filename: 741.txt
+Title: Thomas Hart Benton's Remarks to the Senate on the Expunging Resolution
+Year: 1996
+Authors: Thomas Hart Benton
+------------------------
+Filename: 743.txt
+Title: Thoughts on Man
+Year: 1996
+Authors: William Godwin
+------------------------
+Filename: 744.txt
+Title: The Golden Mean
+Year: 1996
+Authors: Jerry Bonnell;Robert Nemiroff
+------------------------
+Filename: 745.txt
+Title: One divided by Pi (to 1 million digits)
+Year: 1996
+Authors: Yasumasa Kanada
+------------------------
+Filename: 746.txt
+Title: Burning Daylight
+Year: 1996
+Authors: Jack London
+------------------------
+Filename: 747.txt
+Title: Anomalies and Curiosities of Medicine
+Year: 1996
+Authors: George M. Gould
+------------------------
+Filename: 748.txt
+Title: The Brother of Daphne
+Year: 2008
+Authors: Dornford Yates
+------------------------
+Filename: 749.txt
+Title: Barlaam and Ioasaph
+Year: 1996
+Authors: St. John of Damascus
+------------------------
+Filename: 75.txt
+Title: Email 101
+Year: 1993
+Authors: John Goodwin
+------------------------
+Filename: 750.txt
+Title: High History of the Holy Graal
+Year: 1996
+Authors: Unknown
+------------------------
+Filename: 751.txt
+Title: The Autocrat of the Breakfast-Table
+Year: 2013
+Authors: Oliver Wendell Holmes
+------------------------
+Filename: 752.txt
+Title: A Young Girl's Diary
+Year: 2006
+Authors: An Unknown Young Girl
+------------------------
+Filename: 753.txt
+Title: Arizona Nights
+Year: 2008
+Authors: Stewart Edward White
+------------------------
+Filename: 754.txt
+Title: The Story of Mankind
+Year: 1996
+Authors: Hendrik van Loon
+------------------------
+Filename: 755.txt
+Title: A Lady's Life in the Rocky Mountains
+Year: 2008
+Authors: Isabella L. Bird
+------------------------
+Filename: 756.txt
+Title: Arizona Sketches
+Year: 1996
+Authors: Joseph A. Munk
+------------------------
+Filename: 758.txt
+Title: LandSat Picture of Washington, DC
+Year: 1996
+Authors: United States National Aeronautics and Space Administration
+------------------------
+Filename: 759.txt
+Title: James Pethel
+Year: 1996
+Authors: Max Beerbohm
+------------------------
+Filename: 760.txt
+Title: Enoch Soames
+Year: 1996
+Authors: Max Beerbohm
+------------------------
+Filename: 761.txt
+Title: A. V. Laider
+Year: 1996
+Authors: Max Beerbohm
+------------------------
+Filename: 762.txt
+Title: British Airships, Past, Present, and Future
+Year: 1996
+Authors: George Whale
+------------------------
+Filename: 763.txt
+Title: The Round-up
+Year: 1996
+Authors: John Murray;Marion Mills Miller
+------------------------
+Filename: 764.txt
+Title: Hans Brinker
+Year: 1996
+Authors: Mary Mapes Dodge
+------------------------
+Filename: 765.txt
+Title: The Moon Pool
+Year: 1996
+Authors: A. Merritt
+------------------------
+Filename: 766.txt
+Title: David Copperfield
+Year: 1996
+Authors: Charles Dickens
+------------------------
+Filename: 767.txt
+Title: Agnes Grey
+Year: 2010
+Authors: Anne Bronte
+------------------------
+Filename: 768.txt
+Title: Wuthering Heights
+Year: 2007
+Authors: Emily Bronte
+------------------------
+Filename: 769.txt
+Title: The Book of Tea
+Year: 1997
+Authors: Kakuzo Okakura
+------------------------
+Filename: 77.txt
+Title: The House of the Seven Gables
+Year: 2008
+Authors: Nathaniel Hawthorne
+------------------------
+Filename: 770.txt
+Title: The Story of the Treasure Seekers
+Year: 1997
+Authors: E. Nesbit
+------------------------
+Filename: 775.txt
+Title: When the Sleeper Wakes
+Year: 1997
+Authors: Herbert George Wells
+------------------------
+Filename: 777.txt
+Title: The Mastery of the Air
+Year: 1997
+Authors: William J. Claxton
+------------------------
+Filename: 78.txt
+Title: Tarzan of the Apes
+Year: 2008
+Authors: Edgar Rice Burroughs
+------------------------
+Filename: 780.txt
+Title: The War in the Air
+Year: 1997
+Authors: Herbert George Wells
+------------------------
+Filename: 781.txt
+Title: Sinking of the Titanic
+Year: 1997
+Authors: Unknown
+------------------------
+Filename: 783.txt
+Title: The Lost City
+Year: 1997
+Authors: Joseph E. Badger, Jr.
+------------------------
+Filename: 784.txt
+Title: Boyhood in Norway
+Year: 1997
+Authors: Hjalmar Hjorth Boyesen
+------------------------
+Filename: 785.txt
+Title: Of The Nature of Things
+Year: 1997
+Authors: [Titus Lucretius Carus] Lucretius
+------------------------
+Filename: 787.txt
+Title: The Man Between
+Year: 1997
+Authors: Amelia E. Barr
+------------------------
+Filename: 79.txt
+Title: Terminal Compromise
+Year: 1993
+Authors: Winn Schwartau
+------------------------
+Filename: 791.txt
+Title: The Princess
+Year: 1997
+Authors: Alfred Lord Tennyson
+------------------------
+Filename: 792.txt
+Title: Wieland; or The Transformation
+Year: 1997
+Authors: Charles Brockden Brown
+------------------------
+Filename: 793.txt
+Title: Aeroplanes and Dirigibles of War
+Year: 1997
+Authors: Frederick A. Talbot
+------------------------
+Filename: 8.txt
+Title: Lincoln's Second Inaugural Address, March 4, 1865
+Year: 1978
+Authors: Abraham Lincoln
+------------------------
+Filename: 80.txt
+Title: The Online World
+Year: 1993
+Authors: Odd de Presno
+------------------------
+Filename: 805.txt
+Title: This Side of Paradise
+Year: 1997
+Authors: F. Scott Fitzgerald
+------------------------
+Filename: 806.txt
+Title: Philoktetes
+Year: 2013
+Authors: Sophocles
+------------------------
+Filename: 808.txt
+Title: The Complete Plays of Gilbert and Sullivan
+Year: 1997
+Authors: William Schwenk Gilbert;Arthur Sullivan
+------------------------
+Filename: 81.txt
+Title: The Return of Tarzan
+Year: 2008
+Authors: Edgar Rice Burroughs
+------------------------
+Filename: 812.txt
+Title: Catalan's Constant to 1,500,000 Places
+Year: 1997
+Authors: Thomas Papanikolaou
+------------------------
+Filename: 813.txt
+Title: Reminiscences of Tolstoy
+Year: 1997
+Authors: Ilya Tolstoy
+------------------------
+Filename: 814.txt
+Title: Hunting Sketches
+Year: 1997
+Authors: Anthony Trollope
+------------------------
+Filename: 815.txt
+Title: Democracy In America, Volume 1 (of 2)
+Year: 2006
+Authors: Alexis de Toqueville
+------------------------
+Filename: 816.txt
+Title: Democracy In America, Volume 2 (of 2)
+Year: 2006
+Authors: Alexis de Toqueville
+------------------------
+Filename: 818.txt
+Title: The Aeroplane Speaks
+Year: 1997
+Authors: H. Barber
+------------------------
+Filename: 819.txt
+Title: The History of the Telephone
+Year: 1997
+Authors: Herbert N. Casson
+------------------------
+Filename: 82.txt
+Title: Ivanhoe
+Year: 1993
+Authors: Walter Scott
+------------------------
+Filename: 820.txt
+Title: Edison, His Life and Inventions
+Year: 2006
+Authors: Frank Lewis Dyer;Thomas Commerford Martin
+------------------------
+Filename: 821.txt
+Title: Dombey and Son
+Year: 1997
+Authors: Charles Dickens
+------------------------
+Filename: 822.txt
+Title: The Tarn of Eternity
+Year: 1997
+Authors: Frank Tymon
+------------------------
+Filename: 823.txt
+Title: The Life of St. Declan of Ardmore
+Year: 1997
+Authors: Unknown
+------------------------
+Filename: 825.txt
+Title: Latin Vulgate Bible Book Titles and Names
+Year: 1997
+Authors: Unknown
+------------------------
+Filename: 826.txt
+Title: Latin Vulgate, Esther: Liber Esther
+Year: 1997
+Authors: Unknown
+------------------------
+Filename: 827.txt
+Title: Latin Vulgate, Esther: Liber Esther [Septuagint Arrangement]
+Year: 1997
+Authors: Unknown
+------------------------
+Filename: 828.txt
+Title: Latin Vulgate of Daniel [Prophetia Danielis]
+Year: 1997
+Authors: Unknown
+------------------------
+Filename: 83.txt
+Title: From the Earth to the Moon
+Year: 1993
+Authors: Jules Verne
+------------------------
+Filename: 830.txt
+Title: The Argonautica
+Year: 1997
+Authors: Apollonius Rhodius
+------------------------
+Filename: 831.txt
+Title: Four Arthurian Romances
+Year: 1997
+Authors: Chretien DeTroyes
+------------------------
+Filename: 832.txt
+Title: Robin Hood
+Year: 2006
+Authors: J. Walker McSpadden
+------------------------
+Filename: 833.txt
+Title: The Theory of the Leisure Class
+Year: 1997
+Authors: Thorstein Veblen
+------------------------
+Filename: 836.txt
+Title: The Phoenix and the Carpet
+Year: 1997
+Authors: E. Nesbit
+------------------------
+Filename: 837.txt
+Title: The Story of the Amulet
+Year: 1997
+Authors: E. Nesbit
+------------------------
+Filename: 838.txt
+Title: Jasmin: Barber, Poet, Philanthropist
+Year: 1997
+Authors: Samuel Smiles
+------------------------
+Filename: 840.txt
+Title: Lorna Doone, A Romance of Exmoor
+Year: 2006
+Authors: R. D. Blackmore
+------------------------
+Filename: 841.txt
+Title: Men, Women and Ghosts
+Year: 1997
+Authors: Amy Lowell
+------------------------
+Filename: 842.txt
+Title: Memoirs of Carwin the Biloquist
+Year: 1997
+Authors: Charles Brockden Brown
+------------------------
+Filename: 843.txt
+Title: The Life of Francis Marion
+Year: 1997
+Authors: William Gilmore Simms
+------------------------
+Filename: 844.txt
+Title: The Importance of Being Earnest
+Year: 2006
+Authors: Oscar Wilde
+------------------------
+Filename: 845.txt
+Title: Poems of Henry Timrod
+Year: 1997
+Authors: Henry Timrod
+------------------------
+Filename: 847.txt
+Title: Lays of Ancient Rome
+Year: 2006
+Authors: Thomas Babington Macaulay
+------------------------
+Filename: 848.txt
+Title: The Black Arrow
+Year: 2008
+Authors: Robert Louis Stevenson
+------------------------
+Filename: 849.txt
+Title: Idle Thoughts of an Idle Fellow
+Year: 1997
+Authors: Jerome K. Jerome
+------------------------
+Filename: 85.txt
+Title: The Beasts of Tarzan
+Year: 2008
+Authors: Edgar Rice Burroughs
+------------------------
+Filename: 850.txt
+Title: Tom Grogan
+Year: 1997
+Authors: F. Hopkinson Smith
+------------------------
+Filename: 851.txt
+Title: Captivity and Restoration
+Year: 1997
+Authors: Mrs. Mary Rowlandson
+------------------------
+Filename: 852.txt
+Title: Democracy and Education
+Year: 1997
+Authors: John Dewey
+------------------------
+Filename: 853.txt
+Title: The Confutatio Pontificia
+Year: 1997
+Authors: Unknown
+------------------------
+Filename: 855.txt
+Title: Clocks
+Year: 1997
+Authors: Jerome K. Jerome
+------------------------
+Filename: 856.txt
+Title: Dreams
+Year: 1997
+Authors: Jerome K. Jerome
+------------------------
+Filename: 857.txt
+Title: Evergreens
+Year: 1997
+Authors: Jerome K. Jerome
+------------------------
+Filename: 858.txt
+Title: Stage-Land
+Year: 1997
+Authors: Jerome K. Jerome
+------------------------
+Filename: 859.txt
+Title: Polly of the Circus
+Year: 1997
+Authors: Margaret Mayo
+------------------------
+Filename: 860.txt
+Title: Baby Mine
+Year: 1997
+Authors: Margaret Mayo
+------------------------
+Filename: 861.txt
+Title: The Dominion of the Air
+Year: 1997
+Authors: J. M. Bacon
+------------------------
+Filename: 862.txt
+Title: Philosophy 4
+Year: 1997
+Authors: Owen Wister
+------------------------
+Filename: 865.txt
+Title: Passing of the Third Floor Back
+Year: 1997
+Authors: Jerome K. Jerome
+------------------------
+Filename: 866.txt
+Title: The Cost of Kindness
+Year: 2008
+Authors: Jerome K. Jerome
+------------------------
+Filename: 867.txt
+Title: Mrs. Korner Sins Her Mercies
+Year: 1997
+Authors: Jerome K. Jerome
+------------------------
+Filename: 868.txt
+Title: The Philosopher's Joke
+Year: 1997
+Authors: Jerome K. Jerome
+------------------------
+Filename: 869.txt
+Title: The Soul of Nicholas Snyders
+Year: 2008
+Authors: Jerome K. Jerome
+------------------------
+Filename: 87.txt
+Title: The 1993 CIA World Factbook
+Year: 1993
+Authors: United States.  Central Intelligence Agency.
+------------------------
+Filename: 870.txt
+Title: The Love of Ulrich Nebendahl
+Year: 1997
+Authors: Jerome K. Jerome
+------------------------
+Filename: 871.txt
+Title: The Golden Sayings of Epictetus
+Year: 2006
+Authors: Epictetus
+------------------------
+Filename: 874.txt
+Title: A History of Aeronautics
+Year: 1997
+Authors: E. Charles Vivian
+------------------------
+Filename: 876.txt
+Title: Life in the Iron-Mills
+Year: 1997
+Authors: Rebecca Harding Davis
+------------------------
+Filename: 877.txt
+Title: Little Britain
+Year: 1997
+Authors: Washington Irving
+------------------------
+Filename: 878.txt
+Title: Yankee Gypsies
+Year: 1997
+Authors: John Greenleaf Whittier
+------------------------
+Filename: 879.txt
+Title: The Boy Captives
+Year: 1997
+Authors: John Greenleaf Whittier
+------------------------
+Filename: 88.txt
+Title: Price/Cost Indexes from 1875 to 1989
+Year: 2008
+Authors: United States
+------------------------
+Filename: 880.txt
+Title: My Garden Acquaintance
+Year: 1997
+Authors: James Russell Lowell
+------------------------
+Filename: 881.txt
+Title: Lemorne Versus Huell
+Year: 1997
+Authors: Elizabeth Drew Stoddard
+------------------------
+Filename: 882.txt
+Title: Sketches by Boz
+Year: 2009
+Authors: Charles Dickens
+------------------------
+Filename: 884.txt
+Title: Memoirs of Extraordinary Popular Delusions
+Year: 1997
+Authors: Charles Mackay
+------------------------
+Filename: 885.txt
+Title: An Ideal Husband
+Year: 2009
+Authors: Oscar Wilde
+------------------------
+Filename: 889.txt
+Title: Two Years in the Forbidden City
+Year: 1997
+Authors: The Princess Der Ling
+------------------------
+Filename: 890.txt
+Title: The History of The Decline and Fall of the Roman Empire
+Year: 1997
+Authors: Edward Gibbon
+------------------------
+Filename: 891.txt
+Title: The History of The Decline and Fall of the Roman Empire
+Year: 1997
+Authors: Edward Gibbon
+------------------------
+Filename: 892.txt
+Title: The History of The Decline and Fall of the Roman Empire
+Year: 1997
+Authors: Edward Gibbon
+------------------------
+Filename: 893.txt
+Title: The History of The Decline and Fall of the Roman Empire
+Year: 1997
+Authors: Edward Gibbon
+------------------------
+Filename: 894.txt
+Title: The History of The Decline and Fall of the Roman Empire
+Year: 1997
+Authors: Edward Gibbon
+------------------------
+Filename: 896.txt
+Title: Orations
+Year: 1997
+Authors: John Quincy Adams
+------------------------
+Filename: 897.txt
+Title: The Rose and the Ring
+Year: 2006
+Authors: William Makepeace Thackeray
+------------------------
+Filename: 899.txt
+Title: Wonderful Balloon Ascents
+Year: 1997
+Authors: Fulgence Marion
+------------------------
+Filename: 9.txt
+Title: Lincoln's First Inaugural Address, March 4, 1861
+Year: 1979
+Authors: Abraham Lincoln
+------------------------
+Filename: 90.txt
+Title: The Son of Tarzan
+Year: 2008
+Authors: Edgar Rice Burroughs
+------------------------
+Filename: 903.txt
+Title: The White Company
+Year: 1997
+Authors: Arthur Conan Doyle
+------------------------
+Filename: 904.txt
+Title: Her Father's Daughter
+Year: 1997
+Authors: Gene Stratton-Porter
+------------------------
+Filename: 905.txt
+Title: Within the Law
+Year: 1997
+Authors: Marvin Dana
+------------------------
+Filename: 907.txt
+Title: Flying Machines
+Year: 1997
+Authors: W.J. Jackman;Thos. H. Russell
+------------------------
+Filename: 908.txt
+Title: A Treatise on Parents and Children
+Year: 2006
+Authors: George Bernard Shaw
+------------------------
+Filename: 909.txt
+Title: The Adventures of Colonel Daniel Boone
+Year: 1997
+Authors: John Filson
+------------------------
+Filename: 910.txt
+Title: White Fang
+Year: 2005
+Authors: Jack London
+------------------------
+Filename: 913.txt
+Title: A Hero of Our Time
+Year: 1997
+Authors: M. Y. Lermontov
+------------------------
+Filename: 917.txt
+Title: Barnaby Rudge
+Year: 2006
+Authors: Charles Dickens
+------------------------
+Filename: 919.txt
+Title: The Ethics [Part I]
+Year: 1997
+Authors: Benedict de Spinoza
+------------------------
+Filename: 92.txt
+Title: Tarzan and the Jewels of Opar
+Year: 1995
+Authors: Edgar Rice Burroughs
+------------------------
+Filename: 920.txt
+Title: The Ethics [Part II]
+Year: 1997
+Authors: Benedict de Spinoza
+------------------------
+Filename: 921.txt
+Title: De Profundis
+Year: 2007
+Authors: Oscar Wilde
+------------------------
+Filename: 923.txt
+Title: A Sketch of the Life of Brig. Gen. Francis Marion
+Year: 1997
+Authors: William Dobein James
+------------------------
+Filename: 925.txt
+Title: United States Presidents' Inaugural Speeches
+Year: 1997
+Authors: Unknown
+------------------------
+Filename: 929.txt
+Title: The Real Cyberpunk Fakebook
+Year: 1997
+Authors: St. Jude;R. U. Sirius;Bart Nagel
+------------------------
+Filename: 930.txt
+Title: The Cook's Decameron: A Study in Taste:
+Year: 1997
+Authors: Mrs. W. G. Waters
+------------------------
+Filename: 932.txt
+Title: The Fall of the House of Usher
+Year: 1997
+Authors: Edgar Allan Poe
+------------------------
+Filename: 936.txt
+Title: The Village Watch-Tower
+Year: 1997
+Authors: Kate Douglas Wiggin
+------------------------
+Filename: 938.txt
+Title: Good Indian
+Year: 1997
+Authors: B. M. Bower
+------------------------
+Filename: 94.txt
+Title: Alexander's Bridge and The Barrel Organ
+Year: 2006
+Authors: Willa Cather;Alfred Noyes
+------------------------
+Filename: 940.txt
+Title: The Last of the Mohicans
+Year: 2006
+Authors: James Fenimore Cooper
+------------------------
+Filename: 941.txt
+Title: Just Folks
+Year: 1997
+Authors: Edgar A. Guest
+------------------------
+Filename: 942.txt
+Title: Green Mansions
+Year: 1997
+Authors: W. H. Hudson
+------------------------
+Filename: 943.txt
+Title: Misalliance
+Year: 1997
+Authors: George Bernard Shaw
+------------------------
+Filename: 944.txt
+Title: The Voyage of the Beagle
+Year: 1997
+Authors: Charles Darwin
+------------------------
+Filename: 945.txt
+Title: Dust
+Year: 1997
+Authors: Mr. Haldeman-Julius;Mrs. Haldeman-Julius
+------------------------
+Filename: 946.txt
+Title: Lady Susan
+Year: 1997
+Authors: Jane Austen
+------------------------
+Filename: 947.txt
+Title: The Life of Horatio Lord Nelson
+Year: 2006
+Authors: Robert Southey
+------------------------
+Filename: 948.txt
+Title: The Ethics [Part III]
+Year: 1997
+Authors: Benedict de Spinoza
+------------------------
+Filename: 949.txt
+Title: Tom Swift and his Submarine Boat
+Year: 1997
+Authors: Victor Appleton
+------------------------
+Filename: 950.txt
+Title: Tom Swift and his Electric Runabout
+Year: 1997
+Authors: Victor Appleton
+------------------------
+Filename: 951.txt
+Title: Tom Swift and his Sky Racer
+Year: 1997
+Authors: Victor Appleton
+------------------------
+Filename: 952.txt
+Title: Tom Swift and his Air Glider
+Year: 1997
+Authors: Victor Appleton
+------------------------
+Filename: 953.txt
+Title: Tom Swift and his Big Tunnel
+Year: 1997
+Authors: Victor Appleton
+------------------------
+Filename: 954.txt
+Title: Tom Swift and his War Tank
+Year: 1997
+Authors: Victor Appleton
+------------------------
+Filename: 955.txt
+Title: The Patchwork Girl of Oz
+Year: 1997
+Authors: L. Frank Baum
+------------------------
+Filename: 956.txt
+Title: Tik-Tok of Oz
+Year: 1997
+Authors: L. Frank Baum
+------------------------
+Filename: 957.txt
+Title: The Scarecrow of Oz
+Year: 1997
+Authors: L. Frank Baum
+------------------------
+Filename: 958.txt
+Title: Rinkitink in Oz
+Year: 1997
+Authors: L. Frank Baum
+------------------------
+Filename: 959.txt
+Title: The Lost Princess of Oz
+Year: 1997
+Authors: L. Frank Baum
+------------------------
+Filename: 96.txt
+Title: The Monster Men
+Year: 2008
+Authors: Edgar Rice Burroughs
+------------------------
+Filename: 960.txt
+Title: The Tin Woodman of Oz
+Year: 1997
+Authors: L. Frank Baum
+------------------------
+Filename: 961.txt
+Title: Glinda of Oz
+Year: 1997
+Authors: L. Frank Baum
+------------------------
+Filename: 962.txt
+Title: The Poems of Henry Kendall
+Year: 1997
+Authors: Henry Kendall
+------------------------
+Filename: 963.txt
+Title: Little Dorrit
+Year: 1997
+Authors: Charles Dickens
+------------------------
+Filename: 964.txt
+Title: The Merry Adventures of Robin Hood
+Year: 2006
+Authors: Howard Pyle
+------------------------
+Filename: 965.txt
+Title: The Black Tulip
+Year: 1997
+Authors: Alexandre Dumas (Pere)
+------------------------
+Filename: 966.txt
+Title: Maid Marian
+Year: 1997
+Authors: Thomas Love Peacock
+------------------------
+Filename: 967.txt
+Title: The Life And Adventures Of Nicholas Nickleby
+Year: 2006
+Authors: Charles Dickens
+------------------------
+Filename: 968.txt
+Title: Life And Adventures Of Martin Chuzzlewit
+Year: 2006
+Authors: Charles Dickens
+------------------------
+Filename: 969.txt
+Title: The Tenant of Wildfell Hall
+Year: 2010
+Authors: Anne Bronte
+------------------------
+Filename: 97.txt
+Title: Flatland
+Year: 1994
+Authors: Edwin A. Abbott
+------------------------
+Filename: 970.txt
+Title: Uncles Josh's Punkin Centre Stories
+Year: 1997
+Authors: Cal Stewart
+------------------------
+Filename: 971.txt
+Title: The Ethics [Part IV]
+Year: 1997
+Authors: Benedict de Spinoza
+------------------------
+Filename: 972.txt
+Title: The Devil's Dictionary
+Year: 2008
+Authors: Ambrose Bierce
+------------------------
+Filename: 973.txt
+Title: Howard Pyle's Book of Pirates
+Year: 2006
+Authors: Howard Pyle
+------------------------
+Filename: 974.txt
+Title: The Secret Agent
+Year: 2010
+Authors: Joseph Conrad
+------------------------
+Filename: 975.txt
+Title: The Ethics [Part V]
+Year: 1997
+Authors: Benedict de Spinoza
+------------------------
+Filename: 976.txt
+Title: Tanglewood Tales
+Year: 1997
+Authors: Nathaniel Hawthorne
+------------------------
+Filename: 977.txt
+Title: American Notes
+Year: 1997
+Authors: Rudyard Kipling
+------------------------
+Filename: 978.txt
+Title: The Yates Pride
+Year: 1997
+Authors: Mary E. Wilkins Freeman
+------------------------
+Filename: 979.txt
+Title: Heroes of the Telegraph
+Year: 1997
+Authors: J. Munro
+------------------------
+Filename: 98.txt
+Title: A Tale of Two Cities
+Year: 1994
+Authors: Charles Dickens
+------------------------
+Filename: 980.txt
+Title: Alice Adams
+Year: 1997
+Authors: Booth Tarkington
+------------------------
+Filename: 981.txt
+Title: Beowulf
+Year: 1997
+Authors: Unknown
+------------------------
+Filename: 982.txt
+Title: Book of Nonsense
+Year: 1997
+Authors: Edward Lear
+------------------------
+Filename: 984.txt
+Title: Who Was Who: 5000 B. C. to Date
+Year: 1997
+Authors: Unknown
+------------------------
+Filename: 985.txt
+Title: Father Sergius
+Year: 1997
+Authors: Leo Tolstoy
+------------------------
+Filename: 986.txt
+Title: Master and Man
+Year: 1997
+Authors: Leo Tolstoy
+------------------------
+Filename: 988.txt
+Title: The Education of the Child
+Year: 1997
+Authors: Ellen Key
+------------------------
+Filename: 989.txt
+Title: A Theological-Political Treatise [Part I]
+Year: 1997
+Authors: Benedict of Spinoza
+------------------------
+Filename: 99.txt
+Title: Collected Articles of Frederick Douglass
+Year: 2008
+Authors: Frederick Douglass
+------------------------
+Filename: 990.txt
+Title: A Theological-Political Treatise [Part II]
+Year: 1997
+Authors: Benedict of Spinoza
+------------------------
+Filename: 991.txt
+Title: A Theological-Political Treatise [Part III]
+Year: 1997
+Authors: Benedict of Spinoza
+------------------------
+Filename: 992.txt
+Title: A Theological-Political Treatise [Part IV]
+Year: 1997
+Authors: Benedict of Spinoza
+------------------------
+Filename: 993.txt
+Title: Malbone
+Year: 1997
+Authors: Thomas Wentworth Higginson
+------------------------
+Filename: 994.txt
+Title: Riders to the Sea
+Year: 2008
+Authors: J. M. Synge
+------------------------
+Filename: 995.txt
+Title: Ballads of a Bohemian
+Year: 1997
+Authors: Robert W. Service
+
+Added metadata for 1645 files.
