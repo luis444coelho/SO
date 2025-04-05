@@ -1,17 +1,35 @@
+# Compilador e flags
 CC = gcc
-CFLAGS = -w -O2 -funroll-all-loops -ftree-vectorize -Wextra -g `pkg-config --cflags glib-2.0` -Iinclude
-LDFLAGS += -lglib-2.0
-LIBS = `pkg-config --libs glib-2.0`
-all: folders dserver dclient
-dserver: bin/dserver
-dclient: bin/dclient
+CFLAGS = -w -O2 -g -Iinclude `pkg-config --cflags glib-2.0`
+LDFLAGS = -lglib-2.0
+
+# Ficheiros
+SRCS := $(wildcard src/*.c)
+OBJS := $(patsubst src/%.c, obj/%.o, $(SRCS))
+
+# Targets finais
+TARGETS := bin/dserver bin/dclient
+
+# Target principal
+all: folders $(TARGETS)
+
+# Criação das pastas
 folders:
-	@mkdir -p src include obj bin tmp
-bin/dserver: obj/dserver.o
+	@mkdir -p obj bin
+
+# Como compilar cada binário (ajustar conforme o necessário)
+bin/dserver: obj/dserver.o obj/utils.o
 	$(CC) $(LDFLAGS) $^ -o $@
-bin/dclient: obj/dclient.o
+
+bin/dclient: obj/dclient.o obj/utils.o
 	$(CC) $(LDFLAGS) $^ -o $@
+
+# Como compilar os .o a partir dos .c
 obj/%.o: src/%.c
 	$(CC) $(CFLAGS) -c $< -o $@
+
+# Clean
 clean:
-	rm -f obj/* tmp/* bin/*
+	rm -rf obj/* bin/*
+
+.PHONY: all clean folders
