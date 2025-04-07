@@ -5,8 +5,50 @@
 #include <unistd.h>
 #include <string.h>
 #include <sys/stat.h>
+#include <sys/wait.h>
 
 int proximo_id = 1;
+int fd_comando = -1;
+
+void inicializar_proximo_id() {
+    int fd = open(METADATA_FILE, O_RDONLY);
+    if (fd == -1) {
+        // Ficheiro não existe ainda → começa no 1
+        proximo_id = 1;
+        return;
+    }
+
+    char buffer[512];
+    ssize_t bytes;
+    int max_id = 0;
+    char linha[512];
+    int idx = 0;
+
+    while ((bytes = read(fd, buffer, sizeof(buffer))) > 0) {
+        for (ssize_t i = 0; i < bytes; ++i) {
+            char c = buffer[i];
+            if (c != '\n' && idx < sizeof(linha) - 1) {
+                linha[idx++] = c;
+            } else {
+                linha[idx] = '\0';
+                idx = 0;
+
+                // Cada linha tem este formato:
+                // ID,Título,Autores,Ano,Caminho
+                int id;
+                if (sscanf(linha, "%d,", &id) == 1) {
+                    if (id > max_id) {
+                        max_id = id;
+                    }
+                }
+            }
+        }
+    }
+
+    close(fd);
+    proximo_id = max_id + 1;
+}
+
 
 void armazenar_metadados(int input_fd) {
     char buffer[512], linha[512];
@@ -40,9 +82,6 @@ void armazenar_metadados(int input_fd) {
     }
 }
 
-
-
-
 void escrever_metadados(Documentos *doc) {
     int fd = open(METADATA_FILE, O_WRONLY | O_CREAT | O_APPEND, 0666);
     if (fd == -1) {
@@ -67,9 +106,23 @@ void send_response(const char *msg) {
     close(fd);
 }
 
+void encerrar_servidor() {
+    send_response("Servidor a encerrar...");
+    close(fd_comando);
+    unlink(PIPE_NAME);
+    unlink(RESPONSE_PIPE);
+    exit(0);
+}
+
 void processar(Comando *cmd) {
     if (cmd->tipo == CMD_ADD) {
         Documentos *doc = &cmd->doc;
+        
+        if (access(doc->path, F_OK) != 0) {
+            send_response("Erro: o ficheiro especificado não existe.");
+            return;
+        }
+        
         doc->id = proximo_id++;
         escrever_metadados(doc);
 
@@ -78,6 +131,12 @@ void processar(Comando *cmd) {
         send_response(resposta);
 
     } else if (cmd->tipo == CMD_SCRIPT) {
+        
+        if (access(cmd->doc.path, F_OK | X_OK) != 0) {
+            send_response("Erro: o script não existe ou não tem permissões de execução.");
+            return;
+        }
+        
         int pipefd[2];
         if (pipe(pipefd) == -1) {
             send_response("Erro ao criar pipe.");
@@ -106,31 +165,33 @@ void processar(Comando *cmd) {
         }
 
     } else if (cmd->tipo == CMD_SHUTDOWN) {
-        send_response("Servidor a encerrar...");
-        exit(0);
+        encerrar_servidor();
     } else {
         send_response("Comando ainda não implementado.");
     }
 }
 
 int main() {
+    // Criar os pipes nomeados
     mkfifo(PIPE_NAME, 0666);
     mkfifo(RESPONSE_PIPE, 0666);
 
-    while (1) {
-        int fd = open(PIPE_NAME, O_RDONLY);
-        if (fd == -1) {
-            perror("Erro ao abrir pipe principal");
-            continue;
-        }
+    // Inicializar o próximo ID a partir do ficheiro de metadados
+    inicializar_proximo_id();
 
+    // Abrir o pipe uma vez (modo bloqueante)
+    fd_comando = open(PIPE_NAME, O_RDONLY);
+    if (fd_comando == -1) {
+        perror("Erro ao abrir pipe principal");
+        return 1;
+    }
+
+    while (1) {
         Comando cmd;
-        ssize_t bytes = read(fd, &cmd, sizeof(Comando));
+        ssize_t bytes = read(fd_comando, &cmd, sizeof(Comando));
         if (bytes == sizeof(Comando)) {
             processar(&cmd);
         }
-
-        close(fd);
     }
 
     return 0;
