@@ -31,17 +31,11 @@ Comando parse_comando(int argc, char *argv[]) {
         cmd.tipo = (argc == 4) ? CMD_SEARCH_PARALLEL : CMD_SEARCH;
         strncpy(cmd.keyword, argv[2], sizeof(cmd.keyword));
         if (argc == 4) cmd.num_processos = atoi(argv[3]);
-    } else if (strcmp(argv[1], "-f") == 0 && argc == 2) {
+    } else if (strcmp(argv[1], "-f") == 0) {
         cmd.tipo = CMD_SHUTDOWN;
-    } else if (argc == 3) {
-        cmd.tipo = CMD_SCRIPT;
-        strncpy(cmd.doc.path, argv[1], sizeof(cmd.doc.path));
-        strncpy(cmd.keyword, argv[2], sizeof(cmd.keyword));
     } else {
         cmd.tipo = CMD_INVALID;
     }
 
     return cmd;
 }
-
-

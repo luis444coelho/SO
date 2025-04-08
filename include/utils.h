@@ -20,8 +20,7 @@ typedef enum {
     CMD_LINES,
     CMD_SEARCH,
     CMD_SEARCH_PARALLEL,
-    CMD_SHUTDOWN,
-    CMD_SCRIPT,      
+    CMD_SHUTDOWN,      
     CMD_INVALID
 } TipoComando;
 
