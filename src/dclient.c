@@ -1,4 +1,5 @@
 #include "../include/utils.h"
+#include "../include/executar.h"
 #include <fcntl.h>
 #include <stdio.h>
 #include <stdlib.h>
@@ -7,6 +8,11 @@
 
 
 void send_comando(Comando *cmd) {
+    snprintf(cmd->response_pipe, sizeof(cmd->response_pipe), "/tmp/resp_pipe_%d", getpid());
+
+    // Criar pipe de resposta exclusivo para este cliente
+    mkfifo(cmd->response_pipe, 0666);
+
     int fd = open(PIPE_NAME, O_WRONLY);
     if (fd == -1) {
         perror("Erro ao abrir o pipe");
@@ -16,8 +22,8 @@ void send_comando(Comando *cmd) {
     close(fd);
 }
 
-void read_response() {
-    int fd = open(RESPONSE_PIPE, O_RDONLY);
+void read_response(char *pipe_name) {
+    int fd = open(pipe_name, O_RDONLY);
     if (fd == -1) {
         perror("Erro ao abrir pipe de resposta");
         exit(EXIT_FAILURE);
@@ -29,9 +35,8 @@ void read_response() {
         printf("Resposta: %s\n", buffer);
     }
     close(fd);
+    unlink(pipe_name);
 }
-
-
 
 int main(int argc, char *argv[]) {
     Comando cmd = parse_comando(argc, argv);
@@ -42,6 +47,6 @@ int main(int argc, char *argv[]) {
     }
 
     send_comando(&cmd);
-    read_response();
+    read_response(cmd.response_pipe);
     return 0;
 }

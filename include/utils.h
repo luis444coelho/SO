@@ -5,6 +5,8 @@
 #define RESPONSE_PIPE "response_pipe"
 #define METADATA_FILE "metadata.txt"
 
+
+
 typedef struct {
     int id;
     char title[200];
@@ -31,6 +33,7 @@ typedef struct {
     char keyword[64];
     Documentos doc;
     int num_processos;
+    char response_pipe[128]; 
 } Comando;
 
 Comando parse_comando(int argc, char *argv[]);
