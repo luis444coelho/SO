@@ -14,4 +14,8 @@ void escrever_metadados(Documentos *doc);
 
 void send_response_to(const char *msg, const char *pipe_name);
 
+extern int proximo_id;
+
+extern char base_folder[256];
+
 #endif

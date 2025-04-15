@@ -8,6 +8,9 @@
 #include <sys/stat.h>
 #include <sys/wait.h>
 
+char base_folder[256];
+int proximo_id = 1;
+
 void send_response_to(const char *msg, const char *pipe_name) {
     int fd = open(pipe_name, O_WRONLY);
     if (fd == -1) {
@@ -36,8 +39,7 @@ void escrever_metadados(Documentos *doc) {
 
 void processar_add(Comando *cmd) {
     Documentos *doc = &cmd->doc;
-    int proximo_id = 1;
-    char base_folder[256];
+ 
     char full_path[512];
     snprintf(full_path, sizeof(full_path), "%s/%s", base_folder, doc->path);
 
