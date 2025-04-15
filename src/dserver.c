@@ -9,7 +9,7 @@
 #include <sys/wait.h>
 
 
-int proximo_id = 1;
+
 void inicializar_proximo_id() {
     int fd = open(METADATA_FILE, O_RDONLY);
     if (fd == -1) {
@@ -70,7 +70,7 @@ void processar(Comando *cmd) {
 
 int main(int argc, char *argv[]) {
     // Cria o pipe principal se não existir
-    char base_folder[256]; 
+    
     int fd_comando = -1;
     mkfifo(PIPE_NAME, 0666);
 
