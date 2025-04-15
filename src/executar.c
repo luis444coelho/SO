@@ -1,12 +1,4 @@
-#include "../include/utils.h"
 #include "../include/executar.h"
-#include <fcntl.h>
-#include <stdio.h>
-#include <stdlib.h>
-#include <unistd.h>
-#include <string.h>
-#include <sys/stat.h>
-#include <sys/wait.h>
 
 char base_folder[256];
 int proximo_id = 1;
@@ -116,16 +108,11 @@ void processar_consult(Comando *cmd) {
     }
 }
 
-void encerrar_servidor(Comando *cmd) {
+void processar_shutdown (Comando *cmd) {
     int fd_comando = -1;
     send_response_to("Servidor a encerrar...",cmd -> response_pipe);
     close(fd_comando);
     unlink(PIPE_NAME);
     unlink(RESPONSE_PIPE);
     exit(0);
-}
-
-
-void processar_shutdown(Comando *cmd) {
-    encerrar_servidor(cmd);
 }

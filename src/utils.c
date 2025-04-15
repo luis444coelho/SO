@@ -1,7 +1,5 @@
 #include "../include/utils.h"
 
-
-
 Comando parse_comando(int argc, char *argv[]) {
     Comando cmd;
     memset(&cmd, 0, sizeof(Comando));

@@ -1,10 +1,4 @@
-#include "../include/utils.h"
 #include "../include/executar.h"
-#include <fcntl.h>
-#include <stdio.h>
-#include <stdlib.h>
-#include <unistd.h>
-#include <string.h>
 
 
 void send_comando(Comando *cmd) {
