@@ -17,6 +17,7 @@ typedef struct {
     char authors[200];
     int year;
     char path[64];
+    int ativo; //1 para ativo, 0 para inativo
 }Documentos;
 
 typedef enum {
