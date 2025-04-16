@@ -21,12 +21,10 @@ void escrever_metadados(Documentos *doc) {
         return;
     }
 
-    char linha[512];
-    int len = snprintf(linha, sizeof(linha), "%d,%s,%s,%d,%s\n",
-                       doc->id, doc->title, doc->authors, doc->year, doc->path);
-    write(fd, linha, len);
+    write(fd, doc, sizeof(Documentos));
     close(fd);
 }
+
 
 
 void processar_add(Comando *cmd) {
@@ -53,45 +51,18 @@ void processar_consult(Comando *cmd) {
     int fd = open(METADATA_FILE, O_RDONLY);
 
     if (fd == -1) {
-        send_response_to("Erro: ficheiro de metadados não encontrado.",cmd -> response_pipe);
+        send_response_to("Erro: ficheiro de metadados não encontrado.", cmd->response_pipe);
         return;
     }
 
-    char buffer[512];
-    char linha[512];
-    int idx = 0;
-    ssize_t bytes;
+    Documentos doc;
     int encontrado = 0;
-    Documentos doc_encontrado;
 
-    while ((bytes = read(fd, buffer, sizeof(buffer))) > 0) {
-        for (ssize_t i = 0; i < bytes; ++i) {
-            char c = buffer[i];
-            if (c != '\n' && idx < sizeof(linha) - 1) {
-                linha[idx++] = c;
-            } else {
-                linha[idx] = '\0';
-                idx = 0;
-
-                int id, year;
-                char title[200], authors[200], path[256];
-
-                if (sscanf(linha, "%d,%199[^,],%199[^,],%d,%255[^\n]",
-                           &id, title, authors, &year, path) == 5) {
-                    if (id == id_procurado) {
-                        doc_encontrado.id = id;
-                        strncpy(doc_encontrado.title, title, sizeof(doc_encontrado.title));
-                        strncpy(doc_encontrado.authors, authors, sizeof(doc_encontrado.authors));
-                        doc_encontrado.year = year;
-                        strncpy(doc_encontrado.path, path, sizeof(doc_encontrado.path));
-                        encontrado = 1;
-                        break;
-                    }
-                }
-            }
+    while (read(fd, &doc, sizeof(Documentos)) == sizeof(Documentos)) {
+        if (doc.id == id_procurado) {
+            encontrado = 1;
+            break;
         }
-
-        if (encontrado) break;
     }
 
     close(fd);
@@ -100,13 +71,13 @@ void processar_consult(Comando *cmd) {
         char resposta[512];
         snprintf(resposta, sizeof(resposta),
                  "Title: %s\nAuthors: %s\nYear: %d\nPath: %s",
-                 doc_encontrado.title, doc_encontrado.authors,
-                 doc_encontrado.year, doc_encontrado.path);
-        send_response_to(resposta,cmd -> response_pipe);
+                 doc.title, doc.authors, doc.year, doc.path);
+        send_response_to(resposta, cmd->response_pipe);
     } else {
-        send_response_to("Erro: documento com o ID especificado não encontrado.",cmd -> response_pipe);
+        send_response_to("Erro: documento com o ID especificado não encontrado.", cmd->response_pipe);
     }
 }
+
 
 void processar_shutdown (Comando *cmd) {
     int fd_comando = -1;

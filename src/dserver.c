@@ -8,34 +8,19 @@ void inicializar_proximo_id() {
         return;
     }
 
-    char buffer[512];
-    ssize_t bytes;
+    Documentos doc;
     int max_id = 0;
-    char linha[512];
-    int idx = 0;
 
-    while ((bytes = read(fd, buffer, sizeof(buffer))) > 0) {
-        for (ssize_t i = 0; i < bytes; ++i) {
-            char c = buffer[i];
-            if (c != '\n' && idx < sizeof(linha) - 1) {
-                linha[idx++] = c;
-            } else {
-                linha[idx] = '\0';
-                idx = 0;
-
-                int id;
-                if (sscanf(linha, "%d,", &id) == 1) {
-                    if (id > max_id) {
-                        max_id = id;
-                    }
-                }
-            }
+    while (read(fd, &doc, sizeof(Documentos)) == sizeof(Documentos)) {
+        if (doc.id > max_id) {
+            max_id = doc.id;
         }
     }
 
     close(fd);
     proximo_id = max_id + 1;
 }
+
 
 
 void processar(Comando *cmd) {
