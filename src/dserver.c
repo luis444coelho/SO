@@ -37,6 +37,10 @@ void processar(Comando *cmd) {
             processar_consult(cmd);
             break;
 
+        case CMD_REMOVE:
+            processar_remove(cmd);
+            break;
+
         default:
             send_response_to("Erro: comando não reconhecido.",cmd -> response_pipe);
             break;
@@ -52,6 +56,8 @@ int main(int argc, char *argv[]) {
 
     inicializar_proximo_id();
 
+
+    //Não devia ser 3? Por causa do cache size
     if (argc != 2) {
         fprintf(stderr, "Uso: %s <document_folder>\n", argv[0]);
         return 1;

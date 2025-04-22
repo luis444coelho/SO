@@ -17,5 +17,7 @@ void escrever_metadados(Documentos *doc);
 
 void send_response_to(const char *msg, const char *pipe_name);
 
+void processar_remove(Comando *cmd);
+
 
 #endif

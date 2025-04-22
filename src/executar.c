@@ -40,9 +40,6 @@ void processar_add(Comando *cmd) {
         return;
     }
 
-    doc->id = proximo_id;
-    doc->ativo = 1;
-
     int fd = open(METADATA_FILE, O_RDWR | O_CREAT, 0666);
     if (fd == -1) {
         send_response_to("Erro ao abrir ficheiro de metadados.", cmd->response_pipe);
@@ -51,24 +48,35 @@ void processar_add(Comando *cmd) {
 
     Documentos temp;
     int encontrado_slot = 0;
-    off_t pos = 0;
+    int menor_id_disponivel = -1;
 
     while (read(fd, &temp, sizeof(Documentos)) == sizeof(Documentos)) {
-        if (temp.ativo == 0) {
-            // Encontrou espaço reutilizável
-            lseek(fd, pos, SEEK_SET); 
-            write(fd, doc, sizeof(Documentos));
-            encontrado_slot = 1;
-            break;
+        if (temp.ativo == 0 && (menor_id_disponivel == -1 || temp.id < menor_id_disponivel)) {
+            menor_id_disponivel = temp.id;
         }
-        pos += sizeof(Documentos);
     }
 
-    if (!encontrado_slot) {
- 
+    if (menor_id_disponivel != -1) {
+        doc->id = menor_id_disponivel;
+        doc->ativo = 1;
+
+        lseek(fd, 0, SEEK_SET);
+
+        while (read(fd, &temp, sizeof(Documentos)) == sizeof(Documentos)) {
+            if (temp.id == menor_id_disponivel) {
+                lseek(fd, -sizeof(Documentos), SEEK_CUR);
+                write(fd, doc, sizeof(Documentos));
+                encontrado_slot = 1;
+                break;
+            }
+        }
+    } else {
+
+        doc->id = proximo_id++;
+        doc->ativo = 1;
+
         lseek(fd, 0, SEEK_END);
         write(fd, doc, sizeof(Documentos));
-        proximo_id++;
     }
 
     close(fd);
