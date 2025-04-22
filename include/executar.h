@@ -19,5 +19,7 @@ void send_response_to(const char *msg, const char *pipe_name);
 
 void processar_remove(Comando *cmd);
 
+void processar_lines(Comando *cmd);
+
 
 #endif
