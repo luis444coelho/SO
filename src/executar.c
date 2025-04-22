@@ -28,7 +28,6 @@ void escrever_metadados(Documentos *doc) {
 }
 
 
-//REVER ISTO
 void processar_add(Comando *cmd) {
     Documentos *doc = &cmd->doc;
 
@@ -129,7 +128,6 @@ void processar_shutdown (Comando *cmd) {
 }
 
 
-//REVER ISTO
 void processar_remove(Comando *cmd) {
     int id_remover = cmd->id;
     int fd = open(METADATA_FILE, O_RDWR);
@@ -163,4 +161,79 @@ void processar_remove(Comando *cmd) {
         send_response_to("Erro: documento com o ID especificado não encontrado ou já removido.", cmd->response_pipe);
     }
 }
+
+void processar_lines(Comando *cmd) {
+    int id = cmd->id;
+    char *keyword = cmd->keyword;
+
+    int fd_meta = open(METADATA_FILE, O_RDONLY);
+    if (fd_meta == -1) {
+        send_response_to("Erro: arquivo de metadados não encontrado.", cmd->response_pipe);
+        return;
+    }
+
+    Documentos doc;
+    int encontrado = 0;
+
+    while (read(fd_meta, &doc, sizeof(Documentos)) == sizeof(Documentos)) {
+        if (doc.id == id && doc.ativo) {
+            encontrado = 1;
+            break;
+        }
+    }
+
+    close(fd_meta);
+
+    if (!encontrado) {
+        send_response_to("Erro: documento com o ID especificado não encontrado.", cmd->response_pipe);
+        return;
+    }
+
+    char full_path[512];
+    snprintf(full_path, sizeof(full_path), "%s/%s", base_folder, doc.path);
+
+    int fd = open(full_path, O_RDONLY);
+    if (fd == -1) {
+        send_response_to("Erro: não foi possível abrir o arquivo do documento.", cmd->response_pipe);
+        return;
+    }
+
+    char buf[1024];
+    ssize_t bytes_read;
+    size_t line_len = 0;
+    char line[1024];
+    int count = 0;
+
+    while ((bytes_read = read(fd, buf, sizeof(buf))) > 0) {
+        for (ssize_t i = 0; i < bytes_read; i++) {
+            if (line_len < sizeof(line) - 1) {
+                line[line_len++] = buf[i];
+            }
+
+            if (buf[i] == '\n') {
+                line[line_len] = '\0';
+
+                if (strstr(line, keyword) != NULL) {
+                    count++;
+                }
+
+                line_len = 0; 
+            }
+        }
+    }
+
+    if (line_len > 0) {
+        line[line_len] = '\0';
+        if (strstr(line, keyword) != NULL) {
+            count++;
+        }
+    }
+
+    close(fd);
+
+    char resposta[64];
+    snprintf(resposta, sizeof(resposta), "%d", count);
+    send_response_to(resposta, cmd->response_pipe);
+}
+
 

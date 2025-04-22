@@ -40,6 +40,10 @@ void processar(Comando *cmd) {
         case CMD_REMOVE:
             processar_remove(cmd);
             break;
+        
+        case CMD_LINES:
+        processar_lines(cmd);
+        break;
 
         default:
             send_response_to("Erro: comando não reconhecido.",cmd -> response_pipe);
