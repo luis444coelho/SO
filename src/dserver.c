@@ -45,6 +45,10 @@ void processar(Comando *cmd) {
         processar_lines(cmd);
         break;
 
+        case CMD_SEARCH:
+        processar_search(cmd);
+        break;
+
         default:
             send_response_to("Erro: comando não reconhecido.",cmd -> response_pipe);
             break;

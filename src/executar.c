@@ -192,48 +192,86 @@ void processar_lines(Comando *cmd) {
     char full_path[512];
     snprintf(full_path, sizeof(full_path), "%s/%s", base_folder, doc.path);
 
-    int fd = open(full_path, O_RDONLY);
-    if (fd == -1) {
-        send_response_to("Erro: não foi possível abrir o arquivo do documento.", cmd->response_pipe);
-        return;
+    int p1[2], p2[2];
+    pipe(p1);
+    pipe(p2);
+
+    pid_t pid1 = fork();
+    if (pid1 == 0) {
+        dup2(p1[1], STDOUT_FILENO);
+        close(p1[0]); close(p1[1]);
+        execlp("grep", "grep", keyword, full_path, NULL);
+        _exit(1);
     }
 
-    char buf[1024];
-    ssize_t bytes_read;
-    size_t line_len = 0;
-    char line[1024];
-    int count = 0;
-
-    while ((bytes_read = read(fd, buf, sizeof(buf))) > 0) {
-        for (ssize_t i = 0; i < bytes_read; i++) {
-            if (line_len < sizeof(line) - 1) {
-                line[line_len++] = buf[i];
-            }
-
-            if (buf[i] == '\n') {
-                line[line_len] = '\0';
-
-                if (strstr(line, keyword) != NULL) {
-                    count++;
-                }
-
-                line_len = 0; 
-            }
-        }
+    pid_t pid2 = fork();
+    if (pid2 == 0) {
+        dup2(p1[0], STDIN_FILENO);
+        dup2(p2[1], STDOUT_FILENO);
+        close(p1[0]); close(p1[1]);
+        close(p2[0]); close(p2[1]);
+        execlp("wc", "wc", "-l", NULL);
+        _exit(1);
     }
 
-    if (line_len > 0) {
-        line[line_len] = '\0';
-        if (strstr(line, keyword) != NULL) {
-            count++;
-        }
+    close(p1[0]); close(p1[1]);
+    close(p2[1]);
+
+    char buffer[64];
+    ssize_t n = read(p2[0], buffer, sizeof(buffer) - 1);
+    if (n > 0) {
+        buffer[n] = '\0';
+        send_response_to(buffer, cmd->response_pipe);
+    } else {
+        send_response_to("0", cmd->response_pipe);
     }
 
-    close(fd);
-
-    char resposta[64];
-    snprintf(resposta, sizeof(resposta), "%d", count);
-    send_response_to(resposta, cmd->response_pipe);
+    close(p2[0]);
+    wait(NULL);
+    wait(NULL);
 }
 
 
+void processar_search(Comando *cmd) {
+    char *keyword = cmd->keyword;
+    int fd_meta = open(METADATA_FILE, O_RDONLY);
+    if (fd_meta == -1) {
+        send_response_to("Erro: ficheiro de metadados não encontrado.", cmd->response_pipe);
+        return;
+    }
+
+    Documentos doc;
+    char resultado[1024] = "";
+
+    while (read(fd_meta, &doc, sizeof(Documentos)) == sizeof(Documentos)) {
+        if (!doc.ativo) continue;
+
+        char full_path[512];
+        snprintf(full_path, sizeof(full_path), "%s/%s", base_folder, doc.path);
+
+        pid_t pid = fork();
+        if (pid == 0) {
+            int devnull = open("/dev/null", O_WRONLY);
+            dup2(devnull, STDERR_FILENO);
+            close(devnull);
+            execlp("grep", "grep", "-q", keyword, full_path, NULL);
+            _exit(1);
+        }
+
+        int status;
+        waitpid(pid, &status, 0);
+        if (WIFEXITED(status) && WEXITSTATUS(status) == 0) {
+            char temp[16];
+            snprintf(temp, sizeof(temp), "\n%d\n ", doc.id);
+            strcat(resultado, temp);
+        }
+    }
+
+    close(fd_meta);
+
+    if (strlen(resultado) == 0) {
+        send_response_to("Nenhum documento encontrado com essa palavra-chave.", cmd->response_pipe);
+    } else {
+        send_response_to(resultado, cmd->response_pipe);
+    }
+}
