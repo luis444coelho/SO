@@ -21,5 +21,9 @@ void processar_remove(Comando *cmd);
 
 void processar_lines(Comando *cmd);
 
+void processar_search(Comando *cmd);
+
+void processar_search_parallel(Comando *cmd);
+
 
 #endif
