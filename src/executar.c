@@ -241,7 +241,8 @@ void processar_search(Comando *cmd) {
     }
 
     Documentos doc;
-    char resultado[1024] = "";
+    int *ids_encontrados = NULL;
+    int count = 0;
 
     while (read(fd_meta, &doc, sizeof(Documentos)) == sizeof(Documentos)) {
         if (!doc.ativo) continue;
@@ -261,20 +262,40 @@ void processar_search(Comando *cmd) {
         int status;
         waitpid(pid, &status, 0);
         if (WIFEXITED(status) && WEXITSTATUS(status) == 0) {
-            char temp[16];
-            snprintf(temp, sizeof(temp), "\n%d\n ", doc.id);
-            strcat(resultado, temp);
+            ids_encontrados = realloc(ids_encontrados, (count + 1) * sizeof(int));
+            ids_encontrados[count++] = doc.id;
         }
     }
 
     close(fd_meta);
 
-    if (strlen(resultado) == 0) {
+    if (count == 0) {
         send_response_to("Nenhum documento encontrado com essa palavra-chave.", cmd->response_pipe);
-    } else {
-        send_response_to(resultado, cmd->response_pipe);
+        return;
     }
+
+    for (int i = 0; i < count - 1; i++) {
+        for (int j = 0; j < count - i - 1; j++) {
+            if (ids_encontrados[j] > ids_encontrados[j + 1]) {
+                int temp = ids_encontrados[j];
+                ids_encontrados[j] = ids_encontrados[j + 1];
+                ids_encontrados[j + 1] = temp;
+            }
+        }
+    }
+
+    char resposta[4096] = "[";
+    for (int i = 0; i < count; i++) {
+        char temp[16];
+        snprintf(temp, sizeof(temp), "%s%d", i > 0 ? ", " : "", ids_encontrados[i]);
+        strcat(resposta, temp);
+    }
+    strcat(resposta, "]");
+
+    send_response_to(resposta, cmd->response_pipe);
+    free(ids_encontrados);
 }
+
 
 
 void processar_search_parallel(Comando *cmd) {
