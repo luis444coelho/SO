@@ -70,3 +70,12 @@ void adicionar_na_cache(Cache *c, Documentos d) {
     if (c->tail == NULL) c->tail = novo;
     c->tamanho++;
 }
+
+void imprimir_cache(Cache *c) {
+    printf("Documentos na cache (mais recente -> mais antigo):\n");
+    CacheNode *n = c->head;
+    while (n) {
+        printf("ID: %d\n", n->doc.id);
+        n = n->next;
+    }
+}

@@ -4,12 +4,12 @@
 #include <unistd.h>
 #include <string.h>
 #include <sys/wait.h>
+#include <glib.h>
 
 #ifndef utils_H
 #define utils_H
 
 #define PIPE_NAME "doc_pipe"
-#define RESPONSE_PIPE "response_pipe"
 #define METADATA_FILE "metadata.txt"
 
 typedef struct {
