@@ -1,4 +1,5 @@
 #include "../include/executar.h"
+#include "../include/cache.h"
 
 
 void inicializar_proximo_id() {
@@ -23,61 +24,61 @@ void inicializar_proximo_id() {
 
 
 
-void processar(Comando *cmd) {
+int processar(Comando *cmd, Cache *cache) {
     switch (cmd->tipo) {
         case CMD_ADD:
             processar_add(cmd);
-            break;
-
+            return 1; 
+            
         case CMD_SHUTDOWN:
-            processar_shutdown(cmd);
-            break;
-
+            return processar_shutdown(cmd); 
+            
         case CMD_CONSULT:
-            processar_consult(cmd);
-            break;
-
+            processar_consult(cmd, cache);
+            return 1;
+            
         case CMD_REMOVE:
             processar_remove(cmd);
-            break;
-        
+            return 1;
+            
         case CMD_LINES:
-        processar_lines(cmd);
-        break;
-
+            processar_lines(cmd);
+            return 1;
+            
         case CMD_SEARCH:
-        processar_search(cmd);
-        break;
-
+            processar_search(cmd);
+            return 1;
+            
         case CMD_SEARCH_PARALLEL:
-        processar_search_parallel(cmd);
-        break;
-
+            processar_search_parallel(cmd);
+            return 1;
+            
         default:
-            send_response_to("Erro: comando não reconhecido.",cmd -> response_pipe);
-            break;
+            send_response_to("Erro: comando não reconhecido.", cmd->response_pipe);
+            return 1;
     }
 }
 
 
 int main(int argc, char *argv[]) {
-    // Cria o pipe principal se não existir
-    
+
     int fd_comando = -1;
     mkfifo(PIPE_NAME, 0666);
 
     inicializar_proximo_id();
 
-
-    //Não devia ser 3? Por causa do cache size
-    if (argc != 2) {
-        fprintf(stderr, "Uso: %s <document_folder>\n", argv[0]);
+    if (argc != 3) {
+        fprintf(stderr, "Uso: %s <document_folder> <cache_size>\n", argv[0]);
         return 1;
     }
 
     strncpy(base_folder, argv[1], sizeof(base_folder));
 
-    while (1) {
+    int cache_capacidade = atoi(argv[2]);
+    Cache* cache = criar_cache(cache_capacidade);
+
+    int continuar = 1;
+    while (continuar) {
         fd_comando = open(PIPE_NAME, O_RDONLY);
         if (fd_comando == -1) {
             perror("Erro ao abrir pipe principal");
@@ -88,6 +89,7 @@ int main(int argc, char *argv[]) {
         ssize_t bytes;
         while ((bytes = read(fd_comando, &cmd, sizeof(Comando))) > 0) {
             if (bytes == sizeof(Comando)) {
+
                 
                 if (cmd.tipo == CMD_CONSULT || cmd.tipo == CMD_SEARCH || cmd.tipo == CMD_LINES) {
                     pid_t pid = fork();
@@ -106,6 +108,7 @@ int main(int argc, char *argv[]) {
         }
     
         close(fd_comando); // Chegou EOF, cliente fechou pipe de escrita
+
     }
     
 

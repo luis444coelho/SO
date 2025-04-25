@@ -1,4 +1,7 @@
 #include "../include/executar.h"
+#include "../include/cache.h"
+#include <sys/stat.h>
+
 
 char base_folder[256];
 int proximo_id = 1;
@@ -85,10 +88,22 @@ void processar_add(Comando *cmd) {
     send_response_to(resposta, cmd->response_pipe);
 }
 
-void processar_consult(Comando *cmd) {
+void processar_consult(Comando *cmd, Cache *cache) {
     int id_procurado = cmd->id;
-    int fd = open(METADATA_FILE, O_RDONLY);
 
+    Documentos *doc_cache = procurar_na_cache(cache, id_procurado);
+    
+    if (doc_cache) {
+
+        char resposta[512];
+        snprintf(resposta, sizeof(resposta),
+                 "Title: %s\nAuthors: %s\nYear: %d\nPath: %s",
+                 doc_cache->title, doc_cache->authors, doc_cache->year, doc_cache->path);
+        send_response_to(resposta, cmd->response_pipe);
+        return;
+    }
+
+    int fd = open(METADATA_FILE, O_RDONLY);
     if (fd == -1) {
         send_response_to("Erro: ficheiro de metadados não encontrado.", cmd->response_pipe);
         return;
@@ -107,6 +122,9 @@ void processar_consult(Comando *cmd) {
     close(fd);
 
     if (encontrado) {
+
+        adicionar_na_cache(cache, doc);
+        
         char resposta[512];
         snprintf(resposta, sizeof(resposta),
                  "Title: %s\nAuthors: %s\nYear: %d\nPath: %s",
@@ -117,15 +135,15 @@ void processar_consult(Comando *cmd) {
     }
 }
 
-
-void processar_shutdown (Comando *cmd) {
-    int fd_comando = -1;
-    send_response_to("Servidor a encerrar...",cmd -> response_pipe);
-    close(fd_comando);
+//Não precisas do close(fd_comando); porque fd_comando = -1.
+//E RESPONSE_PIPE não faz muito sentido, porque os pipes de resposta são criados dinamicamente no cliente. 
+//Só deviamos fazer unlink(PIPE_NAME);
+int processar_shutdown(Comando *cmd) {
+    send_response_to("Servidor a encerrar...", cmd->response_pipe);
     unlink(PIPE_NAME);
-    unlink(RESPONSE_PIPE);
-    exit(0);
+    return 0; 
 }
+
 
 
 void processar_remove(Comando *cmd) {

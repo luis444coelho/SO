@@ -19,11 +19,11 @@ folders:
 	@mkdir -p obj bin
 
 # Como compilar os binários
-bin/dserver: obj/dserver.o obj/utils.o obj/executar.o
-	$(CC) $(LDFLAGS) $^ -o $@ $(LIBS)
+bin/dserver: obj/dserver.o obj/utils.o obj/executar.o obj/cache.o
+	$(CC) $(LDFLAGS) $^ -o $@
 
-bin/dclient: obj/dclient.o obj/utils.o obj/executar.o
-	$(CC) $(LDFLAGS) $^ -o $@ $(LIBS)
+bin/dclient: obj/dclient.o obj/utils.o obj/executar.o obj/cache.o
+	$(CC) $(LDFLAGS) $^ -o $@
 
 # Compilar os .o a partir dos .c
 obj/%.o: src/%.c
