@@ -1,7 +1,8 @@
 # Compilador e flags
 CC = gcc
 CFLAGS = -w -O2 -g -Iinclude `pkg-config --cflags glib-2.0`
-LDFLAGS = -lglib-2.0
+LDFLAGS = -w -O2 -g
+LIBS = `pkg-config --libs glib-2.0`
 
 # Ficheiros
 SRCS := $(wildcard src/*.c)
@@ -17,14 +18,14 @@ all: folders $(TARGETS)
 folders:
 	@mkdir -p obj bin
 
-# Como compilar cada binário (ajustar conforme o necessário)
+# Como compilar os binários
 bin/dserver: obj/dserver.o obj/utils.o obj/executar.o obj/cache.o
 	$(CC) $(LDFLAGS) $^ -o $@
 
 bin/dclient: obj/dclient.o obj/utils.o obj/executar.o obj/cache.o
 	$(CC) $(LDFLAGS) $^ -o $@
 
-# Como compilar os .o a partir dos .c
+# Compilar os .o a partir dos .c
 obj/%.o: src/%.c
 	$(CC) $(CFLAGS) -c $< -o $@
 

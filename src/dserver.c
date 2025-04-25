@@ -89,19 +89,28 @@ int main(int argc, char *argv[]) {
         ssize_t bytes;
         while ((bytes = read(fd_comando, &cmd, sizeof(Comando))) > 0) {
             if (bytes == sizeof(Comando)) {
-                continuar = processar(&cmd, cache);
-                if (!continuar) {
-                    break; 
+
+                
+                if (cmd.tipo == CMD_CONSULT || cmd.tipo == CMD_SEARCH || cmd.tipo == CMD_LINES) {
+                    pid_t pid = fork();
+                    if (pid == 0) {
+                        processar(&cmd);
+                        _exit(0);  
+                    } else if (pid < 0) {
+                        perror("Erro ao criar fork");
+                    }
+                    
+                } else {
+                    
+                    processar(&cmd);
                 }
             }
         }
     
-        close(fd_comando);
-        
-        if (!continuar) {
-            break;
-        }
+        close(fd_comando); // Chegou EOF, cliente fechou pipe de escrita
+
     }
+    
 
     return 0;
 }
