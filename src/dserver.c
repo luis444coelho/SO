@@ -2,6 +2,7 @@
 #include "../include/cache.h"
 
 
+
 void inicializar_proximo_id() {
     int fd = open(METADATA_FILE, O_RDONLY);
     if (fd == -1) {
@@ -24,92 +25,138 @@ void inicializar_proximo_id() {
 
 
 
-int processar(Comando *cmd, Cache *cache) {
+Documentos processar(Comando *cmd, Cache *cache) {
+    Documentos doc_vazio = {0};
+
     switch (cmd->tipo) {
         case CMD_ADD:
             processar_add(cmd);
-            return 1; 
-            
+            return doc_vazio;
+
         case CMD_SHUTDOWN:
-            return processar_shutdown(cmd); 
-            
-        case CMD_CONSULT:
-            processar_consult(cmd, cache);
-            return 1;
-            
+            processar_shutdown(cmd);
+            return doc_vazio;
+
+        case CMD_CONSULT: {
+            Documentos doc = processar_consult(cmd, cache);
+            return doc;
+        }
+
         case CMD_REMOVE:
             processar_remove(cmd);
-            return 1;
-            
+            return doc_vazio;
+
         case CMD_LINES:
             processar_lines(cmd);
-            return 1;
-            
+            return doc_vazio;
+
         case CMD_SEARCH:
             processar_search(cmd);
-            return 1;
-            
+            return doc_vazio;
+
         case CMD_SEARCH_PARALLEL:
             processar_search_parallel(cmd);
-            return 1;
-            
+            return doc_vazio;
+
         default:
             send_response_to("Erro: comando não reconhecido.", cmd->response_pipe);
-            return 1;
+            return doc_vazio;
     }
 }
 
 
 int main(int argc, char *argv[]) {
-
-    int fd_comando = -1;
-    mkfifo(PIPE_NAME, 0666);
-
-    inicializar_proximo_id();
-
     if (argc != 3) {
         fprintf(stderr, "Uso: %s <document_folder> <cache_size>\n", argv[0]);
         return 1;
     }
 
-    strncpy(base_folder, argv[1], sizeof(base_folder));
+    mkfifo(PIPE_NAME, 0666);
+    inicializar_proximo_id();
+
+    strncpy(base_folder, argv[1], sizeof(base_folder) - 1);
+    base_folder[sizeof(base_folder) - 1] = '\0'; // garantir null terminator
 
     int cache_capacidade = atoi(argv[2]);
     Cache* cache = criar_cache(cache_capacidade);
 
+    int fd_comando = open(PIPE_NAME, O_RDONLY);
+    if (fd_comando == -1) {
+        perror("Erro ao abrir pipe principal");
+        return 1;
+    }
+
     int continuar = 1;
     while (continuar) {
-        fd_comando = open(PIPE_NAME, O_RDONLY);
-        if (fd_comando == -1) {
-            perror("Erro ao abrir pipe principal");
-            return 1;
-        }
-    
         Comando cmd;
-        ssize_t bytes;
-        while ((bytes = read(fd_comando, &cmd, sizeof(Comando))) > 0) {
-            if (bytes == sizeof(Comando)) {
-                if (/* cmd.tipo == CMD_CONSULT || */ cmd.tipo == CMD_SEARCH || cmd.tipo == CMD_LINES) {
-                    pid_t pid = fork();
-                    if (pid == 0) {
-                        processar(&cmd,cache);
-                        _exit(0);  
-                    } else if (pid < 0) {
-                        perror("Erro ao criar fork");
-                    }
-                    
-                } else {
-                    
-                    processar(&cmd,cache);
-                }
-                imprimir_cache(cache);
+        ssize_t bytes = read(fd_comando, &cmd, sizeof(Comando));
+
+        if (bytes == 0) {
+            // Pipe fechado 
+            close(fd_comando);
+            fd_comando = open(PIPE_NAME, O_RDONLY); 
+            if (fd_comando == -1) {
+                perror("Erro ao reabrir pipe principal");
+                return 1;
             }
+            continue;
         }
-    
-        close(fd_comando); // Chegou EOF, cliente fechou pipe de escrita
 
+        if (bytes == -1) {
+            perror("Erro ao ler do pipe principal");
+            continue;
+        }
+
+        if (bytes != sizeof(Comando)) {
+            fprintf(stderr, "Comando incompleto recebido\n");
+            continue;
+        }
+
+        if (cmd.tipo == CMD_CONSULT || cmd.tipo == CMD_SEARCH || cmd.tipo == CMD_LINES) {
+            int pipe_fd[2];
+            if (pipe(pipe_fd) == -1) {
+                perror("Erro ao criar pipe anônimo");
+                continue;
+            }
+
+            pid_t pid = fork();
+            if (pid == 0) {
+                // FILHO
+                close(pipe_fd[0]); // fecho a leitura
+                Documentos doc = processar(&cmd, cache);
+                write(pipe_fd[1], &doc, sizeof(Documentos));
+                close(pipe_fd[1]);
+                _exit(0);
+            } else if (pid > 0) {
+                // PAI
+                close(pipe_fd[1]); // fecho a escrita
+
+                Documentos doc_recebido;
+                ssize_t lido = read(pipe_fd[0], &doc_recebido, sizeof(Documentos));
+                if (lido == sizeof(Documentos)) {
+                    if (cmd.tipo == CMD_CONSULT) {
+                        adicionar_na_cache(cache, doc_recebido);
+                    }
+                } else {
+                    perror("Erro ao ler do pipe anônimo");
+                }
+
+                close(pipe_fd[0]);
+                waitpid(pid, NULL, 0); // Espero o filho terminar
+            } else {
+                perror("Erro ao criar fork");
+                close(pipe_fd[0]);
+                close(pipe_fd[1]);
+            }
+        } else {
+
+            Documentos doc = processar(&cmd, cache);
+            (void)doc; 
+        }
+
+        imprimir_cache(cache);
     }
-    
 
+    close(fd_comando);
     return 0;
 }

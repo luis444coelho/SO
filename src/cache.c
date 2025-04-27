@@ -38,7 +38,6 @@ Documentos* procurar_na_cache(Cache *c, int id) {
     return NULL;
 }
 
-//Neste momento estamos a mandar o ultimo de pica
 
 void adicionar_na_cache(Cache *c, Documentos d) {
 
@@ -54,9 +53,13 @@ void adicionar_na_cache(Cache *c, Documentos d) {
 
     if (c->tamanho >= c->capacidade) {
         CacheNode *remover = c->tail;
-        if (remover->prev) remover->prev->next = NULL;
-        c->tail = remover->prev;
-        if (c->head == remover) c->head = NULL;
+        if (remover->prev) {
+            remover->prev->next = NULL;
+            c->tail = remover->prev;
+        } else {
+            c->head = NULL;
+            c->tail = NULL;
+        }
         free(remover);
         c->tamanho--;
     }
@@ -65,9 +68,14 @@ void adicionar_na_cache(Cache *c, Documentos d) {
     novo->doc = d;
     novo->prev = NULL;
     novo->next = c->head;
-    if (c->head) c->head->prev = novo;
+    
+    if (c->head) {
+        c->head->prev = novo;
+    } else {
+        c->tail = novo;
+    }
+    
     c->head = novo;
-    if (c->tail == NULL) c->tail = novo;
     c->tamanho++;
 }
 
