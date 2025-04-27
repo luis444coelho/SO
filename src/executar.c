@@ -100,7 +100,7 @@ Documentos processar_consult(Comando *cmd, Cache *cache) {
                  "Title: %s\nAuthors: %s\nYear: %d\nPath: %s",
                  doc_cache->title, doc_cache->authors, doc_cache->year, doc_cache->path);
         send_response_to(resposta, cmd->response_pipe);
-        return;
+        return *doc_cache;
     }
 
     int fd = open(METADATA_FILE, O_RDONLY);
