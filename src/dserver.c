@@ -24,44 +24,48 @@ void inicializar_proximo_id() {
 
 
 
-int processar(Comando *cmd, Cache *cache) {
+Documentos processar(Comando *cmd, Cache *cache) {
+    Documentos doc_vazio = {0};
+
     switch (cmd->tipo) {
         case CMD_ADD:
             processar_add(cmd);
-            return 1; 
-            
+            return doc_vazio;
+
         case CMD_SHUTDOWN:
-            return processar_shutdown(cmd); 
-            
-        case CMD_CONSULT:
-            processar_consult(cmd, cache);
-            return 1;
-            
+            processar_shutdown(cmd);
+            return doc_vazio;
+
+        case CMD_CONSULT: {
+            Documentos doc = processar_consult(cmd, cache);
+            return doc;
+        }
+
         case CMD_REMOVE:
             processar_remove(cmd);
-            return 1;
-            
+            return doc_vazio;
+
         case CMD_LINES:
             processar_lines(cmd);
-            return 1;
-            
+            return doc_vazio;
+
         case CMD_SEARCH:
             processar_search(cmd);
-            return 1;
-            
+            return doc_vazio;
+
         case CMD_SEARCH_PARALLEL:
             processar_search_parallel(cmd);
-            return 1;
-            
+            return doc_vazio;
+
         default:
             send_response_to("Erro: comando não reconhecido.", cmd->response_pipe);
-            return 1;
+            return doc_vazio;
     }
 }
 
 
-int main(int argc, char *argv[]) {
 
+int main(int argc, char *argv[]) {
     int fd_comando = -1;
     mkfifo(PIPE_NAME, 0666);
 
@@ -89,27 +93,31 @@ int main(int argc, char *argv[]) {
         ssize_t bytes;
         while ((bytes = read(fd_comando, &cmd, sizeof(Comando))) > 0) {
             if (bytes == sizeof(Comando)) {
-                if (/* cmd.tipo == CMD_CONSULT || */ cmd.tipo == CMD_SEARCH || cmd.tipo == CMD_LINES) {
+
+                if (cmd.tipo == CMD_SEARCH || cmd.tipo == CMD_LINES) {
                     pid_t pid = fork();
                     if (pid == 0) {
-                        processar(&cmd,cache);
+                        processar(&cmd, cache); // filho apenas processa
                         _exit(0);  
                     } else if (pid < 0) {
                         perror("Erro ao criar fork");
                     }
-                    
                 } else {
-                    
-                    processar(&cmd,cache);
+                    // CMD_ADD, CMD_REMOVE, CMD_SHUTDOWN, CMD_CONSULT
+                    Documentos doc = processar(&cmd, cache);
+
+                    if (cmd.tipo == CMD_CONSULT) {
+                        adicionar_na_cache(cache, doc); // só adiciona se for CONSULT
+                    }
                 }
-                imprimir_cache(cache);
+
+                imprimir_cache(cache); // imprimir sempre depois de processar
             }
         }
     
-        close(fd_comando); // Chegou EOF, cliente fechou pipe de escrita
-
+        close(fd_comando); // EOF - cliente fechou o pipe
     }
-    
 
     return 0;
 }
+

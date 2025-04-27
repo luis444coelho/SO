@@ -88,7 +88,7 @@ void processar_add(Comando *cmd) {
     send_response_to(resposta, cmd->response_pipe);
 }
 
-void processar_consult(Comando *cmd, Cache *cache) {
+Documentos processar_consult(Comando *cmd, Cache *cache) {
     int id_procurado = cmd->id;
 
     Documentos *doc_cache = procurar_na_cache(cache, id_procurado);
@@ -122,9 +122,7 @@ void processar_consult(Comando *cmd, Cache *cache) {
     close(fd);
 
     if (encontrado) {
-
-        adicionar_na_cache(cache, doc);
-        
+      
         char resposta[512];
         snprintf(resposta, sizeof(resposta),
                  "Title: %s\nAuthors: %s\nYear: %d\nPath: %s",
@@ -133,6 +131,8 @@ void processar_consult(Comando *cmd, Cache *cache) {
     } else {
         send_response_to("Erro: documento com o ID especificado não encontrado.", cmd->response_pipe);
     }
+
+    return doc;
 }
 
 //Não precisas do close(fd_comando); porque fd_comando = -1.

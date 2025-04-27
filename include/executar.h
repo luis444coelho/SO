@@ -10,7 +10,7 @@ extern char base_folder[256];
 
 void processar_add(Comando *cmd);
 
-void processar_consult(Comando *cmd, Cache *cache);
+Documentos processar_consult(Comando *cmd, Cache *cache);
 
 int processar_shutdown(Comando *cmd);
 
