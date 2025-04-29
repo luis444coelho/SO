@@ -273,7 +273,7 @@ void processar_search(Comando *cmd) {
             int devnull = open("/dev/null", O_WRONLY);
             dup2(devnull, STDERR_FILENO);
             close(devnull);
-            execlp("grep", "grep", "-q", keyword, full_path, NULL);
+            execlp("grep", "grep", "-q","-w", keyword, full_path, NULL);
             _exit(1);
         }
 
@@ -385,7 +385,7 @@ void processar_search_parallel(Comando *cmd) {
                 if (grep_pid == 0) {
                     dup2(devnull, STDERR_FILENO);
                     close(devnull);
-                    execlp("grep", "grep", "-q", keyword, doc_paths[j], NULL);
+                    execlp("grep", "grep", "-q","-w", keyword, doc_paths[j], NULL);
                     _exit(1);
                 }
                 
