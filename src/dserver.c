@@ -1,6 +1,4 @@
 #include "../include/executar.h"
-#include "../include/cache.h"
-
 
 
 void inicializar_proximo_id() {

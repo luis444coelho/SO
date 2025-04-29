@@ -44,4 +44,8 @@ typedef struct {
 
 Comando parse_comando(int argc, char *argv[]);
 
+void send_response_to(const char *msg, const char *pipe_name);
+
+void escrever_metadados(Documentos *doc);
+
 #endif

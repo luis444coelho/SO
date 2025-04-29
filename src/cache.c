@@ -1,7 +1,4 @@
-#include <stdio.h>
-#include <stdlib.h>
-#include "utils.h"
-#include "cache.h"
+#include <cache.h>
 
 Cache* criar_cache(int capacidade) {
     Cache *cache = (Cache *)malloc(sizeof(Cache));

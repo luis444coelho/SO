@@ -1,4 +1,4 @@
-#include "../include/executar.h"
+#include "../include/utils.h"
 
 
 void send_comando(Comando *cmd) {
