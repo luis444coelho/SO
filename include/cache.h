@@ -19,6 +19,15 @@ Cache* criar_cache(int capacidade);
 
 Documentos* procurar_na_cache(Cache *c, int id);
 
-void adicionar_na_cache(Cache *c, Documentos d);
+void adicionar_lru(Cache *c, Documentos d);
+
+void adicionar_fifo(Cache *c, Documentos d);
+
+void adicionar_mru(Cache *c, Documentos d);
+
+void adicionar_na_cache(Cache *c, Documentos d, int politica);
+
+void imprimir_cache(Cache *c);
+
 
 #endif
