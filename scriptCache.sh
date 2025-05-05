@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Caminho completo do dataset
+# Caminho relativo do dataset, assumindo que o script está na pasta SO_44
 DATASET_PATH="../Gdataset"
 
 # Função para testar uma política
@@ -18,7 +18,7 @@ testar_politica() {
     rm -f server_output_$nome.txt
 
     # Inicia o servidor com política selecionada (1 = LRU, 2 = FIFO, 3 = MRU)
-    ./bin/dserver "$DATASET_PATH" 2 "$politica" > server_output_$nome.txt &
+    ./bin/dserver "$DATASET_PATH" 2 "$politica" > /dev/null 2>&1 &
     SERVER_PID=$!
     sleep 1
 
@@ -31,7 +31,7 @@ testar_politica() {
     local ids=(1 2 3)
 
     local total_time_ns=0
-    local num_consultas=100
+    local num_consultas=50
 
     for ((i = 0; i < num_consultas; i++)); do
         id=${ids[$((i % 3))]}
