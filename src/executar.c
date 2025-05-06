@@ -109,9 +109,7 @@ Documentos processar_consult(Comando *cmd, Cache *cache) {
     return doc;
 }
 
-//Não precisas do close(fd_comando); porque fd_comando = -1.
-//E RESPONSE_PIPE não faz muito sentido, porque os pipes de resposta são criados dinamicamente no cliente. 
-//Só deviamos fazer unlink(PIPE_NAME);
+
 int processar_shutdown(Comando *cmd) {
     send_response_to("Servidor a encerrar...", cmd->response_pipe);
     unlink(PIPE_NAME);
