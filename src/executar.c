@@ -109,15 +109,12 @@ Documentos processar_consult(Comando *cmd, Cache *cache) {
     return doc;
 }
 
-//Não precisas do close(fd_comando); porque fd_comando = -1.
-//E RESPONSE_PIPE não faz muito sentido, porque os pipes de resposta são criados dinamicamente no cliente. 
-//Só deviamos fazer unlink(PIPE_NAME);
+
 int processar_shutdown(Comando *cmd) {
     send_response_to("Servidor a encerrar...", cmd->response_pipe);
     unlink(PIPE_NAME);
     return 0; 
 }
-
 
 
 void processar_remove(Comando *cmd) {
@@ -266,7 +263,6 @@ void processar_search(Comando *cmd) {
         return;
     }
 
-    // Ordenar os IDs encontrados
     for (int i = 0; i < count - 1; i++) {
         for (int j = 0; j < count - i - 1; j++) {
             if (ids_encontrados[j] > ids_encontrados[j + 1]) {
@@ -277,7 +273,6 @@ void processar_search(Comando *cmd) {
         }
     }
 
-    // Construir resposta com buffer dinâmico
     size_t resposta_size = 64;
     char *resposta = malloc(resposta_size);
     strcpy(resposta, "[");
@@ -411,7 +406,7 @@ void processar_search_parallel(Comando *cmd) {
     if (count == 0) {
         send_response_to("Nenhum documento encontrado com essa palavra-chave.", cmd->response_pipe);
     } else {
-        // Ordenar
+        
         for (int i = 0; i < count - 1; i++) {
             for (int j = 0; j < count - i - 1; j++) {
                 if (ids_encontrados[j] > ids_encontrados[j + 1]) {
@@ -422,7 +417,6 @@ void processar_search_parallel(Comando *cmd) {
             }
         }
 
-        // Resposta dinâmica
         size_t resposta_size = 64;
         char *resposta = malloc(resposta_size);
         strcpy(resposta, "[");

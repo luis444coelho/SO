@@ -155,7 +155,7 @@ void adicionar_na_cache(Cache *c, Documentos d, int politica) {
     else if (politica == 3)
         adicionar_mru(c, d);
     else
-        return; // Política inválida
+        return; 
 }
 
 

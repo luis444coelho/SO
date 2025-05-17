@@ -4,7 +4,6 @@
 void send_comando(Comando *cmd) {
     snprintf(cmd->response_pipe, sizeof(cmd->response_pipe), "/tmp/resp_pipe_%d", getpid());
 
-    // Criar pipe de resposta exclusivo para este cliente
     mkfifo(cmd->response_pipe, 0666);
 
     int fd = open(PIPE_NAME, O_WRONLY);
