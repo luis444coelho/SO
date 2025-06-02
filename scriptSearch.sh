@@ -53,9 +53,9 @@ testar_search() {
             avg_time_ms=$(echo "scale=3; $total_time_ns / $num_repeticoes / 1000000" | bc)
 
             if [ "$t" -eq 1 ]; then
-                echo "[Tempo médio - SERIAL (1 thread) - '$palavra']: ${avg_time_ms} ms"
+                echo "[Tempo médio - SERIAL (1 Processo) - '$palavra']: ${avg_time_ms} ms"
             else
-                echo "[Tempo médio - PARALELO (${t} threads) - '$palavra']: ${avg_time_ms} ms"
+                echo "[Tempo médio - PARALELO (${t} Processos) - '$palavra']: ${avg_time_ms} ms"
             fi
         done
     done

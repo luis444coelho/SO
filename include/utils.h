@@ -4,7 +4,7 @@
 #include <unistd.h>
 #include <string.h>
 #include <sys/wait.h>
-#include <glib.h>
+
 
 #ifndef utils_H
 #define utils_H
